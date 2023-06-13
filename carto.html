@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+        <style>html, body, table { width: 100vw; height: 100vh }
+               body, table { padding: 0; margin: 0; }
+               .border { border: 1px solid; padding:10px; }
+               span { display: inline-block; }
+        </style>
+    </head>
+    <body>
+        <table>
+        <tr><th colspan="3"> <h3> Avian flu in mammals (ProMED extraction)</h3> </th></tr>
+        <tr style="height:70%">
+        <td id="mapid" style="width:35%;"></td>
+        <td id="mapzoomid" style="width:25%;"></td>
+        <td id="infos" style="width:30%;"> </td>
+        </tr>
+        <tr>
+        <td style="height:25%;" colspan="3">
+            <center>
+                <!--div> <input type="radio"> Pays </input> <input type="radio"> Espèces </input> <br/><br/> </div-->
+                <span id="nbFilteredEvents"></span> / <span id="nbEvents"></span> &nbsp;&nbsp; <input id="forCopy" type="button" value="All events in CSV format (open window for a Ctrl-A copy)" /> <br/>
+                <input id="reset" type="button" value="reset" />
+                <input id="datemin" type="date" value="2020-01-01" />
+                <input id="datemax" type="date"/>
+                <input id="selection" type="button" value="Sélection temporelle" />
+            </center>
+        </td>
+        </tr>
+        </table>
+        </body>
+    </body> 
+    <script src="./countries.js"></script>
+    <script src="./promedJSON.js"></script>
+    <script src="./promedCSV.js"></script>
+    <script src="./filtre_promed.js"></script>
+    <script src="./carto.js"></script>
+    <script>
+        let datemin = document.getElementById("datemin");
+        let datemax = document.getElementById("datemax");
+        datemax.valueAsDate = new Date();
+        reset.addEventListener('click', function(event){
+            console.log('Reset');
+            datemin.valueAsDate = new Date("2020-01-01");
+            datemax.valueAsDate = new Date();
+            majMarkers(promed);  // from carto.js
+        });
+        selection.addEventListener('click', function(event){
+            console.log("Filtering :",datemin.value, "<>", datemax.value);
+            let filtered_promed = filtre(datemin.value, datemax.value);  // from filtre_promed.js
+            majMarkers(filtered_promed);  // from carto.js
+        });
+        forCopy.addEventListener('click', function(event){
+            console.log("forCopy");
+            let newWin = window.open('','newWin','width=500,height=500');
+            newWin.document.open();
+            newWin.document.writeln(promedCSV);
+            newWin.document.close();
+        });
+    </script>
+    
+</html>
