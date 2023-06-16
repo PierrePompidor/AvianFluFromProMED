@@ -38,3 +38,68 @@ Read port: 40879
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehHA5J5/search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:56269/devtools/browser/26e77c99-4520-4ad7-9b30-207a31971ee4
 1686898993538	Marionette	INFO	Stopped listening on port 40879
+1686902343577	geckodriver	INFO	Listening on 127.0.0.1:38223
+1686902344079	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAJpBGf"
+1686902344590	Marionette	INFO	Marionette enabled
+1686902344593	Marionette	INFO	Listening on port 45369
+WebDriver BiDi listening on ws://127.0.0.1:57389
+Read port: 45369
+1686902344793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAJpBGf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57389/devtools/browser/309a0918-443a-43ec-86c6-e7470bdc592e
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1686908810254	Marionette	INFO	Stopped listening on port 45369
+1686910635163	geckodriver	INFO	Listening on 127.0.0.1:38449
+1686910635165	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerOYY0D"
+1686910635964	Marionette	INFO	Marionette enabled
+1686910635967	Marionette	INFO	Listening on port 46189
+WebDriver BiDi listening on ws://127.0.0.1:50489
+Read port: 46189
+1686910636174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerOYY0D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50489/devtools/browser/30296c71-14a8-4908-a771-67f6b3ebf859
+1686910647629	Marionette	INFO	Stopped listening on port 46189
+1686910663945	geckodriver	INFO	Listening on 127.0.0.1:59107
+1686910663948	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileg8WkD2"
+1686910664688	Marionette	INFO	Marionette enabled
+1686910664690	Marionette	INFO	Listening on port 43949
+WebDriver BiDi listening on ws://127.0.0.1:47155
+Read port: 43949
+1686910664836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg8WkD2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47155/devtools/browser/badb9bc1-1d1b-4152-86df-461de1186c60
+1686910676785	Marionette	INFO	Stopped listening on port 43949
+1686915120293	geckodriver	INFO	Listening on 127.0.0.1:34581
+1686915120791	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesey7vc"
+1686915122326	Marionette	INFO	Marionette enabled
+1686915122329	Marionette	INFO	Listening on port 40331
+Read port: 40331
+WebDriver BiDi listening on ws://127.0.0.1:59691
+1686915122442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesey7vc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59691/devtools/browser/a6e996c9-a9ff-44f4-94a3-71be8f9cc95c
+1686915157808	Marionette	INFO	Stopped listening on port 40331
+1686915223772	geckodriver	INFO	Listening on 127.0.0.1:51161
+1686915223774	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerxL03U"
+1686915224756	Marionette	INFO	Marionette enabled
+1686915224759	Marionette	INFO	Listening on port 38879
+Read port: 38879
+WebDriver BiDi listening on ws://127.0.0.1:58887
+1686915224838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerxL03U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58887/devtools/browser/c7c99c83-a459-4e50-a913-a644fc30a4f7
+1686915239190	Marionette	INFO	Stopped listening on port 38879
+1686915291274	geckodriver	INFO	Listening on 127.0.0.1:45695
+1686915291277	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZ6l58n"
+1686915292113	Marionette	INFO	Marionette enabled
+1686915292116	Marionette	INFO	Listening on port 33105
+WebDriver BiDi listening on ws://127.0.0.1:56189
+Read port: 33105
+1686915292308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ6l58n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56189/devtools/browser/7b3e34a4-20bf-4b82-8e75-3278ad9b54d5
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

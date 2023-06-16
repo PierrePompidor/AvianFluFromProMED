@@ -735,7 +735,7 @@ def searchByDates(manualCall, datemin, datemax) :
         print(CSVfileName, "created")
         JSONfileName = "promed "+disease+" "+startDate.replace('/','-')+" "+endDate.replace('/','-')+" "+fullAnalysis+".json"  
         fr = open(JSONfileName, "w")
-        json.dump(eventsJson, JSONfileName, indent=4)
+        json.dump(eventsJson, fr, indent=4)
         fr.close()
         print(JSONfileName, "created")
         print('Merging')
@@ -757,7 +757,7 @@ def searchByDates(manualCall, datemin, datemax) :
             fd.close()
             previousEvents.extend(eventsJson)
             fr = open('promed Influenza.json')
-            json.dump(eventsJson, fr, indent=4)
+            json.dump(previousEvents, fr, indent=4)
             fr.close()
             print(eventsJson.length, 'added in promed Influenza.json')
         except Exception as e :
@@ -773,20 +773,20 @@ def searchById() :
         archive_number = input("date.id <exit 0> : ")
         if archive_number == '0' : return
         if archive_number == '1' :
-            promed_date = '20220415' 
-            promed_id = '8702609'
+            promed_date = '20220805' 
+            promed_id = '8704881'
             break
         if archive_number == '2' :
-            promed_date = '20230403'
-            promed_id = '8709307'
+            promed_date = '20230510'
+            promed_id = '8709973'
             break
         if archive_number == '3' :
-            promed_date = '20220601'
-            promed_id = '8703600'
+            promed_date = '20230405'
+            promed_id = '8709342'
             break
         if archive_number == '4' :
-            promed_date = '20230322'
-            promed_id = '8709090'
+            promed_date = ''
+            promed_id = ''
             break
         res = re.search("(\d{8})\.(\d+)", archive_number)
         if res :
