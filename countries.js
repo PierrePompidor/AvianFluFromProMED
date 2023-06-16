@@ -1400,6 +1400,3 @@ var countries = [
         "lng": "29.154857"
     }
 ];
-
-console.log(countries.length);
-console.log(countries[0]);

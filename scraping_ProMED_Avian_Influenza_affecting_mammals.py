@@ -1,14 +1,13 @@
 # Author : Pierre Pompidor
-# Date : 10/06/2023
+# Date : 16/06/2023
 
 import pandas as pd
-import json, copy, re, requests
+import sys, json, copy, re, requests
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time, datetime
 import csv
-#import scrape_promed_p3 as api
 
 months = {'Jan':'01','Feb':'02','Mar':'03','Apr':'04','May':'05','Jun':'06','Jul':'07','Aug':'08','Sep':'09','Oct':'10','Nov':'11','Dec':'12'}
 criterias = ['vsi_event_id', 'source', 'wahis_id', 'adis_id', 'promed_id', 'promed_archive_number', 'subpost', 'source_fr_id', 'disease', 'region', 'country', 'admin1', 'admin2', 'admin3', 'admin4', 'admin5', 'latitude', 'longitude', 'prim_sec_outb', 'serotype', 'start_date', 'conf_date', 'event_date', 'report_date', 'last_modification_date', 'comp_fr', 'comp_en', 	'species', 'wild_type', 'nb_susceptible', 'nb_cases', 'mortality', 'nb_dead', 'comments', 'production', 'epi_unit', 'test_cat', 'test_name', 'link', 'link2']
@@ -519,9 +518,9 @@ def bodyParsing(result, headerSerotypes, headerSpecies, headerCountries, post_te
         for headerNum in headerDict :
             #print(headerNum, headerDict[headerNum])
             # TRACE
-            FR = open("subpost"+str(headerNum)+".txt", "w")
-            FR.write(headerDict[headerNum])
-            FR.close()
+            #FR = open("subpost"+str(headerNum)+".txt", "w")
+            #FR.write(headerDict[headerNum])
+            #FR.close()
             
             print('-------------------------------------------------------------------------')
             # Extraction of each sub post
@@ -700,38 +699,69 @@ def getPostById(promed_url, driver) :
     except : pass
     return header, body
 
-def searchByDates() :
-    data = str(datetime.datetime.now()).split(' ')[0].split('-')
-    today = data[1]+'/'+data[2]+'/'+data[0]
-    startDate = input("Starting date (mm/dd/aaaa) <if 0: today, 1: 01/01/2023; 2: 01/01/2022; 3: 01/01/2021; 4: 01/01/2020; 5: 01/01/2019> ? ")
-    if startDate == '0' : startDate = today
-    if startDate == '1' : startDate = '01/01/2023'
-    if startDate == '2' : startDate = '01/01/2022'
-    if startDate == '3' : startDate = '01/01/2021'
-    if startDate == '4' : startDate = '01/01/2020'
-    if startDate == '5' : startDate = '01/01/2019' 
-    endDate = input("Ending date (mm/dd/aaaa) <if 0 : "+today+"> ? ")
-    if endDate == '0' : endDate = today
-    if re.match("\d\d/\d\d/\d\d\d\d", startDate) and re.match("\d\d/\d\d/\d\d\d\d", endDate) :
-        diseases = ["avian+influenza"]  #, "bird+flu"]
-        typeOfAnalysis = input("0: analysis on headings / 1: full analysis : ")
-        inDepth = False
-        fullAnalysis = ''
-        if typeOfAnalysis == '1' :
-            inDepth = True
-            fullAnalysis = "fullAnalysis"
-        values = getCasesByDiseasesAndDates(diseases, startDate, endDate, inDepth)
-        if values != [] :
-            df = pd.DataFrame(values, columns=criterias)
-            fileName = "promed "+disease+" "+startDate.replace('/','-')+" "+endDate.replace('/','-')+" "+fullAnalysis+".csv"
-            df.to_csv(fileName, sep=";", quoting=csv.QUOTE_NONNUMERIC)
-            print(fileName, "created")
-            fileName = "promed "+disease+" "+startDate.replace('/','-')+" "+endDate.replace('/','-')+" "+fullAnalysis+".json"  
-            fr = open(fileName, "w")
-            fr.write(json.dumps(eventsJson, indent=4))
+def searchByDates(manualCall, datemin, datemax) :
+    diseases = ["avian+influenza"]  #, "bird+flu"]
+    values = []
+    if manualCall :
+        data = str(datetime.datetime.now()).split(' ')[0].split('-')
+        today = data[1]+'/'+data[2]+'/'+data[0]
+        startDate = input("Starting date (mm/dd/aaaa) <if 0: today, 1: 01/01/2023; 2: 01/01/2022; 3: 01/01/2021; 4: 01/01/2020; 5: 01/01/2019> ? ")
+        if startDate == '0' : startDate = today
+        if startDate == '1' : startDate = '01/01/2023'
+        if startDate == '2' : startDate = '01/01/2022'
+        if startDate == '3' : startDate = '01/01/2021'
+        if startDate == '4' : startDate = '01/01/2020'
+        if startDate == '5' : startDate = '01/01/2019' 
+        endDate = input("Ending date (mm/dd/aaaa) <if 0 : "+today+"> ? ")
+        if endDate == '0' : endDate = today
+        if re.match("\d\d/\d\d/\d\d\d\d", startDate) and re.match("\d\d/\d\d/\d\d\d\d", endDate) :
+            typeOfAnalysis = input("0: analysis on headings / 1: full analysis : ")
+            inDepth = False
+            fullAnalysis = ''
+            if typeOfAnalysis == '1' :
+                inDepth = True
+                fullAnalysis = "fullAnalysis"
+            values = getCasesByDiseasesAndDates(diseases, startDate, endDate, inDepth)
+        else : print("Syntax error in dates")
+    else :  # call with dates in parameters
+        if re.match("\d\d/\d\d/\d\d\d\d", datemin) and re.match("\d\d/\d\d/\d\d\d\d", datemax) :
+            print('Analyse paramétrée entre', datemin, 'et', datemax)
+            values = getCasesByDiseasesAndDates(diseases, datemin, datemax, True)
+        else : print("Syntax error in dates")
+    if values != [] :
+        df = pd.DataFrame(values, columns=criterias)
+        CSVfileName = "promed "+disease+" "+startDate.replace('/','-')+" "+endDate.replace('/','-')+" "+fullAnalysis+".csv"
+        df.to_csv(CSVfileName, sep=";", quoting=csv.QUOTE_NONNUMERIC)
+        print(CSVfileName, "created")
+        JSONfileName = "promed "+disease+" "+startDate.replace('/','-')+" "+endDate.replace('/','-')+" "+fullAnalysis+".json"  
+        fr = open(JSONfileName, "w")
+        json.dump(eventsJson, JSONfileName, indent=4)
+        fr.close()
+        print(JSONfileName, "created")
+        print('Merging')
+        try :
+            fd = open(CSVfileName)
+            fr = open('promed Influenza.csv', 'a')
+            nbLines = 0
+            for line in fd.readlines()[1:] :
+                fr.write(line)
+                nbLines += 1
+            fd.close()
             fr.close()
-            print(fileName, "created")
-    else : print("Syntax error in dates")
+            print(nbLines, 'added in promed Influenza.csv')
+        except Exception as e :
+            print('Error :', e)
+        try :
+            fd = open('promed Influenza.json')
+            previousEvents = json.load(fd)
+            fd.close()
+            previousEvents.extend(eventsJson)
+            fr = open('promed Influenza.json')
+            json.dump(eventsJson, fr, indent=4)
+            fr.close()
+            print(eventsJson.length, 'added in promed Influenza.json')
+        except Exception as e :
+            print('Error :', e)
 
 def searchById() :
     # raccoon dog (2022) : 20220413.8702568
@@ -812,10 +842,15 @@ def searchById() :
 
 species = speciesImportation()
 geographicalEntityImportation()
-while True :
-    response = input("Search by id (1) or by dates (2) <to exit: 0> ? ")
-    if response == '0' : exit(1)
-    elif response == '1' : searchById()
-    elif response == '2' : searchByDates()
+
+if len(sys.argv) == 3 : # scraping... datemin datemax
+    print("Appel paramétré")
+    searchByDates(False, sys.argv[1], sys.argv[2])
+else :
+    while True :
+        response = input("Search by id (1) or by dates (2) <to exit: 0> ? ")
+        if response == '0' : exit(1)
+        elif response == '1' : searchById()
+        elif response == '2' : searchByDates(True, '', '')
 
 

@@ -1,0 +1,40 @@
+1686895069043	geckodriver	INFO	Listening on 127.0.0.1:40351
+1686895069540	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRtZFKt"
+1686895071223	Marionette	INFO	Marionette enabled
+1686895071227	Marionette	INFO	Listening on port 33841
+Read port: 33841
+WebDriver BiDi listening on ws://127.0.0.1:38787
+1686895071341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRtZFKt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38787/devtools/browser/a2d2eb7d-f956-40c6-8d69-6d1421875a7e
+1686895100054	Marionette	INFO	Stopped listening on port 33841
+1686898288967	geckodriver	INFO	Listening on 127.0.0.1:40633
+1686898288969	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletJCqaX"
+1686898290336	Marionette	INFO	Marionette enabled
+1686898290339	Marionette	INFO	Listening on port 42013
+Read port: 42013
+WebDriver BiDi listening on ws://127.0.0.1:34483
+1686898290421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletJCqaX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34483/devtools/browser/b3645dfb-8c7c-44ec-b350-bb8970322a9f
+1686898292956	Marionette	INFO	Stopped listening on port 42013
+1686898530131	geckodriver	INFO	Listening on 127.0.0.1:54655
+1686898530134	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejYDx9G"
+1686898531252	Marionette	INFO	Marionette enabled
+1686898531255	Marionette	INFO	Listening on port 39869
+WebDriver BiDi listening on ws://127.0.0.1:40137
+Read port: 39869
+1686898531463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejYDx9G/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40137/devtools/browser/54d46fb2-80da-45ab-96a2-0c474d089e70
+1686898559827	Marionette	INFO	Stopped listening on port 39869
+1686898968729	geckodriver	INFO	Listening on 127.0.0.1:33979
+1686898968732	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehHA5J5"
+1686898969875	Marionette	INFO	Marionette enabled
+1686898969877	Marionette	INFO	Listening on port 40879
+WebDriver BiDi listening on ws://127.0.0.1:56269
+Read port: 40879
+1686898970047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehHA5J5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56269/devtools/browser/26e77c99-4520-4ad7-9b30-207a31971ee4
+1686898993538	Marionette	INFO	Stopped listening on port 40879
