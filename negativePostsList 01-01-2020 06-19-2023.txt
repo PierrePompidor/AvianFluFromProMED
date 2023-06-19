@@ -1,0 +1,1333 @@
+20200130.6936337:30 Jan 2020 Avian influenza (18): Denmark (ND) poultry, LPAI H5N1, OIE
+20200128.6927574:28 Jan 2020 Avian influenza (17): India (OR) poultry, HPAI H5N1
+20200124.6913195:24 Jan 2020 Avian influenza (16): United Kingdom (Northern Ireland) poultry, NOT
+20200123.6909182:23 Jan 2020 Avian influenza (15): Germany (BB) wild bird, HPAI H5N8, OIE
+20200122.6907496:22 Jan 2020 Avian influenza (14): Poland, wild bird, poultry, H5N8, OIE, spread
+20200122.6907496:22 Jan 2020 Avian influenza (14): Poland, wild bird, poultry, H5N8, OIE, spread
+20200121.6902541:21 Jan 2020 Avian influenza (13): Ukraine (VI) poultry, HPAI H5, OIE
+20200120.6900659:20 Jan 2020 Avian influenza (12): Czech Republic (VY) backyard poultry, HPAI H5N8, OIE
+20200119.6897846:19 Jan 2020 Avian influenza (11): Czech Republic (JK) poultry, HPAI H5N8
+20200117.6895090:17 Jan 2020 Avian influenza (10): China (XJ) wild bird, HPAI H5N6
+20200116.6892603:16 Jan 2020 Avian influenza (09): Hungary (HB) poultry, HPAI H5N8, OIE
+20200115.6890556:15 Jan 2020 Avian influenza (08): Romania (MM) poultry, HPAI H5N8, OIE
+20200113.6887610:13 Jan 2020 Avian influenza (07): Hungary (KE) poultry, H5N8, OIE
+20200113.6887610:13 Jan 2020 Avian influenza (07): Hungary (KE) poultry, H5N8, OIE
+20200113.6887009:13 Jan 2020 Avian influenza (06): China (XJ) wild bird, HPAI H5N6, OIE
+20200111.6884061:11 Jan 2020 Avian influenza (05): Slovakia (NI) backyard poultry, H5N8, OIE
+20200108.6877953:08 Jan 2020 Avian influenza (04): India (CT) poultry, HPAI H5N1, OIE
+20200108.6877259:08 Jan 2020 Avian influenza (03): United Kingdom (Northern Ireland) poultry, suspected, RFI, NOT
+20200108.6877259:08 Jan 2020 Avian influenza (03): United Kingdom (Northern Ireland) poultry, suspected, RFI, NOT
+20200106.6874145:06 Jan 2020 Avian influenza (02): Poland (LU, WP) poultry, HPAI H5N8, spread
+20200102.6867443:02 Jan 2020 Avian influenza (01): Poland (LU) poultry, H5N8, OIE
+20200225.7025552:25 Feb 2020 Avian influenza (29): Bulgaria (PD) poultry, HPAI H5N8, spread
+20200223.7017760:23 Feb 2020 Avian influenza (28): India (OR) poultry, HPAI H5N1, OIE
+20200220.7008828:20 Feb 2020 Avian influenza (27): Bulgaria (PD) poultry, HPAI H5N8, OIE
+20200219.7005518:19 Feb 2020 Avian influenza (26): Viet Nam (TV) backyard, HPAI H5N1, OIE
+20200217.6998552:17 Feb 2020 Avian influenza (25): Czech Republic (EK) poultry, commercial farm, HPAI H5N8
+20200211.6979169:11 Feb 2020 Avian influenza (24): China (SC) poultry, HPAI H5N6, OIE
+20200211.6978876:11 Feb 2020 Avian influenza (23): Germany (BW) backyard poultry, HPAI H5N8, OIE
+20200208.6967624:08 Feb 2020 Avian influenza, human: China (Hong Kong) H9N2
+20200208.6967624:08 Feb 2020 Avian influenza, human: China (Hong Kong) H9N2
+20200208.6966954:08 Feb 2020 Avian influenza (22): China (HN) poultry, HPAI H5N1, OIE
+20200205.6958447:05 Feb 2020 Avian influenza (21): Viet Nam (QN) backyard, HPAI H5N6, OIE
+20200205.6954045:05 Feb 2020 Avian influenza (20): Saudi Arabia (RI) poultry, HPAI H5N8, OIE
+20200202.6945785:02 Feb 2020 Avian influenza (19): China (HN) poultry, HPAI H5N1
+20200327.7147622:27 Mar 2020 Avian influenza (36): Hungary (BK) poultry, HPAI H5N8, OIE
+20200325.7139260:25 Mar 2020 Avian influenza (35): Europe, poultry, wild, HPAI H5N8, LPAI H6N1
+20200323.7130557:23 Mar 2020 Avian influenza (34): Germany (NI) poultry, HPAI H5N8, OIE
+20200319.7113880:19 Mar 2020 Avian influenza (33): USA (NC) poultry, LPAI H7N3, OIE
+20200318.7103916:18 Mar 2020 Avian influenza (32): Philippines (NE) backyard poultry, HPAI H5N6, OIE
+20200317.7102102:17 Mar 2020 Avian influenza (31): Germany (SN) backyard poultry, HPAI H5N8, OIE
+20200309.7059887:09 Mar 2020 Avian influenza, human (02): Senegal, India, H9N2, WHO, RFI
+20200308.7062042:08 Mar 2020 Avian influenza (30): India (KL) poultry, untyped
+20200428.7277841:28 Apr 2020 Avian influenza (41): Hungary (BK, CS) poultry, HPAI H5N8, spread
+20200410.7209089:10 Apr 2020 Avian influenza (40): USA (SC) poultry, HPAI H7N3, OIE
+20200410.7206731:10 Apr 2020 Avian Influenza (39): USA (SC) poultry, HPAI H7N3
+20200407.7195272:07 Apr 2020 Avian influenza, human (03): China (GD) H9N2, WHO
+20200404.7180548:04 Apr 2020 Avian influenza (38): India, poultry, wild bird, HPAI H5N1, OIE
+20200404.7180548:04 Apr 2020 Avian influenza (38): India, poultry, wild bird, HPAI H5N1, OIE
+20200403.7176779:03 Apr 2020 Avian influenza (38): Hungary (CS) poultry, HPAI H5N8, OIE
+20200401.7168460:01 Apr 2020 Avian influenza (37): Germany (ST) poultry, HPAI H5N8, OIE
+20200530.7392699:30 May 2020 Avian influenza, human (04): China (FJ, SD) H9N2, new cases
+20200519.7354182:19 May 2020 Avian influenza (44): Iraq (NI) HPAI, poultry, H5N8, OIE
+20200511.7323954:11 May 2020 Avian influenza (43): Viet Nam (CN, DT, VL) backyard, HPAI H5N1, OIE
+20200501.7289038:01 May 2020 Avian influenza (42): Hungary (BE) poultry, HPAI H5N8, spread, OIE
+20200625.7507474:25 Jun 2020 Avian influenza (47): Italy (LM) poultry, LPAI H5N3, OIE
+20200621.7489706:21 Jun 2020 Avian influenza (46): Bulgaria (PD) poultry, HPAI H5N8, OIE
+20200604.7424094:04 Jun 2020 Avian influenza (45): India, poultry, wild bird, zoo, HPAI H5N1, OIE
+20200604.7424094:04 Jun 2020 Avian influenza (45): India, poultry, wild bird, zoo, HPAI H5N1, OIE
+20200604.7424094:04 Jun 2020 Avian influenza (45): India, poultry, wild bird, zoo, HPAI H5N1, OIE
+20200604.7424094:04 Jun 2020 Avian influenza (45): India, poultry, wild bird, zoo, HPAI H5N1, OIE
+20200604.7424094:04 Jun 2020 Avian influenza (45): India, poultry, wild bird, zoo, HPAI H5N1, OIE
+20200731.7633027:31 Jul 2020 Avian influenza (50): Australia (VI) poultry, HPAI H7N7, OIE
+20200729.7625802:29 Jul 2020 Avian influenza (49): Philippines (PM) poultry, HPAI H5N6, OIE
+20200709.7556825:09 Jul 2020 Avian influenza (48): Viet Nam (QG) backyard, HPAI H5N6, OIE
+20200828.7723980:28 Aug 2020 Avian influenza (60): Australia (VI) emu LPAI H7N6, chicken LPAI H7N6, HPAI H7N7
+20200827.7719472:27 Aug 2020 Avian influenza (59): Australia (VI) turkey LPAI H5N2, chicken HPAI H7N7
+20200826.7718216:26 Aug 2020 Avian influenza (58): Taiwan (YL) chicken, HPAI H5N2, OIE
+20200826.7718081:26 Aug 2020 Avian influenza (57): Russia (OM) HPAI H5, poultry, OIE
+20200821.7703638:21 Aug 2020 Avian influenza (56): South Africa (WC) ostrich, LPAI H7, OIE
+20200816.7679925:16 Aug 2020 Avian influenza (55): Australia (VI) turkey, LPAI, H5N2
+20200812.7670564:12 Aug 2020 Avian influenza (54): Australia (VI) poultry, LPAI H5N2, OIE
+20200810.7663163:10 Aug 2020 Avian influenza (53): Viet Nam (TV) backyard, HPAI H5N1, OIE
+20200806.7652834:06 Aug 2020 Avian influenza (52): Russia (CL) HPAI H5N8, poultry, OIE
+20200803.7640343:03 Aug 2020 Avian influenza (51): Australia (VI) poultry, HPAI H7N7
+20200926.7815554:26 Sep 2020 Avian influenza (63): Kazakhstan (AM) poultry, HPAI H5, spread susp
+20200919.7796269:19 Sep 2020 Avian influenza (62): Kazakhstan (NK) poultry, wild bird, HPAI H5, OIE
+20200919.7796269:19 Sep 2020 Avian influenza (62): Kazakhstan (NK) poultry, wild bird, HPAI H5, OIE
+20200908.7757987:08 Sep 2020 Avian influenza (61): Russia (TY) HPAI H5, wild bird, OIE
+20201031.7905813:31 Oct 2020 Avian influenza (75): Netherlands (GE) poultry, HPAI H5N8, OIE
+20201030.7902659:30 Oct 2020 Avian influenza (74): Netherlands (GE) poultry, HPAI H5N8 susp
+20201028.7898533:28 Oct 2020 Avian influenza (73): Russia (KT) HPAI H5N8, poultry, spread, OIE
+20201026.7892464:26 Oct 2020 Avian influenza (72): Kazakhstan (NK) poultry, wild, HPAI H5N8, epidemiology
+20201026.7891356:26 Oct 2020 Avian influenza (70): Netherlands (UT) wild bird, HPAI H5N8, OIE
+20201026.7890373:26 Oct 2020 Avian influenza (71): South Korea (HN) H5N8, wild bird
+20201015.7865365:15 Oct 2020 Avian influenza (69): South Africa (WC) ostrich, LPAI H5, OIE
+20201015.7864774:15 Oct 2020 Avian influenza (68): Israel (JM) wild bird, zoo, HPAI H5N8, OIE
+20201014.7861465:14 Oct 2020 Avian influenza (67): Israel (HA) poultry, HPAI H5N8, OIE
+20201013.7859214:13 Oct 2020 Avian influenza (66): Israel (HA), H5N8, poultry
+20201006.7840560:06 Oct 2020 Avian influenza (65): Russia (KC) HPAI H5, poultry, spread, OIE
+20201006.7838872:06 Oct 2020 Avian influenza (64): Russia, H5N8, Kazakhstan, H5, poultry, spread, OIE
+20201004.7835005:04 Oct 2020 Avian influenza, human (05): China (GD) H9N2, new case
+20201130.7982468:30 Nov 2020 Avian influenza (99): UK, wild bird, HPAI H5N8
+20201129.7980331:29 Nov 2020 Avian influenza (98): Europe, wild bird, poultry, H5N8, H5N5, H5, OIE
+20201129.7980331:29 Nov 2020 Avian influenza (98): Europe, wild bird, poultry, H5N8, H5N5, H5, OIE
+20201129.7980331:29 Nov 2020 Avian influenza (98): Europe, wild bird, poultry, H5N8, H5N5, H5, OIE
+20201128.7978159:28 Nov 2020 Avian influenza (97): Germany, Poland, wild bird, poultry, H5N8, H5N5, OIE
+20201128.7978159:28 Nov 2020 Avian influenza (97): Germany, Poland, wild bird, poultry, H5N8, H5N5, OIE
+20201128.7978159:28 Nov 2020 Avian influenza (97): Germany, Poland, wild bird, poultry, H5N8, H5N5, OIE
+20201128.7978159:28 Nov 2020 Avian influenza (97): Germany, Poland, wild bird, poultry, H5N8, H5N5, OIE
+20201128.7978159:28 Nov 2020 Avian influenza (97): Germany, Poland, wild bird, poultry, H5N8, H5N5, OIE
+20201127.7976081:27 Nov 2020 Avian influenza (96): Iran (MK) HPAI, wild bird, H5N8, OIE
+20201125.7971718:25 Nov 2020 Avian influenza (95): UK, wild bird, HPAI H5N8
+20201124.7968466:24 Nov 2020 Avian influenza (94): Croatia (KK) poultry HPAI H5N8, OIE
+20201124.7968361:24 Nov 2020 Avian influenza (93): Italy (LM) poultry, LPAI H5, OIE
+20201122.7962047:22 Nov 2020 Avian influenza (92): Japan (KG) poultry, HPAI H5N8, susp
+20201120.7957840:20 Nov 2020 Avian influenza (91): Sweden, Germany, poultry, wild bird, HPAI H5N8, OIE
+20201120.7957840:20 Nov 2020 Avian influenza (91): Sweden, Germany, poultry, wild bird, HPAI H5N8, OIE
+20201120.7957840:20 Nov 2020 Avian influenza (91): Sweden, Germany, poultry, wild bird, HPAI H5N8, OIE
+20201119.7955803:19 Nov 2020 Avian influenza (90): Belgium, wild bird, HPAI H5N8, OIE
+20201119.7954116:19 Nov 2020 Avian influenza (89): France, Denmark, poultry, HPAI H5N8, OIE
+20201119.7954116:19 Nov 2020 Avian influenza (89): France, Denmark, poultry, HPAI H5N8, OIE
+20201116.7947613:16 Nov 2020 Avian influenza (88): Laos (SL) poultry, HPAI H5N1, OIE
+20201113.7942474:13 Nov 2020 Avian influenza (87): Germany (MV) poultry, HPAI H5N8, OIE
+20201113.7941886:13 Nov 2020 Avian influenza (86): Ireland, Denmark, wild bird, HPAI H5N8, OIE
+20201113.7941886:13 Nov 2020 Avian influenza (86): Ireland, Denmark, wild bird, HPAI H5N8, OIE
+20201113.7939962:13 Nov 2020 Avian influenza, human (06): Laos (SL) H5N1, WHO
+20201112.7938775:12 Nov 2020 Avian influenza (85): Germany (MV) poultry, HPAI H5N5, OIE
+20201112.7938593:12 Nov 2020 Avian influenza (84): UK (England) wild bird, poultry, HPAI H5N8, OIE
+20201112.7938593:12 Nov 2020 Avian influenza (84): UK (England) wild bird, poultry, HPAI H5N8, OIE
+20201112.7938593:12 Nov 2020 Avian influenza (84): UK (England) wild bird, poultry, HPAI H5N8, OIE
+20201111.7935753:11 Nov 2020 Avian influenza (83): Germany, Netherlands, wild bird, HPAI H5N8, H5N1, OIE
+20201111.7935753:11 Nov 2020 Avian influenza (83): Germany, Netherlands, wild bird, HPAI H5N8, H5N1, OIE
+20201110.7931494:10 Nov 2020 Avian influenza (82): Germany (MV,BB) wild bird, HPAI H5N8, OIE
+20201110.7931494:10 Nov 2020 Avian influenza (82): Germany (MV,BB) wild bird, HPAI H5N8, OIE
+20201109.7928569:09 Nov 2020 Avian influenza (81): Japan (KG) poultry, HPAI H5N8, OIE
+20201107.7924133:07 Nov 2020 Avian influenza (80): South Korea (HN, KG) HPAI H5N8, wild bird, OIE
+20201107.7924131:07 Nov 2020 Avian influenza (79): Denmark, wild bird, HPAI H5N5, OIE
+20201106.7920321:06 Nov 2020 Avian influenza (78): Germany (SH, MV) poultry, wild bird, HPAI H5N8, H5N5, OIE
+20201106.7920321:06 Nov 2020 Avian influenza (78): Germany (SH, MV) poultry, wild bird, HPAI H5N8, H5N5, OIE
+20201106.7920321:06 Nov 2020 Avian influenza (78): Germany (SH, MV) poultry, wild bird, HPAI H5N8, H5N5, OIE
+20201106.7920321:06 Nov 2020 Avian influenza (78): Germany (SH, MV) poultry, wild bird, HPAI H5N8, H5N5, OIE
+20201103.7913786:03 Nov 2020 Avian influenza (77): UK (England) poultry, LPAI H5N2, HPAI H5N8
+20201103.7913786:03 Nov 2020 Avian influenza (77): UK (England) poultry, LPAI H5N2, HPAI H5N8
+20201103.7912764:03 Nov 2020 Avian influenza (76): Germany (HH) wild bird, HPAI H5N8, OIE
+20201229.8055805:29 Dec 2020 Avian influenza (120): Ukraine (KV) poultry, HPAI H5, OIE
+20201229.8053392:29 Dec 2020 Avian influenza (119): Germany (SN) poultry, HPAI H5N8, OIE
+20201227.8048888:27 Dec 2020 Avian influenza (118): Russia (RO) HPAI H5, wild bird, OIE
+20201227.8043141:27 Dec 2020 Avian influenza, human (08): China (HN) H5N6, new case
+20201227.8043141:27 Dec 2020 Avian influenza, human (08): China (HN) H5N6, new case
+20201224.8044403:24 Dec 2020 Avian influenza (117): Japan, wild bird, HPAI H5N8, OIE
+20201224.8044193:24 Dec 2020 Avian influenza (116): Belgium (WV), poultry, LPAI H5 OIE
+20201223.8041976:23 Dec 2020 Avian influenza (115): Iran (TE) HPAI, poultry, H5N8, OIE
+20201223.8039475:23 Dec 2020 Avian influenza (114): UK, Germany, poultry, wild bird, HPAI H5N1, H5N3, OIE
+20201223.8039475:23 Dec 2020 Avian influenza (114): UK, Germany, poultry, wild bird, HPAI H5N1, H5N3, OIE
+20201219.8031759:19 Dec 2020 Avian influenza (113): UK, poultry, captive bird, HPAI H5N8, spread, control
+20201219.8031759:19 Dec 2020 Avian influenza (113): UK, poultry, captive bird, HPAI H5N8, spread, control
+20201218.8029519:18 Dec 2020 Avian influenza (112): UK, wild bird, HPAI H5N5
+20201218.8025563:18 Dec 2020 Avian influenza (111): Europe, poultry, captive/wild bird, H5N1, H5N5, H5N8, OIE
+20201218.8025563:18 Dec 2020 Avian influenza (111): Europe, poultry, captive/wild bird, H5N1, H5N5, H5N8, OIE
+20201218.8025563:18 Dec 2020 Avian influenza (111): Europe, poultry, captive/wild bird, H5N1, H5N5, H5N8, OIE
+20201218.8025563:18 Dec 2020 Avian influenza (111): Europe, poultry, captive/wild bird, H5N1, H5N5, H5N8, OIE
+20201218.8025563:18 Dec 2020 Avian influenza (111): Europe, poultry, captive/wild bird, H5N1, H5N5, H5N8, OIE
+20201215.8021132:15 Dec 2020 Avian influenza (110): poultry, HPAI, Japan, H5, South Korea (CN) H5N8, spread
+20201215.8021132:15 Dec 2020 Avian influenza (110): poultry, HPAI, Japan, H5, South Korea (CN) H5N8, spread
+20201215.8016080:15 Dec 2020 Avian influenza, human (07): China (JS) H5N6
+20201215.8016080:15 Dec 2020 Avian influenza, human (07): China (JS) H5N6
+20201214.8018047:14 Dec 2020 Avian influenza (109): Ireland, Germany, poultry, wild bird, HPAI H5N8, OIE
+20201214.8018047:14 Dec 2020 Avian influenza (109): Ireland, Germany, poultry, wild bird, HPAI H5N8, OIE
+20201214.8017821:14 Dec 2020 Avian influenza (108): Netherlands, poultry, LPAI H5 OIE
+20201211.8010816:11 Dec 2020 Avian influenza (107): Poland, UK, wild bird, HPAI H5N8, H5N5, OIE
+20201211.8010816:11 Dec 2020 Avian influenza (107): Poland, UK, wild bird, HPAI H5N8, H5N5, OIE
+20201209.8005714:09 Dec 2020 Avian influenza (106): Poland, Belgium, poultry, captive bird, HPAI H5N8, H5, OIE
+20201209.8005714:09 Dec 2020 Avian influenza (106): Poland, Belgium, poultry, captive bird, HPAI H5N8, H5, OIE
+20201209.8003821:09 Dec 2020 Avian influenza (105): China (SX) wild bird, HPAI H5N8, OIE
+20201207.7998763:07 Dec 2020 Avian influenza (104): France, Ukraine, wild bird, poultry, HPAI H5, OIE
+20201207.7998763:07 Dec 2020 Avian influenza (104): France, Ukraine, wild bird, poultry, HPAI H5, OIE
+20201204.7991285:04 Dec 2020 Avian influenza (103): Poland (MZ) turkey, H5N8, OIE
+20201202.7988670:02 Dec 2020 Avian influenza (102): Europe, wild bird, poultry, H5N8, H5N5, H5N1, spread
+20201202.7986533:02 Dec 2020 Avian influenza (101): South Korea (CB) poultry, HPAI H5N8, OIE
+20201201.7983360:01 Dec 2020 Avian influenza (100): Europe, wild bird, H5N8, H5N5, spread, OIE
+20201201.7983360:01 Dec 2020 Avian influenza (100): Europe, wild bird, H5N8, H5N5, spread, OIE
+20201201.7983360:01 Dec 2020 Avian influenza (100): Europe, wild bird, H5N8, H5N5, spread, OIE
+20201201.7983360:01 Dec 2020 Avian influenza (100): Europe, wild bird, H5N8, H5N5, spread, OIE
+20201201.7983360:01 Dec 2020 Avian influenza (100): Europe, wild bird, H5N8, H5N5, spread, OIE
+20210129.8148832:29 Jan 2021 Avian influenza (21): Europe, wild bird, poultry, H5N8, H5N5, H5N4, H5N3, OIE
+20210129.8148832:29 Jan 2021 Avian influenza (21): Europe, wild bird, poultry, H5N8, H5N5, H5N4, H5N3, OIE
+20210129.8148832:29 Jan 2021 Avian influenza (21): Europe, wild bird, poultry, H5N8, H5N5, H5N4, H5N3, OIE
+20210129.8148832:29 Jan 2021 Avian influenza (21): Europe, wild bird, poultry, H5N8, H5N5, H5N4, H5N3, OIE
+20210129.8148832:29 Jan 2021 Avian influenza (21): Europe, wild bird, poultry, H5N8, H5N5, H5N4, H5N3, OIE
+20210128.8139638:28 Jan 2021 Avian influenza (20): Europe, poultry, captive bird, H5N8, H5N5, OIE
+20210128.8139638:28 Jan 2021 Avian influenza (20): Europe, poultry, captive bird, H5N8, H5N5, OIE
+20210128.8139638:28 Jan 2021 Avian influenza (20): Europe, poultry, captive bird, H5N8, H5N5, OIE
+20210128.8139638:28 Jan 2021 Avian influenza (20): Europe, poultry, captive bird, H5N8, H5N5, OIE
+20210126.8138104:26 Jan 2021 Avian influenza (19): India, China, wild bird, HPAI H5N8, OIE
+20210126.8138104:26 Jan 2021 Avian influenza (19): India, China, wild bird, HPAI H5N8, OIE
+20210126.8138104:26 Jan 2021 Avian influenza (19): India, China, wild bird, HPAI H5N8, OIE
+20210124.8132562:24 Jan 2021 Avian influenza (18): Europe, wild bird, H5N8, OIE
+20210124.8132562:24 Jan 2021 Avian influenza (18): Europe, wild bird, H5N8, OIE
+20210124.8132562:24 Jan 2021 Avian influenza (18): Europe, wild bird, H5N8, OIE
+20210124.8132321:24 Jan 2021 Avian influenza (17): Kuwait (JA) HPAI, poultry, H5N8, OIE
+20210121.8123930:21 Jan 2021 Avian influenza (16): Europe, wild bird, poultry, HPAI H5N1, H5N3, H5N5, OIE
+20210121.8123930:21 Jan 2021 Avian influenza (16): Europe, wild bird, poultry, HPAI H5N1, H5N3, H5N5, OIE
+20210121.8123930:21 Jan 2021 Avian influenza (16): Europe, wild bird, poultry, HPAI H5N1, H5N3, H5N5, OIE
+20210120.8121086:20 Jan 2021 Avian influenza (15): Iraq (SD) HPAI, poultry, H5N8, OIE
+20210120.8111218:20 Jan 2021 Avian influenza, human (01): China (GD) H9N2, alert
+20210119.8118153:19 Jan 2021 Avian influenza (14): Iraq (SD) poultry, HPAI H5N8
+20210118.8114955:18 Jan 2021 Avian influenza (13): India, poultry, HPAI H5N8, H5N1, OIE
+20210118.8114955:18 Jan 2021 Avian influenza (13): India, poultry, HPAI H5N8, H5N1, OIE
+20210118.8114955:18 Jan 2021 Avian influenza (13): India, poultry, HPAI H5N8, H5N1, OIE
+20210118.8113830:18 Jan 2021 Avian influenza (12): China (Hong Kong) wild bird, HPAI H5N8, OIE
+20210118.8112279:18 Jan 2021 Avian influenza (11): Hungary, Romania, poultry, wild bird, H5N8, H5, OIE
+20210118.8112279:18 Jan 2021 Avian influenza (11): Hungary, Romania, poultry, wild bird, H5N8, H5, OIE
+20210115.8104589:15 Jan 2021 Avian influenza (10): Cambodia (BA) poultry, HPAI H5N1, OIE
+20210114.8102820:14 Jan 2021 Avian influenza (09): France (LP) poultry, LPAI H5N3, OIE
+20210112.8095666:12 Jan 2021 Avian influenza (08): Hungary, Germany, poultry, wild/captive bird, H5N8, OIE
+20210112.8095666:12 Jan 2021 Avian influenza (08): Hungary, Germany, poultry, wild/captive bird, H5N8, OIE
+20210112.8095666:12 Jan 2021 Avian influenza (08): Hungary, Germany, poultry, wild/captive bird, H5N8, OIE
+20210112.8095666:12 Jan 2021 Avian influenza (08): Hungary, Germany, poultry, wild/captive bird, H5N8, OIE
+20210111.8092866:11 Jan 2021 Avian influenza (07): India (KL), poultry, HPAI H5N8, OIE
+20210110.8087952:10 Jan 2021 Avian influenza (06): Lithuania, Slovakia, poultry, wild/captive bird, H5N8, OIE
+20210110.8087952:10 Jan 2021 Avian influenza (06): Lithuania, Slovakia, poultry, wild/captive bird, H5N8, OIE
+20210110.8087952:10 Jan 2021 Avian influenza (06): Lithuania, Slovakia, poultry, wild/captive bird, H5N8, OIE
+20210108.8085504:08 Jan 2021 Avian influenza (05): Senegal (TH) poultry, HPAI H5N1, 1st rep, OIE
+20210105.8074543:05 Jan 2021 Avian influenza (04): Sweden (SN), poultry, HPAI H5N8, OIE
+20210105.8072963:05 Jan 2021 Die-off, avian - India: (HP) migratory waterbird, avian influenza susp.
+20210104.8070826:04 Jan 2021 Avian influenza (03): Slovenia (JP), swan, HPAI H5N5, OIE
+20210104.8069964:04 Jan 2021 Avian influenza (02): Taiwan (Aogu Wetlands Forest Park) wild duck, HPAI H5, OIE
+20210101.8063844:01 Jan 2021 Avian influenza (01): Germany, Ukraine, wild bird, poultry, HPAI H5, H5N8, OIE
+20210101.8063844:01 Jan 2021 Avian influenza (01): Germany, Ukraine, wild bird, poultry, HPAI H5, H5N8, OIE
+20210101.8063844:01 Jan 2021 Avian influenza (01): Germany, Ukraine, wild bird, poultry, HPAI H5, H5N8, OIE
+20210228.8217634:28 Feb 2021 Avian influenza, human (03): Russia, H5N8, update
+20210226.8215583:26 Feb 2021 Avian influenza (38): Sweden, Afghanistan, poultry, HPAI H5N8, OIE
+20210226.8215583:26 Feb 2021 Avian influenza (38): Sweden, Afghanistan, poultry, HPAI H5N8, OIE
+20210222.8206662:22 Feb 2021 Avian influenza (37): Estonia (LV), poultry, HPAI H5N8, OIE
+20210222.8201042:22 Feb 2021 Avian influenza (37): India (BR) HPAI H5N8, crow, alert
+20210221.8204014:21 Feb 2021 Avian influenza, human (02): Russia, H5N8, 1st rep
+20210221.8204014:21 Feb 2021 Avian influenza, human (02): Russia, H5N8, 1st rep
+20210221.8204014:21 Feb 2021 Avian influenza, human (02): Russia, H5N8, 1st rep
+20210217.8196269:17 Feb 2021 Avian influenza (36): Europe, wild bird, HPAI H5N5, H5N8, OIE
+20210217.8196269:17 Feb 2021 Avian influenza (36): Europe, wild bird, HPAI H5N5, H5N8, OIE
+20210217.8196269:17 Feb 2021 Avian influenza (36): Europe, wild bird, HPAI H5N5, H5N8, OIE
+20210213.8189507:13 Feb 2021 Avian influenza (35): Japan (CH), Nepal (KT), poultry, HPAI H5N8
+20210213.8189507:13 Feb 2021 Avian influenza (35): Japan (CH), Nepal (KT), poultry, HPAI H5N8
+20210213.8189223:13 Feb 2021 Avian influenza (34): Europe, wild bird, poultry, HPAI H5N5, H5N8, H5N3, OIE
+20210213.8189223:13 Feb 2021 Avian influenza (34): Europe, wild bird, poultry, HPAI H5N5, H5N8, H5N3, OIE
+20210213.8189223:13 Feb 2021 Avian influenza (34): Europe, wild bird, poultry, HPAI H5N5, H5N8, H5N3, OIE
+20210212.8187063:12 Feb 2021 Avian influenza (33): Latvia (JM) wild bird, HPAI H5N8, 1st rep
+20210211.8185113:11 Feb 2021 Avian influenza (32): Bulgaria, Latvia, poultry, wild bird, H5, HPAI H5N8, OIE
+20210211.8185113:11 Feb 2021 Avian influenza (32): Bulgaria, Latvia, poultry, wild bird, H5, HPAI H5N8, OIE
+20210211.8183060:11 Feb 2021 Avian influenza (31): Algeria (OB) poultry, HPAI H5N8, OIE
+20210210.8182954:10 Feb 2021 Avian influenza (30): China (JS) wild bird, HPAI H5N8, OIE
+20210207.8171652:07 Feb 2021 Avian influenza (29): Europe, wild bird, poultry HPAI H5N8, H5N4, LPAI H7N7, OIE
+20210207.8171652:07 Feb 2021 Avian influenza (29): Europe, wild bird, poultry HPAI H5N8, H5N4, LPAI H7N7, OIE
+20210207.8171652:07 Feb 2021 Avian influenza (29): Europe, wild bird, poultry HPAI H5N8, H5N4, LPAI H7N7, OIE
+20210207.8171652:07 Feb 2021 Avian influenza (29): Europe, wild bird, poultry HPAI H5N8, H5N4, LPAI H7N7, OIE
+20210205.8168010:05 Feb 2021 Avian influenza (27): China (Hong Kong, Beijing) wild bird, HPAI H5N8, OIE
+20210205.8168010:05 Feb 2021 Avian influenza (27): China (Hong Kong, Beijing) wild bird, HPAI H5N8, OIE
+20210205.8168009:05 Feb 2021 Avian influenza (26): Mauritania, Senegal, wild bird, HPAI H5N1, OIE
+20210205.8168009:05 Feb 2021 Avian influenza (26): Mauritania, Senegal, wild bird, HPAI H5N1, OIE
+20210205.8166637:05 Feb 2021 Avian influenza (28): Nigeria (KN) poultry, H5N1, OIE
+20210205.8166203:05 Feb 2021 Avian influenza (25): Bulgaria (PV) poultry, HPAI, st pending
+20210204.8164212:04 Feb 2021 Avian influenza (24): Germany (BB) poultry, HPAI H5N8, spread
+20210202.8156270:02 Feb 2021 Avian influenza (23): India, Nepal, Germany, poultry, wild bird, HPAI H5N1, H5N8, OIE
+20210202.8156270:02 Feb 2021 Avian influenza (23): India, Nepal, Germany, poultry, wild bird, HPAI H5N1, H5N8, OIE
+20210202.8156270:02 Feb 2021 Avian influenza (23): India, Nepal, Germany, poultry, wild bird, HPAI H5N1, H5N8, OIE
+20210202.8156270:02 Feb 2021 Avian influenza (23): India, Nepal, Germany, poultry, wild bird, HPAI H5N1, H5N8, OIE
+20210202.8156270:02 Feb 2021 Avian influenza (23): India, Nepal, Germany, poultry, wild bird, HPAI H5N1, H5N8, OIE
+20210201.8155983:01 Feb 2021 Avian influenza (22): Senegal, wild bird, HPAI H5N1
+20210331.8280942:31 Mar 2021 Avian influenza (51): France (ND) wild bird, HPAI H5N1, OIE, 1st rep
+20210329.8276712:29 Mar 2021 Avian influenza (50): UK (England) poultry, HPAI H5N8
+20210329.8275721:29 Mar 2021 Avian influenza (49): Cambodia (PY) conservation area, wild bird, HPAI H5N1
+20210325.8269462:25 Mar 2021 Avian influenza (48): Netherlands, Austria, wild bird, HPAI H5N4, H5, OIE
+20210325.8269462:25 Mar 2021 Avian influenza (48): Netherlands, Austria, wild bird, HPAI H5N4, H5, OIE
+20210325.8265645:25 Mar 2021 Avian influenza, human (04): China (GX) H5N6, fatal
+20210322.8262620:22 Mar 2021 Avian influenza (47): Europe, wild bird, HPAI H5, H5N5, OIE
+20210322.8262620:22 Mar 2021 Avian influenza (47): Europe, wild bird, HPAI H5, H5N5, OIE
+20210322.8262620:22 Mar 2021 Avian influenza (47): Europe, wild bird, HPAI H5, H5N5, OIE
+20210320.8259344:20 Mar 2021 Avian influenza (46): Niger (NI) poultry, HPAI H5N1, OIE
+20210316.8251236:16 Mar 2021 Avian influenza (44): Europe (Hungary) Taiwan, wild bird, H5N8, H5N5, OIE
+20210316.8251236:16 Mar 2021 Avian influenza (44): Europe (Hungary) Taiwan, wild bird, H5N8, H5N5, OIE
+20210316.8251236:16 Mar 2021 Avian influenza (44): Europe (Hungary) Taiwan, wild bird, H5N8, H5N5, OIE
+20210314.8247044:14 Mar 2021 Avian influenza (43): Kuwait (JA) HPAI, poultry, H5N8, OIE
+20210307.8233277:07 Mar 2021 Avian influenza (42): Algeria (BT) poultry, HPAI H5N8, spread
+20210306.8232248:06 Mar 2021 Avian influenza (41): Sweden (SN), Niger (NI) poultry, HPAI H5N5, H5N1, OIE
+20210306.8232248:06 Mar 2021 Avian influenza (41): Sweden (SN), Niger (NI) poultry, HPAI H5N5, H5N1, OIE
+20210305.8228959:05 Mar 2021 Avian influenza (40): Sweden (HA) poultry, HPAI H5N8, OIE
+20210303.8225607:03 Mar 2021 Avian influenza (39): Ukraine (KS) wild bird, HPAI H5, OIE
+20210428.8334188:28 Apr 2021 Avian influenza (67): Europe (Germany, Bulgaria) poultry, HPAI H5N8, H5, OIE
+20210428.8334188:28 Apr 2021 Avian influenza (67): Europe (Germany, Bulgaria) poultry, HPAI H5N8, H5, OIE
+20210426.8329375:26 Apr 2021 Avian influenza (66): Russia (DA) wild bird, HPAI H5, OIE
+20210425.8327505:25 Apr 2021 Avian influenza, human (07): China (FJ, HU) H9N2
+20210424.8325211:24 Apr 2021 Avian influenza (65): Europe (Romania, Slovakia) poultry, HPAI H5N5, H5N1, OIE
+20210424.8325211:24 Apr 2021 Avian influenza (65): Europe (Romania, Slovakia) poultry, HPAI H5N5, H5N1, OIE
+20210417.8313253:17 Apr 2021 Avian influenza (64): Mali, poultry, HPAI H5N1, 1st rep, OIE
+20210416.8311802:16 Apr 2021 Avian influenza (63): Hungary (HB) poultry, H5N1, OIE
+20210416.8311635:16 Apr 2021 Avian influenza (62): China (LN) wild bird, HPAI H5N6, OIE
+20210415.8309369:15 Apr 2021 Avian influenza (61): Russia (AS) wild bird, HPAI H5N5 OIE
+20210414.8307559:14 Apr 2021 Avian influenza (60): South Africa (GT) poultry, HPAI H5, OIE
+20210412.8303400:12 Apr 2021 Avian influenza (59): Germany (BE) poultry, HPAI H5N8, OIE
+20210412.8302428:12 Apr 2021 Avian influenza (58): India (HP) HPAI H5N8, goose, alert
+20210412.8301144:12 Apr 2021 Avian influenza, human (06): Laos, H5N6, 1st case
+20210409.8298793:09 Apr 2021 Avian influenza (57): Germany (NW, ST) poultry, HPAI H5N8, OIE
+20210409.8298793:09 Apr 2021 Avian influenza (57): Germany (NW, ST) poultry, HPAI H5N8, OIE
+20210409.8297917:09 Apr 2021 Avian influenza (56): Ukraine, Russia, wild bird, HPAI H5, H5N5, OIE
+20210409.8297917:09 Apr 2021 Avian influenza (56): Ukraine, Russia, wild bird, HPAI H5, H5N5, OIE
+20210407.8294492:07 Apr 2021 Avian influenza, human (05): Nigeria, A/H5
+20210405.8289592:05 Apr 2021 Avian influenza (54): Greece (MH) pelican, HPAI H5N8, OIE
+20210405.8289366:05 Apr 2021 Avian influenza (55): Lithuania (AS) swan, HPAI H7N7, 1st rep, OIE
+20210403.8286768:03 Apr 2021 Avian influenza (53): Algeria (BT) wild bird, HPAI H5N8, OIE
+20210401.8283100:01 Apr 2021 Avian influenza (52): UK (England) poultry, LPAI H5N3, OIE
+20210528.8398605:28 May 2021 Avian influenza (74): Europe (Finland, Germany) wild bird, HPAI H5N1, H5N4, OIE
+20210528.8398605:28 May 2021 Avian influenza (74): Europe (Finland, Germany) wild bird, HPAI H5N1, H5N4, OIE
+20210528.8398605:28 May 2021 Avian influenza (74): Europe (Finland, Germany) wild bird, HPAI H5N1, H5N4, OIE
+20210528.8398605:28 May 2021 Avian influenza (74): Europe (Finland, Germany) wild bird, HPAI H5N1, H5N4, OIE
+20210527.8387139:27 May 2021 Avian influenza (73): Nepal (KT,BM) poultry, HPAI H5N8, spread
+20210514.8362183:14 May 2021 Avian influenza (72): Europe (Germany,Denmark) poultry,wild bird, H5N5, H5N1, OIE
+20210514.8362183:14 May 2021 Avian influenza (72): Europe (Germany,Denmark) poultry,wild bird, H5N5, H5N1, OIE
+20210514.8362183:14 May 2021 Avian influenza (72): Europe (Germany,Denmark) poultry,wild bird, H5N5, H5N1, OIE
+20210510.8354115:10 May 2021 Avian influenza (71): Europe (Romania, Bulgaria) poultry, HPAI H5N8, H5, OIE
+20210510.8354115:10 May 2021 Avian influenza (71): Europe (Romania, Bulgaria) poultry, HPAI H5N8, H5, OIE
+20210508.8350239:08 May 2021 Avian influenza (70): Europe (Germany) poultry, HPAI H5N1, OIE
+20210508.8345139:08 May 2021 Avian influenza, human (08): China (GD) H9N2
+20210505.8345729:05 May 2021 Avian influenza (69): Mali (KK) poultry, HPAI H5N1, OIE
+20210503.8342449:03 May 2021 Avian influenza (68): Europe (Germany) wild bird, HPAI H5N4, H5N1, OIE
+20210503.8342449:03 May 2021 Avian influenza (68): Europe (Germany) wild bird, HPAI H5N4, H5N1, OIE
+20210503.8342449:03 May 2021 Avian influenza (68): Europe (Germany) wild bird, HPAI H5N4, H5N1, OIE
+20210628.8481136:28 Jun 2021 Avian influenza (89): Europe (Russia) wild bird, HPAI H5, OIE
+20210628.8480747:28 Jun 2021 Avian influenza (88): China (NX) wild bird, HPAI H5N8, OIE
+20210622.8466648:22 Jun 2021 Avian influenza (87): Europe (Netherlands) wild bird, HPAI H5N3, OIE
+20210621.8464004:21 Jun 2021 Avian influenza (86): China (SX) wild bird, HPAI H5N8, OIE
+20210621.8464003:21 Jun 2021 Avian influenza (85): Europe (Albania) poultry, HPAI H5N8, OIE
+20210614.8447815:14 Jun 2021 Avian influenza (83): Iraq (WA) poultry, HPAI H5N8 susp, spread, RFI
+20210614.8446706:14 Jun 2021 Avian influenza (82): Europe (Germany, Estonia) wild bird, HPAI H5N1, OIE
+20210614.8446706:14 Jun 2021 Avian influenza (82): Europe (Germany, Estonia) wild bird, HPAI H5N1, OIE
+20210612.8443314:12 Jun 2021 Avian influenza (81): Europe (Albania) poultry, HPAI H5N8, 1st outbreak
+20210612.8437106:12 Jun 2021 Avian influenza, human (11): China (Sichuan) H5N6
+20210612.8437106:12 Jun 2021 Avian influenza, human (11): China (Sichuan) H5N6
+20210611.8441060:11 Jun 2021 Avian influenza (80): South Africa (WC) captive & wild bird, HPAI H5N1, OIE
+20210607.8430084:07 Jun 2021 Avian influenza (79): Europe (Latvia, Germany) wild bird, HPAI H5N1, H5N4, OIE
+20210607.8430084:07 Jun 2021 Avian influenza (79): Europe (Latvia, Germany) wild bird, HPAI H5N1, H5N4, OIE
+20210606.8426576:06 Jun 2021 Avian influenza, human (10): Russia (AS) H5N8, China (JS) H10N3
+20210605.8425720:05 Jun 2021 Avian influenza (78): Iraq (BA) poultry, HPAI H5N8 susp, RFI
+20210602.8417795:02 Jun 2021 Avian influenza (77): Europe (Netherlands) poultry, HPAI H5N8
+20210602.8416833:02 Jun 2021 Avian influenza, human (09): China (JS) H10N3, 1st rep *** no serveur response ***
+20210602.8415903:02 Jun 2021 Avian influenza (76): Lesotho (MS) poultry, 1st rep, HPAI H5, OIE *** no serveur response ***
+20210601.8415504:01 Jun 2021 Avian influenza (75): Europe (Lithuania, Germany) poultry, bird, HPAI H5N8, OIE *** no serveur response ***
+20210724.8542205:24 Jul 2021 Avian influenza, human (14): China (SC) H5N6 *** no serveur response ***
+20210723.8540822:23 Jul 2021 Avian influenza (97): Ghana (AA, CP) poultry, HPAI H5, OIE
+20210722.8538183:22 Jul 2021 Avian influenza, human (13): India (HR), H5N8, susp., fatal,  RFI
+20210716.8519755:16 Jul 2021 Avian influenza, human (12): China (SC) H5N6
+20210716.8519755:16 Jul 2021 Avian influenza, human (12): China (SC) H5N6
+20210712.8512938:12 Jul 2021 Avian influenza (96): Europe (Sweden) wild bird, HPAI H5N4, OIE
+20210707.8501649:07 Jul 2021 Avian influenza (95): Europe (Russia) wild bird, HPAI st pending, OIE
+20210707.8499767:07 Jul 2021 Avian influenza (94): Europe (Denmark) poultry, HPAI H5N8, OIE
+20210705.8497078:05 Jul 2021 Avian influenza (93): Viet Nam (HO, CB, QN), poultry, HPAI H5N8, OIE
+20210704.8494698:04 Jul 2021 Avian influenza (92): Viet Nam (QN) poultry, HPAI H5N8, 1st rep, RFI
+20210701.8489408:01 Jul 2021 Avian influenza (91): Togo (MA) poultry, HPAI H5N1, OIE
+20210701.8488651:01 Jul 2021 Avian influenza (90): Togo (MA) poultry, HPAI H5N1
+20210830.8632118:30 Aug 2021 Avian influenza (105): Europe (Netherlands) wild bird, HPAI H5N8, OIE
+20210825.8621036:25 Aug 2021 Avian influenza (104): Europe (Belgium) HPAI-free status, OIE, comment *** no serveur response ***
+20210825.8611614:25 Aug 2021 Avian influenza, human (16): China (Guangdong) H5N6
+20210825.8611614:25 Aug 2021 Avian influenza, human (16): China (Guangdong) H5N6
+20210823.8616558:23 Aug 2021 Avian influenza (103): Benin (OU) poultry, HPAI H5, OIE
+20210822.8614555:22 Aug 2021 Avian influenza (102): Europe (Belgium) HPAI-free status, OIE
+20210822.8613872:22 Aug 2021 Avian influenza (101): Cote d'Ivoire (CM) poultry, HPAI H5N1
+20210819.8601971:19 Aug 2021 Avian influenza, human (15): India (HR) H5N1, confirmed, WHO
+20210818.8604361:18 Aug 2021 Avian influenza (100): Europe (Netherlands) wild bird, HPAI H5N8, OIE
+20210813.8592884:13 Aug 2021 Avian influenza (99): Cote d'Ivoire (CM) poultry, HPAI H5N1, OIE
+20210803.8565924:03 Aug 2021 Avian influenza (98): Togo (MA) poultry, HPAI H5N1, OIE
+20210930.8698799:30 Sep 2021 Avian influenza (118): Europe (France) wild bird, HPAI H7N7, OIE
+20210927.8698701:27 Sep 2021 Avian influenza, human (21): China (GD) H5N6
+20210927.8698701:27 Sep 2021 Avian influenza, human (21): China (GD) H5N6
+20210920.8687300:20 Sep 2021 Avian influenza (116): Europe (Russia) zoo, wild bird, backyard, HPAI H5N1, OIE
+20210919.8685382:19 Sep 2021 Avian influenza, human (19): China (HN) H5N6
+20210919.8668826:19 Sep 2021 Avian influenza, human (20): Cambodia (SI) H9N2
+20210915.8670328:15 Sep 2021 Avian influenza (115): Europe (France) backyard poultry, HPAI H5N8, OIE
+20210914.8669123:14 Sep 2021 Avian influenza (114): India, poultry, HPAI H5N1, H5N8, OIE
+20210914.8669123:14 Sep 2021 Avian influenza (114): India, poultry, HPAI H5N1, H5N8, OIE
+20210914.8669123:14 Sep 2021 Avian influenza (114): India, poultry, HPAI H5N1, H5N8, OIE
+20210914.8669123:14 Sep 2021 Avian influenza (114): India, poultry, HPAI H5N1, H5N8, OIE
+20210914.8669123:14 Sep 2021 Avian influenza (114): India, poultry, HPAI H5N1, H5N8, OIE
+20210912.8663587:12 Sep 2021 Avian influenza (113): Pakistan (PB) poultry, HPAI H5N8, OIE
+20210911.8662208:11 Sep 2021 Avian influenza (112): Europe (France) backyard poultry, HPAI H5N8
+20210911.8657500:11 Sep 2021 Avian influenza, human (18): China (GX) H5N6
+20210910.8660213:10 Sep 2021 Avian influenza (111): Taiwan (YL), poultry, HPAI H5N2, OIE
+20210910.8659824:10 Sep 2021 Avian influenza (110): Europe (Luxembourg) backyard bird, HPAI H5N8, OIE
+20210908.8652258:08 Sep 2021 Avian influenza (109): Togo (MA), Botswana (KL) poultry, HPAI H5N1, OIE
+20210908.8652258:08 Sep 2021 Avian influenza (109): Togo (MA), Botswana (KL) poultry, HPAI H5N1, OIE
+20210908.8652190:08 Sep 2021 Avian influenza (108): Europe (Belgium) captive bird, HPAI H5N8, OIE
+20210906.8647141:06 Sep 2021 Avian influenza, human (17): China (HN) H9N2
+20210901.8638782:01 Sep 2021 Avian influenza (107): Europe (Russia) poultry, HPAI H5N1, OIE
+20210901.8638511:01 Sep 2021 Avian influenza (106): Botswana (KL) poultry, HPAI susp, RFI
+20211031.8699376:31 Oct 2021 Avian influenza (132): Europe (Netherlands) poultry, HPAI H5N1 susp, control
+20211031.8699372:31 Oct 2021 Avian influenza (131): Israel (HA) poultry, HPAI H5N1
+20211029.8699337:29 Oct 2021 Avian influenza (129): Europe (Netherlands) poultry, HPAI H5N1, control, OIE
+20211029.8699332:29 Oct 2021 Avian influenza (130): Europe (Germany, UK), poultry, wild bird, HPAI H5N1, OIE
+20211029.8699332:29 Oct 2021 Avian influenza (130): Europe (Germany, UK), poultry, wild bird, HPAI H5N1, OIE
+20211029.8699332:29 Oct 2021 Avian influenza (130): Europe (Germany, UK), poultry, wild bird, HPAI H5N1, OIE
+20211029.8699332:29 Oct 2021 Avian influenza (130): Europe (Germany, UK), poultry, wild bird, HPAI H5N1, OIE
+20211029.8699332:29 Oct 2021 Avian influenza (130): Europe (Germany, UK), poultry, wild bird, HPAI H5N1, OIE
+20211028.8699277:28 Oct 2021 Avian influenza, human (23): China (Hunan), H5N6
+20211028.8699277:28 Oct 2021 Avian influenza, human (23): China (Hunan), H5N6
+20211028.8699277:28 Oct 2021 Avian influenza, human (23): China (Hunan), H5N6
+20211027.8699304:27 Oct 2021 Avian influenza (128): Europe (Denmark) wild bird, HPAI H5N1, OIE
+20211022.8699206:22 Oct 2021 Avian influenza (127): Europe (Italy, Sweden), poultry, wild bird, multiple st
+20211022.8699206:22 Oct 2021 Avian influenza (127): Europe (Italy, Sweden), poultry, wild bird, multiple st
+20211022.8699206:22 Oct 2021 Avian influenza (127): Europe (Italy, Sweden), poultry, wild bird, multiple st
+20211019.8699140:19 Oct 2021 Avian influenza (126): Europe (Germany) wild bird, HPAI H5N1, OIE
+20211019.8699139:19 Oct 2021 Avian influenza (125): Europe (Serbia) wild bird, HPAI H5N8, OIE
+20211016.8699057:16 Oct 2021 Avian influenza (124): Israel (HZ) poultry, HPAI H5N1, OIE
+20211015.8699066:15 Oct 2021 Avian influenza (123): Europe (Russia, Ukraine) poultry, HPAI H5, OIE
+20211015.8699066:15 Oct 2021 Avian influenza (123): Europe (Russia, Ukraine) poultry, HPAI H5, OIE
+20211015.8699066:15 Oct 2021 Avian influenza (123): Europe (Russia, Ukraine) poultry, HPAI H5, OIE
+20211015.8699066:15 Oct 2021 Avian influenza (123): Europe (Russia, Ukraine) poultry, HPAI H5, OIE
+20211015.8699066:15 Oct 2021 Avian influenza (123): Europe (Russia, Ukraine) poultry, HPAI H5, OIE
+20211015.8699066:15 Oct 2021 Avian influenza (123): Europe (Russia, Ukraine) poultry, HPAI H5, OIE
+20211011.8698983:11 Oct 2021 Avian influenza (122): Europe (Russia) backyard poultry, HPAI H5, OIE
+20211008.8698907:08 Oct 2021 Avian influenza (121): Kazakhstan (NK) poultry, HPAI H5, OIE
+20211003.8698793:03 Oct 2021 Avian influenza, human (22): China (GX) H5N6
+20211001.8698822:01 Oct 2021 Avian influenza (120): Europe (Czech Republic) backyard poultry, HPAI H5, OIE
+20211001.8698819:01 Oct 2021 Avian influenza (119): Laos (XI) poultry, HPAI H5, OIE
+20211130.8699976:30 Nov 2021 Avian influenza (164): Iran (AR,SM) poultry, HPAI H5N5, OIE
+20211129.8699948:29 Nov 2021 Avian influenza (163): India (RJ) wild bird, HPAI H5N1, OIE
+20211127.8699918:27 Nov 2021 Avian influenza (162): Japan (KS) wild bird, HPAI H5N8, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211127.8699906:27 Nov 2021 Avian influenza (161): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211126.8699877:26 Nov 2021 Avian influenza (160): Europe (UK) poultry, HPAI H5N1, spread, control
+20211125.8699867:25 Nov 2021 Avian influenza (159): USA (MN) turkey, LPAI H5
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699830:24 Nov 2021 Avian influenza (158): Europe, wild bird, poultry, HPAI H5N1, H5, OIE
+20211124.8699804:24 Nov 2021 Avian influenza, human (24): China (GZ) H9N2
+20211123.8699838:23 Nov 2021 Avian influenza (157): Israel (HD,HZ) poultry, HPAI H5N1, spread, RFI
+20211122.8699828:22 Nov 2021 Avian influenza (156): South Korea (HB) poultry, HPAI H5N1, spread
+20211120.8699780:20 Nov 2021 Avian influenza (155): Togo (MA) poultry, HPAI H5N1, OIE
+20211119.8699760:19 Nov 2021 Avian influenza (154): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211119.8699760:19 Nov 2021 Avian influenza (154): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211119.8699760:19 Nov 2021 Avian influenza (154): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211119.8699760:19 Nov 2021 Avian influenza (154): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211119.8699760:19 Nov 2021 Avian influenza (154): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211119.8699760:19 Nov 2021 Avian influenza (154): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211119.8699760:19 Nov 2021 Avian influenza (154): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211119.8699760:19 Nov 2021 Avian influenza (154): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211118.8699747:18 Nov 2021 Avian influenza (153): Japan (HG) poultry, HPAI H5N1, spread
+20211118.8699736:18 Nov 2021 Avian influenza (152): Japan (KS) poultry, HPAI H5N1, OIE
+20211117.8699732:17 Nov 2021 Avian influenza (151): poultry, vaccines & vaccination, OFFLU
+20211116.8699695:16 Nov 2021 Avian influenza (150): South Korea (HB) poultry, HPAI H5N1, OIE
+20211115.8699685:15 Nov 2021 Avian influenza (149): Europe, wild bird, poultry, HPAI H5N1, H5N8, OIE
+20211115.8699685:15 Nov 2021 Avian influenza (149): Europe, wild bird, poultry, HPAI H5N1, H5N8, OIE
+20211115.8699685:15 Nov 2021 Avian influenza (149): Europe, wild bird, poultry, HPAI H5N1, H5N8, OIE
+20211115.8699685:15 Nov 2021 Avian influenza (149): Europe, wild bird, poultry, HPAI H5N1, H5N8, OIE
+20211115.8699685:15 Nov 2021 Avian influenza (149): Europe, wild bird, poultry, HPAI H5N1, H5N8, OIE
+20211115.8699685:15 Nov 2021 Avian influenza (149): Europe, wild bird, poultry, HPAI H5N1, H5N8, OIE
+20211115.8699682:15 Nov 2021 Avian influenza (148): Japan (AK) poultry, HPAI H5N8, OIE
+20211113.8699639:13 Nov 2021 Avian influenza (147): Europe (Ireland) wild bird, HPAI H5N1
+20211112.8699631:12 Nov 2021 Avian influenza (146): Japan (AK, KS) poultry, HPAI H5
+20211112.8699608:12 Nov 2021 Announcements (09): OFFLU Avian Influenza Statement
+20211110.8699577:10 Nov 2021 Avian influenza (145): Europe (Germany, UK) poultry, HPAI H5N1, OIE
+20211110.8699577:10 Nov 2021 Avian influenza (145): Europe (Germany, UK) poultry, HPAI H5N1, OIE
+20211109.8699550:09 Nov 2021 Avian influenza (144): Europe (Poland) poultry, HPAI H5N1, OIE
+20211109.8699550:09 Nov 2021 Avian influenza (144): Europe (Poland) poultry, HPAI H5N1, OIE
+20211109.8699545:09 Nov 2021 Avian influenza (143): Europe (UK) wild bird, HPAI H5N1, confirmed
+20211109.8699541:09 Nov 2021 Avian influenza (142): Europe (Ireland,Czech Republic) wild bird, HPAI H5N1, OIE
+20211109.8699541:09 Nov 2021 Avian influenza (142): Europe (Ireland,Czech Republic) wild bird, HPAI H5N1, OIE
+20211108.8699540:08 Nov 2021 Avian influenza (141): South Korea (CB, HN) wild bird, HPAI H5N1, OIE
+20211108.8699527:08 Nov 2021 Avian influenza (140): Europe (Sweden, Netherlands) wild bird, HPAI H5N1, OIE
+20211108.8699527:08 Nov 2021 Avian influenza (140): Europe (Sweden, Netherlands) wild bird, HPAI H5N1, OIE
+20211105.8699469:05 Nov 2021 Avian influenza (139): Europe (Serbia) wild bird, HPAI H5N2, H5N1, OIE
+20211105.8699469:05 Nov 2021 Avian influenza (139): Europe (Serbia) wild bird, HPAI H5N2, H5N1, OIE
+20211104.8699458:04 Nov 2021 Avian influenza (138): Europe (UK), poultry, HPAI H5N1, spread
+20211104.8699430:04 Nov 2021 Avian influenza (137): Europe, poultry, HPAI H5N1, H5, OIE
+20211104.8699430:04 Nov 2021 Avian influenza (137): Europe, poultry, HPAI H5N1, H5, OIE
+20211104.8699430:04 Nov 2021 Avian influenza (137): Europe, poultry, HPAI H5N1, H5, OIE
+20211103.8699427:03 Nov 2021 Avian influenza (136): Europe (UK) wild bird, HPAI
+20211103.8699420:03 Nov 2021 Avian influenza (135): Europe (UK) poultry, wild bird, HPAI H5N1
+20211102.8699401:02 Nov 2021 Avian influenza (134): Europe (Netherlands) poultry, HPAI H5N1 conf
+20211230.8700585:30 Dec 2021 Avian influenza (187): Europe (Portugal) poultry, HPAI H5N1, OIE
+20211228.8700533:28 Dec 2021 Avian influenza (186): Taiwan, poultry, wild bird, HPAI H5N2, H5N1, OIE
+20211228.8700533:28 Dec 2021 Avian influenza (186): Taiwan, poultry, wild bird, HPAI H5N2, H5N1, OIE
+20211227.8700523:27 Dec 2021 Avian influenza (185): Canada (NL) captive bird, HPAI H5N1, OIE
+20211227.8700509:27 Dec 2021 Avian influenza (184): India, wild bird, poultry, HPAI H5N1, H5N8, update, OIE
+20211227.8700509:27 Dec 2021 Avian influenza (184): India, wild bird, poultry, HPAI H5N1, H5N8, update, OIE
+20211227.8700509:27 Dec 2021 Avian influenza (184): India, wild bird, poultry, HPAI H5N1, H5N8, update, OIE
+20211227.8700508:27 Dec 2021 Avian influenza (183): Israel (HZ) poultry, wild bird, HPAI H5N1, spread
+20211227.8700508:27 Dec 2021 Avian influenza (183): Israel (HZ) poultry, wild bird, HPAI H5N1, spread
+20211227.8700508:27 Dec 2021 Avian influenza (183): Israel (HZ) poultry, wild bird, HPAI H5N1, spread
+20211226.8700496:26 Dec 2021 Avian influenza (182): Europe (Portugal) poultry, spread
+20211225.8700481:25 Dec 2021 Avian influenza (181): Canada (NL) H5N1, poultry
+20211225.8700481:25 Dec 2021 Avian influenza (181): Canada (NL) H5N1, poultry
+20211222.8700431:22 Dec 2021 Avian influenza (179): China (Hong Kong) wild bird, HPAI H5N1, OIE
+20211222.8700424:22 Dec 2021 Avian influenza (178): Europe (UK) poultry, HPAI H5N1, spread
+20211222.8700422:22 Dec 2021 Avian influenza (177): Europe, wild bird, captive, poultry, HPAI H5N1, OIE
+20211222.8700422:22 Dec 2021 Avian influenza (177): Europe, wild bird, captive, poultry, HPAI H5N1, OIE
+20211222.8700422:22 Dec 2021 Avian influenza (177): Europe, wild bird, captive, poultry, HPAI H5N1, OIE
+20211222.8700422:22 Dec 2021 Avian influenza (177): Europe, wild bird, captive, poultry, HPAI H5N1, OIE
+20211222.8700422:22 Dec 2021 Avian influenza (177): Europe, wild bird, captive, poultry, HPAI H5N1, OIE
+20211221.8700388:21 Dec 2021 Avian influenza (176): Israel (HZ) poultry, wild bird, HPAI H5N1, spread *** no serveur response ***
+20211219.8700294:19 Dec 2021 Avian influenza, human (26): China (Hong Kong) H5N6 *** no serveur response ***
+20211215.8700280:15 Dec 2021 Avian influenza (175): Europe, poultry, wild bird, HPAI H5N1, H5, OIE
+20211215.8700280:15 Dec 2021 Avian influenza (175): Europe, poultry, wild bird, HPAI H5N1, H5, OIE
+20211215.8700280:15 Dec 2021 Avian influenza (175): Europe, poultry, wild bird, HPAI H5N1, H5, OIE
+20211215.8700280:15 Dec 2021 Avian influenza (175): Europe, poultry, wild bird, HPAI H5N1, H5, OIE
+20211213.8700251:13 Dec 2021 Avian influenza (174): Europe (Greece) wild bird, HPAI H5N1, OIE
+20211211.8700197:11 Dec 2021 Avian influenza (173): Pakistan (NW) poultry, HPAI H5, OIE
+20211211.8700163:11 Dec 2021 Avian influenza, human (25): China (SC, GD) H5N6
+20211211.8700163:11 Dec 2021 Avian influenza, human (25): China (SC, GD) H5N6
+20211211.8700163:11 Dec 2021 Avian influenza, human (25): China (SC, GD) H5N6
+20211211.8700163:11 Dec 2021 Avian influenza, human (25): China (SC, GD) H5N6
+20211209.8700162:09 Dec 2021 Avian influenza (172): Europe, poultry, backyard, HPAI H5N1, H5, OIE
+20211209.8700162:09 Dec 2021 Avian influenza (172): Europe, poultry, backyard, HPAI H5N1, H5, OIE
+20211209.8700162:09 Dec 2021 Avian influenza (172): Europe, poultry, backyard, HPAI H5N1, H5, OIE
+20211209.8700157:09 Dec 2021 Avian influenza (171): India (MP) wild bird, HPAI H5N8, OIE
+20211206.8700103:06 Dec 2021 Avian influenza (170): Iran (MK,MN) wild bird, HPAI H5N8, OIE
+20211206.8700090:06 Dec 2021 Avian influenza (169): Europe (France) poultry, HPAI H5N1, control
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211205.8700016:05 Dec 2021 Avian influenza (168): Europe, wild bird, poultry, HPAI H5N1, OIE
+20211203.8700041:03 Dec 2021 Avian influenza (167): Israel (HM) wild bird, HPAI H5N1, OIE
+20211201.8699991:01 Dec 2021 Avian influenza (166): China (HB) wild bird, HPAI H5N1, OIE
+20211201.8699982:01 Dec 2021 Avian influenza (165): Europe (UK) poultry, wild, HPAI H5N1, spread
+20220131.8701114:31 Jan 2022 Avian influenza, human (06): Asia (China) H9N2, H5N6
+20220131.8701114:31 Jan 2022 Avian influenza, human (06): Asia (China) H9N2, H5N6
+20220129.8701142:29 Jan 2022 Avian influenza (28): Europe, poultry, wild bird, HPAI H5N1, OIE
+20220129.8701142:29 Jan 2022 Avian influenza (28): Europe, poultry, wild bird, HPAI H5N1, OIE
+20220129.8701142:29 Jan 2022 Avian influenza (28): Europe, poultry, wild bird, HPAI H5N1, OIE
+20220128.8701128:28 Jan 2022 Avian influenza (27): China (Hong Kong) wild bird, HPAI H5N1, OIE
+20220128.8701123:28 Jan 2022 Avian influenza (26): Europe (UK) poultry, wild, HPAI H5N1, spread, assessment
+20220128.8701123:28 Jan 2022 Avian influenza (26): Europe (UK) poultry, wild, HPAI H5N1, spread, assessment
+20220128.8701122:28 Jan 2022 Avian influenza (25): Africa (Burkina Faso, Namibia) poultry, wild, HPAI H5N1, OIE
+20220128.8701122:28 Jan 2022 Avian influenza (25): Africa (Burkina Faso, Namibia) poultry, wild, HPAI H5N1, OIE
+20220125.8701072:25 Jan 2022 Avian influenza (24): Europe, poultry, wild bird, HPAI H5N1, H5N3, OIE
+20220125.8701072:25 Jan 2022 Avian influenza (24): Europe, poultry, wild bird, HPAI H5N1, H5N3, OIE
+20220124.8701054:24 Jan 2022 Avian influenza (23): Europe, wild bird, HPAI H5N1, OIE
+20220124.8701054:24 Jan 2022 Avian influenza (23): Europe, wild bird, HPAI H5N1, OIE
+20220124.8701054:24 Jan 2022 Avian influenza (23): Europe, wild bird, HPAI H5N1, OIE
+20220123.8700993:23 Jan 2022 Avian influenza, human (05): Asia (China) H9N2
+20220120.8700990:20 Jan 2022 Avian influenza (22): Americas (USA) wild bird, HPAI H5N1
+20220119.8700957:19 Jan 2022 Avian influenza (21): Europe, poultry, backyard, HPAI H5N1, OIE
+20220119.8700957:19 Jan 2022 Avian influenza (21): Europe, poultry, backyard, HPAI H5N1, OIE
+20220118.8700941:18 Jan 2022 Avian influenza (20): Togo (MA) poultry, HPAI H5N1, OIE
+20220117.8700933:17 Jan 2022 Avian influenza (18): H7N9 & H9N2 reassortment, zoonotic potential
+20220117.8700932:17 Jan 2022 Avian influenza (19): Americas (USA) wild bird, HPAI H5, OIE
+20220117.8700929:17 Jan 2022 Avian influenza (18): H7N9 & H9N2 reassortment, zoonotic potential
+20220117.8700903:17 Jan 2022 Avian influenza, human (04): Asia (China) H5N6
+20220116.8700909:16 Jan 2022 Avian influenza (17): Asia (Israel) HPAI H5N1, wild bird, poultry, epidemiology
+20220115.8700874:15 Jan 2022 Avian influenza (16): Europe, wild bird, poultry, HPAI H5N1, H5N8, OIE
+20220115.8700874:15 Jan 2022 Avian influenza (16): Europe, wild bird, poultry, HPAI H5N1, H5N8, OIE
+20220115.8700874:15 Jan 2022 Avian influenza (16): Europe, wild bird, poultry, HPAI H5N1, H5N8, OIE
+20220115.8700874:15 Jan 2022 Avian influenza (16): Europe, wild bird, poultry, HPAI H5N1, H5N8, OIE
+20220114.8700858:14 Jan 2022 Avian influenza (15): Americas (Canada) poultry
+20220113.8700846:13 Jan 2022 Avian influenza (14): Europe (Germany) wild bird, HPAI H5N1, OIE
+20220113.8700846:13 Jan 2022 Avian influenza (14): Europe (Germany) wild bird, HPAI H5N1, OIE
+20220110.8700765:10 Jan 2022 Avian influenza (13): Asia (Viet Nam) poultry, HPAI H5N1, OIE
+20220109.8700750:09 Jan 2022 Avian influenza, human (03): Asia (China) H5N6
+20220109.8700749:09 Jan 2022 Avian influenza, human (02): Asia (China) H9N2
+20220108.8700740:08 Jan 2022 Avian influenza (12): Eurasia, poultry, wild bird, HPAI H5N1, epidemiology
+20220108.8700740:08 Jan 2022 Avian influenza (12): Eurasia, poultry, wild bird, HPAI H5N1, epidemiology
+20220108.8700721:08 Jan 2022 Avian influenza (11): Africa (Niger) poultry, HPAI H5N1, OIE
+20220107.8700705:07 Jan 2022 Avian influenza (10): Europe (Portugal) wild bird, HPAI H5N1, OIE
+20220107.8700700:07 Jan 2022 Avian influenza, human: Europe (UK) H5N1
+20220107.8700700:07 Jan 2022 Avian influenza, human: Europe (UK) H5N1
+20220106.8700696:06 Jan 2022 Avian influenza (09): Europe (UK) wild bird, HPAI, conservation concern
+20220105.8700677:05 Jan 2022 Avian influenza (08): Europe (Denmark) wild bird, HPAI H5N8, OIE
+20220105.8700676:05 Jan 2022 Avian influenza (07): Europe (Portugal) backyard, HPAI H5N1, OIE
+20220105.8700668:05 Jan 2022 Avian influenza (06): Asia (Israel) HPAI H5N1, poultry, update
+20220104.8700656:04 Jan 2022 Avian influenza (06): Europe (Portugal, Bulgaria) poultry, HPAI H5N1, OIE
+20220104.8700656:04 Jan 2022 Avian influenza (06): Europe (Portugal, Bulgaria) poultry, HPAI H5N1, OIE
+20220104.8700656:04 Jan 2022 Avian influenza (06): Europe (Portugal, Bulgaria) poultry, HPAI H5N1, OIE
+20220103.8700655:03 Jan 2022 Avian influenza (05): Europe (Denmark) poultry, HPAI H5N1, spread
+20220103.8700643:03 Jan 2022 Avian influenza (04): Americas (Canada) wild bird
+20220103.8700643:03 Jan 2022 Avian influenza (04): Americas (Canada) wild bird
+20220102.8700634:02 Jan 2022 Avian influenza (03): Asia (South Korea,Israel) HPAI H5N1, poultry, spread
+20220102.8700634:02 Jan 2022 Avian influenza (03): Asia (South Korea,Israel) HPAI H5N1, poultry, spread
+20220101.8700629:01 Jan 2022 Avian influenza (02): Africa (Benin) poultry, HPAI H5N1, OIE
+20220101.8700627:01 Jan 2022 Avian influenza (01): Europe (France,UK,Slovenia) poultry, wild, spread, OIE
+20220101.8700627:01 Jan 2022 Avian influenza (01): Europe (France,UK,Slovenia) poultry, wild, spread, OIE
+20220101.8700627:01 Jan 2022 Avian influenza (01): Europe (France,UK,Slovenia) poultry, wild, spread, OIE
+20220101.8700627:01 Jan 2022 Avian influenza (01): Europe (France,UK,Slovenia) poultry, wild, spread, OIE
+20220225.8701648:25 Feb 2022 Avian influenza (53): Americas (USA) wild bird, poultry, HPAI H5N1
+20220224.8701632:24 Feb 2022 Avian influenza (52): Asia (Philippines, India) poultry, HPAI H5N1, OIE
+20220224.8701632:24 Feb 2022 Avian influenza (52): Asia (Philippines, India) poultry, HPAI H5N1, OIE
+20220223.8701594:23 Feb 2022 Avian influenza (51): Europe (North Macedonia) wild bird, HPAI H5N1, OIE
+20220221.8701557:21 Feb 2022 Avian influenza (50): Americas (Canada, USA) poultry, mixed flock, wild bird, HPAI
+20220221.8701557:21 Feb 2022 Avian influenza (50): Americas (Canada, USA) poultry, mixed flock, wild bird, HPAI
+20220221.8701557:21 Feb 2022 Avian influenza (50): Americas (Canada, USA) poultry, mixed flock, wild bird, HPAI
+20220221.8701557:21 Feb 2022 Avian influenza (50): Americas (Canada, USA) poultry, mixed flock, wild bird, HPAI
+20220221.8701557:21 Feb 2022 Avian influenza (50): Americas (Canada, USA) poultry, mixed flock, wild bird, HPAI
+20220219.8701543:19 Feb 2022 Avian influenza (48): Africa, wild birds, FAO alert
+20220217.8701493:17 Feb 2022 Avian influenza, human (07): Asia (China) H5N6
+20220215.8701469:15 Feb 2022 Avian influenza (45): Americas (USA) poultry, mixed flock, HPAI H5N1
+20220215.8701469:15 Feb 2022 Avian influenza (45): Americas (USA) poultry, mixed flock, HPAI H5N1
+20220215.8701462:15 Feb 2022 Avian influenza (46): Africa (Senegal, Cameroon) wild, poultry, HPAI H5N1, OIE
+20220215.8701462:15 Feb 2022 Avian influenza (46): Africa (Senegal, Cameroon) wild, poultry, HPAI H5N1, OIE
+20220214.8701457:14 Feb 2022 Avian influenza (44): Europe (France) wild bird, HPAI H5
+20220214.8701447:14 Feb 2022  Avian influenza (43): Americas (USA) wild bird, HPAI H5N1
+20220212.8701395:12 Feb 2022 Avian influenza (42): Europe, poultry, HPAI H5N1, OIE
+20220212.8701395:12 Feb 2022 Avian influenza (42): Europe, poultry, HPAI H5N1, OIE
+20220211.8701404:11 Feb 2022 Avian influenza (41): Americas (USA) poultry, HPAI H5N1, OIE
+20220210.8701387:10 Feb 2022 Avian influenza (40): Americas (USA) wild bird, HPAI H5N1
+20220209.8701372:09 Feb 2022 Avian influenza (39): Americas (USA) turkey, HPAI H5N1
+20220209.8701372:09 Feb 2022 Avian influenza (39): Americas (USA) turkey, HPAI H5N1
+20220208.8701344:08 Feb 2022 Avian influenza (38): Europe, poultry, wild bird, HPAI H5N1, H5N2, OIE
+20220208.8701344:08 Feb 2022 Avian influenza (38): Europe, poultry, wild bird, HPAI H5N1, H5N2, OIE
+20220208.8701340:08 Feb 2022 Avian influenza (37): Asia (Japan) wild bird, HPAI H5N1, OIE
+20220208.8701339:08 Feb 2022 Avian influenza (36): Americas (USA) wild bird, HPAI H5N1
+20220207.8701308:07 Feb 2022 Avian influenza (35): Americas (Canada) poultry, HPAI
+20220204.8701269:04 Feb 2022 Avian influenza (34): Americas (Canada) poultry, HPAI H5N1, OIE
+20220204.8701238:04 Feb 2022 Avian influenza (33): Americas (Canada) domestic geese, HPAI H5N1
+20220202.8701217:02 Feb 2022 Avian influenza (32): Americas (Canada) wild bird, HPAI H5N1
+20220201.8701196:01 Feb 2022 Avian influenza (31): Africa (Cote d'Ivoire) HPAI H5N1, poultry, OIE
+20220201.8701187:01 Feb 2022 Avian influenza (29): Asia (Nepal) poultry, HPAI H5N1, OIE
+20220201.8701178:01 Feb 2022 Avian influenza (30): Americas (USA) wild bird
+20220330.8702303:30 Mar 2022 Avian influenza (79): Europe (Albania) wild bird, HPAI H5N1, OIE
+20220329.8702279:29 Mar 2022 Avian influenza (78): Asia (Philippines) poultry, HPAI H5N8, H5N1, spread, OIE
+20220329.8702279:29 Mar 2022 Avian influenza (78): Asia (Philippines) poultry, HPAI H5N8, H5N1, spread, OIE
+20220328.8702266:28 Mar 2022 Avian influenza (77): Americas (USA) wild birds, HPAI H5N1
+20220328.8702266:28 Mar 2022 Avian influenza (77): Americas (USA) wild birds, HPAI H5N1
+20220328.8702266:28 Mar 2022 Avian influenza (77): Americas (USA) wild birds, HPAI H5N1
+20220328.8702266:28 Mar 2022 Avian influenza (77): Americas (USA) wild birds, HPAI H5N1
+20220326.8702236:26 Mar 2022 Avian influenza (76): Americas (USA) poultry, HPAI H5N1
+20220326.8702236:26 Mar 2022 Avian influenza (76): Americas (USA) poultry, HPAI H5N1
+20220326.8702236:26 Mar 2022 Avian influenza (76): Americas (USA) poultry, HPAI H5N1
+20220326.8702236:26 Mar 2022 Avian influenza (76): Americas (USA) poultry, HPAI H5N1
+20220326.8702234:26 Mar 2022 Avian influenza (75): Europe (UK,Spain) poultry, HPAI H5N1, spread
+20220326.8702234:26 Mar 2022 Avian influenza (75): Europe (UK,Spain) poultry, HPAI H5N1, spread
+20220323.8702172:23 Mar 2022 Avian influenza (74): Americas (USA) mixed flocks, HPAI, H5N1
+20220323.8702172:23 Mar 2022 Avian influenza (74): Americas (USA) mixed flocks, HPAI, H5N1
+20220323.8702172:23 Mar 2022 Avian influenza (74): Americas (USA) mixed flocks, HPAI, H5N1
+20220323.8702172:23 Mar 2022 Avian influenza (74): Americas (USA) mixed flocks, HPAI, H5N1
+20220323.8702172:23 Mar 2022 Avian influenza (74): Americas (USA) mixed flocks, HPAI, H5N1
+20220323.8702172:23 Mar 2022 Avian influenza (74): Americas (USA) mixed flocks, HPAI, H5N1
+20220323.8702172:23 Mar 2022 Avian influenza (74): Americas (USA) mixed flocks, HPAI, H5N1
+20220322.8702159:22 Mar 2022 Avian influenza (73): Europe (UK,Greece) wild bird, HPAI H5N1
+20220322.8702159:22 Mar 2022 Avian influenza (73): Europe (UK,Greece) wild bird, HPAI H5N1
+20220322.8702154:22 Mar 2022 Avian influenza (72): Americas (USA) poultry, HPAI H5N1
+20220322.8702142:22 Mar 2022 Avian influenza (71): Europe, wild bird, poultry, HPAI H5, H5N1, H5N8, OIE
+20220322.8702142:22 Mar 2022 Avian influenza (71): Europe, wild bird, poultry, HPAI H5, H5N1, H5N8, OIE
+20220322.8702142:22 Mar 2022 Avian influenza (71): Europe, wild bird, poultry, HPAI H5, H5N1, H5N8, OIE
+20220322.8702026:22 Mar 2022 Avian influenza, human (11): Asia (China) H5N6
+20220320.8702088:20 Mar 2022 Avian influenza (70): Americas (USA) wild bird, HPAI H5N1
+20220320.8702088:20 Mar 2022 Avian influenza (70): Americas (USA) wild bird, HPAI H5N1
+20220320.8702088:20 Mar 2022 Avian influenza (70): Americas (USA) wild bird, HPAI H5N1
+20220317.8702048:17 Mar 2022 Avian influenza (69): Europe (UK) poultry, backyard, HPAI H5N1
+20220316.8702021:16 Mar 2022 Avian influenza (68): Americas (USA) mixed flocks, HPAI
+20220316.8702021:16 Mar 2022 Avian influenza (68): Americas (USA) mixed flocks, HPAI
+20220316.8702021:16 Mar 2022 Avian influenza (68): Americas (USA) mixed flocks, HPAI
+20220316.8702021:16 Mar 2022 Avian influenza (68): Americas (USA) mixed flocks, HPAI
+20220316.8702021:16 Mar 2022 Avian influenza (68): Americas (USA) mixed flocks, HPAI
+20220316.8702021:16 Mar 2022 Avian influenza (68): Americas (USA) mixed flocks, HPAI
+20220314.8701979:14 Mar 2022 Avian influenza (67): Europe (France) poultry, HPAI H5N1, spread, control
+20220314.8701979:14 Mar 2022 Avian influenza (67): Europe (France) poultry, HPAI H5N1, spread, control
+20220313.8701962:13 Mar 2022 Avian influenza (66): Americas (USA) mixed flocks, HPAI H5N1
+20220313.8701962:13 Mar 2022 Avian influenza (66): Americas (USA) mixed flocks, HPAI H5N1
+20220313.8701962:13 Mar 2022 Avian influenza (66): Americas (USA) mixed flocks, HPAI H5N1
+20220313.8701962:13 Mar 2022 Avian influenza (66): Americas (USA) mixed flocks, HPAI H5N1
+20220313.8701962:13 Mar 2022 Avian influenza (66): Americas (USA) mixed flocks, HPAI H5N1
+20220312.8701894:12 Mar 2022 Avian influenza, human (10): Asia (China) H5N6, 2021
+20220311.8701931:11 Mar 2022 Avian influenza (65): Americas (Canada, USA) wild bird, HPAI H5N1
+20220311.8701931:11 Mar 2022 Avian influenza (65): Americas (Canada, USA) wild bird, HPAI H5N1
+20220311.8701931:11 Mar 2022 Avian influenza (65): Americas (Canada, USA) wild bird, HPAI H5N1
+20220309.8701900:09 Mar 2022 Avian influenza (63): Asia (Japan) wild bird, HPAI H5, OIE
+20220309.8701899:09 Mar 2022  Avian influenza (64): Europe (UK) zoo, HPAI H5N1, OIE
+20220308.8701868:08 Mar 2022 Avian influenza (62): Americas (USA) poultry
+20220308.8701868:08 Mar 2022 Avian influenza (62): Americas (USA) poultry
+20220308.8701868:08 Mar 2022 Avian influenza (62): Americas (USA) poultry
+20220306.8701849:06 Mar 2022 Avian influenza (61): Europe (Poland) poultry, HPAI H5N2, OIE
+20220306.8701796:06 Mar 2022 Avian influenza, human (09): Asia (China) H9N2
+20220304.8701793:04 Mar 2022 Avian influenza (60): Americas (Canada, USA) wild bird, HPAI H5N1
+20220304.8701793:04 Mar 2022 Avian influenza (60): Americas (Canada, USA) wild bird, HPAI H5N1
+20220304.8701793:04 Mar 2022 Avian influenza (60): Americas (Canada, USA) wild bird, HPAI H5N1
+20220304.8701793:04 Mar 2022 Avian influenza (60): Americas (Canada, USA) wild bird, HPAI H5N1
+20220303.8701765:03 Mar 2022 Avian influenza (59): Americas (USA) mixed poultry, wild, captive bird
+20220303.8701765:03 Mar 2022 Avian influenza (59): Americas (USA) mixed poultry, wild, captive bird
+20220303.8701765:03 Mar 2022 Avian influenza (59): Americas (USA) mixed poultry, wild, captive bird
+20220303.8701765:03 Mar 2022 Avian influenza (59): Americas (USA) mixed poultry, wild, captive bird
+20220303.8701765:03 Mar 2022 Avian influenza (59): Americas (USA) mixed poultry, wild, captive bird
+20220303.8701758:03 Mar 2022 Avian influenza (58): Europe (UK) poultry, HPAI H5N1 *** no serveur response ***
+20220302.8701740:02 Mar 2022 Avian influenza (56): Americas (USA) mixed poultry, captive bird, HPAI H5N1
+20220302.8701740:02 Mar 2022 Avian influenza (56): Americas (USA) mixed poultry, captive bird, HPAI H5N1
+20220302.8701740:02 Mar 2022 Avian influenza (56): Americas (USA) mixed poultry, captive bird, HPAI H5N1
+20220302.8701740:02 Mar 2022 Avian influenza (56): Americas (USA) mixed poultry, captive bird, HPAI H5N1
+20220302.8701729:02 Mar 2022 Avian influenza (57): Asia (Nepal, India) wild bird, poultry, HPAI H5N1, OIE
+20220302.8701729:02 Mar 2022 Avian influenza (57): Asia (Nepal, India) wild bird, poultry, HPAI H5N1, OIE
+20220302.8701722:02 Mar 2022 Avian influenza, human (08): Asia (China) H5N6
+20220301.8701734:01 Mar 2022 Avian influenza (55): Europe (Netherlands) poultry, HPAI H5N1
+20220301.8701727:01 Mar 2022 Avian influenza (54): Europe (N Macedonia, Lithuania) wild bird, HPAI H5N1
+20220301.8701727:01 Mar 2022 Avian influenza (54): Europe (N Macedonia, Lithuania) wild bird, HPAI H5N1
+20220430.8702949:30 Apr 2022 Avian influenza (108): Europe, wild bird, poultry, HPAI H5N1, OIE
+20220430.8702949:30 Apr 2022 Avian influenza (108): Europe, wild bird, poultry, HPAI H5N1, OIE
+20220430.8702949:30 Apr 2022 Avian influenza (108): Europe, wild bird, poultry, HPAI H5N1, OIE
+20220430.8702949:30 Apr 2022 Avian influenza (108): Europe, wild bird, poultry, HPAI H5N1, OIE
+20220430.8702944:30 Apr 2022 Avian influenza (107): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220430.8702944:30 Apr 2022 Avian influenza (107): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220430.8702944:30 Apr 2022 Avian influenza (107): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220430.8702944:30 Apr 2022 Avian influenza (107): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220430.8702944:30 Apr 2022 Avian influenza (107): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220430.8702944:30 Apr 2022 Avian influenza (107): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220430.8702944:30 Apr 2022 Avian influenza (107): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220430.8702944:30 Apr 2022 Avian influenza (107): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220430.8702890:30 Apr 2022 Avian influenza, human (15): Asia (China) H3N8
+20220430.8702890:30 Apr 2022 Avian influenza, human (15): Asia (China) H3N8
+20220429.8702920:29 Apr 2022 Avian influenza, human (14): Americas (USA) H5N1
+20220429.8702915:29 Apr 2022 Avian influenza (105): Americas (Mexico) HPAI H7N3, poultry
+20220429.8702913:29 Apr 2022 Avian influenza (106): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220429.8702913:29 Apr 2022 Avian influenza (106): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220429.8702913:29 Apr 2022 Avian influenza (106): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220429.8702913:29 Apr 2022 Avian influenza (106): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220429.8702913:29 Apr 2022 Avian influenza (106): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220429.8702913:29 Apr 2022 Avian influenza (106): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220427.8702889:27 Apr 2022 Avian influenza (104): Americas (Mexico) poultry, HPAI H7N3, OIE
+20220427.8702870:27 Apr 2022 Avian influenza (103): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220427.8702870:27 Apr 2022 Avian influenza (103): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220427.8702870:27 Apr 2022 Avian influenza (103): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220427.8702870:27 Apr 2022 Avian influenza (103): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220427.8702870:27 Apr 2022 Avian influenza (103): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220427.8702870:27 Apr 2022 Avian influenza (103): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220427.8702870:27 Apr 2022 Avian influenza (103): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220425.8702840:25 Apr 2022 Avian influenza (102): Americas (USA) wild birds, HPAI H5N1
+20220425.8702840:25 Apr 2022 Avian influenza (102): Americas (USA) wild birds, HPAI H5N1
+20220424.8702818:24 Apr 2022 Avian influenza (101): Mexico (CA) HPAI H7N3, poultry
+20220422.8702765:22 Apr 2022 Avian influenza (100): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220422.8702765:22 Apr 2022 Avian influenza (100): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220422.8702765:22 Apr 2022 Avian influenza (100): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220422.8702765:22 Apr 2022 Avian influenza (100): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220422.8702765:22 Apr 2022 Avian influenza (100): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220422.8702765:22 Apr 2022 Avian influenza (100): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220420.8702732:20 Apr 2022 Avian influenza (99): Europe (Bulgaria) wild bird, poultry, HPAI, OIE
+20220420.8702732:20 Apr 2022 Avian influenza (99): Europe (Bulgaria) wild bird, poultry, HPAI, OIE
+20220420.8702732:20 Apr 2022 Avian influenza (99): Europe (Bulgaria) wild bird, poultry, HPAI, OIE
+20220420.8702706:20 Apr 2022 Avian influenza (98): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220420.8702706:20 Apr 2022 Avian influenza (98): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220420.8702706:20 Apr 2022 Avian influenza (98): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220420.8702706:20 Apr 2022 Avian influenza (98): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220418.8702687:18 Apr 2022 Avian influenza (97): Americas (USA) wild birds, die-off, susp
+20220416.8702664:16 Apr 2022 Avian influenza (96): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220416.8702664:16 Apr 2022 Avian influenza (96): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220416.8702664:16 Apr 2022 Avian influenza (96): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220416.8702664:16 Apr 2022 Avian influenza (96): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220416.8702664:16 Apr 2022 Avian influenza (96): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220416.8702654:16 Apr 2022 Avian influenza (95): Europe (Hungary) poultry, HPAI H5N1, OIE
+20220414.8702557:14 Apr 2022 Avian influenza, human (13): Asia (China) H5N6
+20220414.8702557:14 Apr 2022 Avian influenza, human (13): Asia (China) H5N6
+20220413.8702586:13 Apr 2022 Avian influenza (92): Americas (Canada, USA) wild bird, HPAI H5N1
+20220413.8702586:13 Apr 2022 Avian influenza (92): Americas (Canada, USA) wild bird, HPAI H5N1
+20220413.8702584:13 Apr 2022 Avian influenza (91): Europe, wild bird, HPAI H5N1, H5N5, OIE
+20220413.8702584:13 Apr 2022 Avian influenza (91): Europe, wild bird, HPAI H5N1, H5N5, OIE
+20220413.8702577:13 Apr 2022 Avian influenza (90): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220413.8702577:13 Apr 2022 Avian influenza (90): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220413.8702577:13 Apr 2022 Avian influenza (90): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220413.8702577:13 Apr 2022 Avian influenza (90): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220413.8702577:13 Apr 2022 Avian influenza (90): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220413.8702577:13 Apr 2022 Avian influenza (90): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220412.8702552:12 Apr 2022 Avian influenza (89): Africa (Mali) poultry, HPAI H5N1, OIE
+20220411.8702536:11 Apr 2022 Avian influenza (88): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220411.8702536:11 Apr 2022 Avian influenza (88): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220411.8702536:11 Apr 2022 Avian influenza (88): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220411.8702536:11 Apr 2022 Avian influenza (88): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220411.8702536:11 Apr 2022 Avian influenza (88): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220411.8702536:11 Apr 2022 Avian influenza (88): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220411.8702536:11 Apr 2022 Avian influenza (88): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220409.8702501:09 Apr 2022 Avian influenza (87): Americas (USA) poultry, mixed flocks, HPAI H5N1
+20220409.8702501:09 Apr 2022 Avian influenza (87): Americas (USA) poultry, mixed flocks, HPAI H5N1
+20220409.8702501:09 Apr 2022 Avian influenza (87): Americas (USA) poultry, mixed flocks, HPAI H5N1
+20220409.8702501:09 Apr 2022 Avian influenza (87): Americas (USA) poultry, mixed flocks, HPAI H5N1
+20220409.8702501:09 Apr 2022 Avian influenza (87): Americas (USA) poultry, mixed flocks, HPAI H5N1
+20220409.8702501:09 Apr 2022 Avian influenza (87): Americas (USA) poultry, mixed flocks, HPAI H5N1
+20220409.8702499:09 Apr 2022 Avian influenza (86): Americas (Canada) poultry, mixed flocks, HPAI H5N1
+20220409.8702499:09 Apr 2022 Avian influenza (86): Americas (Canada) poultry, mixed flocks, HPAI H5N1
+20220409.8702499:09 Apr 2022 Avian influenza (86): Americas (Canada) poultry, mixed flocks, HPAI H5N1
+20220409.8702467:09 Apr 2022 Avian influenza, human (12): Asia (China) H5N6
+20220405.8702425:05 Apr 2022 Avian influenza (84): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220405.8702425:05 Apr 2022 Avian influenza (84): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220405.8702425:05 Apr 2022 Avian influenza (84): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220405.8702425:05 Apr 2022 Avian influenza (84): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220405.8702425:05 Apr 2022 Avian influenza (84): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220405.8702425:05 Apr 2022 Avian influenza (84): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220403.8702369:03 Apr 2022 Avian influenza (83): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220403.8702369:03 Apr 2022 Avian influenza (83): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220403.8702369:03 Apr 2022 Avian influenza (83): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220403.8702369:03 Apr 2022 Avian influenza (83): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220403.8702369:03 Apr 2022 Avian influenza (83): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220403.8702369:03 Apr 2022 Avian influenza (83): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220403.8702369:03 Apr 2022 Avian influenza (83): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220403.8702369:03 Apr 2022 Avian influenza (83): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220401.8702337:01 Apr 2022 Avian influenza (82): Europe (Germany) wild bird, HPAI H5N1, OIE
+20220401.8702328:01 Apr 2022 Avian influenza (81): Europe (Belgium) poultry, HPAI H5N1, OIE
+20220401.8702328:01 Apr 2022 Avian influenza (81): Europe (Belgium) poultry, HPAI H5N1, OIE
+20220401.8702326:01 Apr 2022 Avian influenza (80): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220401.8702326:01 Apr 2022 Avian influenza (80): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220401.8702326:01 Apr 2022 Avian influenza (80): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220401.8702326:01 Apr 2022 Avian influenza (80): Americas (Canada, USA) poultry, mixed flocks, HPAI H5N1
+20220531.8703595:31 May 2022 Avian influenza, human (16): Asia (China) H3N8
+20220531.8703595:31 May 2022 Avian influenza, human (16): Asia (China) H3N8
+20220531.8703589:31 May 2022 Avian influenza (130): Europe (France) poultry, HPAI, vaccination considered
+20220530.8703581:30 May 2022 Avian influenza (129): Americas (USA, Canada) wild birds, HPAI H5N1
+20220530.8703581:30 May 2022 Avian influenza (129): Americas (USA, Canada) wild birds, HPAI H5N1
+20220530.8703581:30 May 2022 Avian influenza (129): Americas (USA, Canada) wild birds, HPAI H5N1
+20220530.8703581:30 May 2022 Avian influenza (129): Americas (USA, Canada) wild birds, HPAI H5N1
+20220529.8703545:29 May 2022 Avian influenza (128): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220529.8703545:29 May 2022 Avian influenza (128): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220529.8703545:29 May 2022 Avian influenza (128): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220528.8703515:28 May 2022 Avian influenza (127): Europe (Slovakia) poultry, HPAI H5N1, OIE
+20220526.8703466:26 May 2022 Avian influenza (126): Americas (USA) HPAI H5N1
+20220526.8703466:26 May 2022 Avian influenza (126): Americas (USA) HPAI H5N1
+20220526.8703466:26 May 2022 Avian influenza (126): Americas (USA) HPAI H5N1
+20220523.8703430:23 May 2022 Avian influenza (125): Americas (Canada, USA) HPAI H5N1
+20220523.8703430:23 May 2022 Avian influenza (125): Americas (Canada, USA) HPAI H5N1
+20220523.8703430:23 May 2022 Avian influenza (125): Americas (Canada, USA) HPAI H5N1
+20220523.8703430:23 May 2022 Avian influenza (125): Americas (Canada, USA) HPAI H5N1
+20220523.8703430:23 May 2022 Avian influenza (125): Americas (Canada, USA) HPAI H5N1
+20220523.8703430:23 May 2022 Avian influenza (125): Americas (Canada, USA) HPAI H5N1
+20220520.8703371:20 May 2022 Avian influenza (123): Africa (Gabon) poultry, HPAI H5N1, 1st rep, OIE
+20220520.8703367:20 May 2022 Avian influenza (122): Americas (USA) mixed flocks, HPAI H5N1
+20220520.8703367:20 May 2022 Avian influenza (122): Americas (USA) mixed flocks, HPAI H5N1
+20220520.8703367:20 May 2022 Avian influenza (122): Americas (USA) mixed flocks, HPAI H5N1
+20220520.8703367:20 May 2022 Avian influenza (122): Americas (USA) mixed flocks, HPAI H5N1
+20220520.8703367:20 May 2022 Avian influenza (122): Americas (USA) mixed flocks, HPAI H5N1
+20220518.8703337:18 May 2022 Avian influenza (121): Americas (USA) wild bird, HPAI H5N1
+20220518.8703337:18 May 2022 Avian influenza (121): Americas (USA) wild bird, HPAI H5N1
+20220518.8703337:18 May 2022 Avian influenza (121): Americas (USA) wild bird, HPAI H5N1
+20220518.8703337:18 May 2022 Avian influenza (121): Americas (USA) wild bird, HPAI H5N1
+20220518.8703337:18 May 2022 Avian influenza (121): Americas (USA) wild bird, HPAI H5N1
+20220518.8703337:18 May 2022 Avian influenza (121): Americas (USA) wild bird, HPAI H5N1
+20220518.8703337:18 May 2022 Avian influenza (121): Americas (USA) wild bird, HPAI H5N1
+20220517.8703292:17 May 2022 Avian influenza (120): Europe, wild bird, poultry, HPAI H5N1, OIE
+20220517.8703292:17 May 2022 Avian influenza (120): Europe, wild bird, poultry, HPAI H5N1, OIE
+20220517.8703292:17 May 2022 Avian influenza (120): Europe, wild bird, poultry, HPAI H5N1, OIE
+20220512.8703224:12 May 2022 Avian influenza (119): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220512.8703224:12 May 2022 Avian influenza (119): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220512.8703224:12 May 2022 Avian influenza (119): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220512.8703224:12 May 2022 Avian influenza (119): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220512.8703190:12 May 2022 Avian influenza (117): Europe (Bulgaria) poultry, HPAI H5N1, OIE
+20220511.8703177:11 May 2022 Avian influenza (116): Americas (USA) mixed flocks HPAI, H5N1
+20220511.8703177:11 May 2022 Avian influenza (116): Americas (USA) mixed flocks HPAI, H5N1
+20220511.8703177:11 May 2022 Avian influenza (116): Americas (USA) mixed flocks HPAI, H5N1
+20220511.8703177:11 May 2022 Avian influenza (116): Americas (USA) mixed flocks HPAI, H5N1
+20220509.8703137:09 May 2022 Avian influenza (114): Americas (USA) mixed flocks, HPAI
+20220509.8703137:09 May 2022 Avian influenza (114): Americas (USA) mixed flocks, HPAI
+20220509.8703137:09 May 2022 Avian influenza (114): Americas (USA) mixed flocks, HPAI
+20220509.8703137:09 May 2022 Avian influenza (114): Americas (USA) mixed flocks, HPAI
+20220509.8703137:09 May 2022 Avian influenza (114): Americas (USA) mixed flocks, HPAI
+20220509.8703137:09 May 2022 Avian influenza (114): Americas (USA) mixed flocks, HPAI
+20220507.8703108:07 May 2022 Avian influenza (113): Europe (Iceland) wild bird, poultry, HPAI H5N1, OIE
+20220507.8703108:07 May 2022 Avian influenza (113): Europe (Iceland) wild bird, poultry, HPAI H5N1, OIE
+20220506.8703084:06 May 2022 Avian influenza (112): Europe (Iceland) wild bird, HPAI H5N1
+20220505.8703047:05 May 2022 Avian influenza (111): Americas (Canada, USA) mixed flocks HPAI H5N1
+20220505.8703047:05 May 2022 Avian influenza (111): Americas (Canada, USA) mixed flocks HPAI H5N1
+20220505.8703047:05 May 2022 Avian influenza (111): Americas (Canada, USA) mixed flocks HPAI H5N1
+20220505.8703047:05 May 2022 Avian influenza (111): Americas (Canada, USA) mixed flocks HPAI H5N1
+20220503.8703005:03 May 2022 Avian influenza (110): Asia (Israel) wild bird, HPAI H5N8, OIE
+20220503.8702994:03 May 2022 Avian influenza (109): Europe, Americas, poultry, HPAI H5N1, confinement discussed
+20220630.8704169:30 Jun 2022 Avian influenza (144): Kazakhstan (AR) wild bird, HPAI H5, WOAH
+20220624.8704054:24 Jun 2022 Avian influenza (143): global, wild & farmed birds, HPAI H5N1, spread, control
+20220624.8704049:24 Jun 2022 Avian influenza (142): South Africa (WC,GT), HPAI H5N1, poultry, wild, 2021
+20220623.8704029:23 Jun 2022 Avian influenza (141): Americas (Canada, USA) mixed flocks HPAI H5N1
+20220623.8704029:23 Jun 2022 Avian influenza (141): Americas (Canada, USA) mixed flocks HPAI H5N1
+20220623.8704029:23 Jun 2022 Avian influenza (141): Americas (Canada, USA) mixed flocks HPAI H5N1
+20220615.8703885:15 Jun 2022 Avian influenza (138): Europe, poultry, HPAI H5N1, H5, WOAH
+20220615.8703885:15 Jun 2022 Avian influenza (138): Europe, poultry, HPAI H5N1, H5, WOAH
+20220610.8703802:10 Jun 2022 Avian influenza (137): Europe, backyard, HPAI H5N1, WOAH (formerly OIE)
+20220610.8703802:10 Jun 2022 Avian influenza (137): Europe, backyard, HPAI H5N1, WOAH (formerly OIE)
+20220610.8703802:10 Jun 2022 Avian influenza (137): Europe, backyard, HPAI H5N1, WOAH (formerly OIE)
+20220609.8703773:09 Jun 2022 Avian influenza (136): Asia (Taiwan) wild bird, HPAI H5N2, WOAH (formerly OIE)
+20220608.8703752:08 Jun 2022 Avian influenza (135): Africa (Guinea) poultry, HPAI H5N1, 1st rep, WOAH
+20220606.8703702:06 Jun 2022 Avian influenza (134): Americas (USA) mixed flocks, HPAI H5N1
+20220606.8703702:06 Jun 2022 Avian influenza (134): Americas (USA) mixed flocks, HPAI H5N1
+20220606.8703702:06 Jun 2022 Avian influenza (134): Americas (USA) mixed flocks, HPAI H5N1
+20220604.8703668:04 Jun 2022 Avian influenza (133): Iraq (WA) HPAI, poultry, H5N8, WOAH (formerly OIE)
+20220603.8703641:03 Jun 2022 Avian influenza (132): Asia (Israel) wild bird, HPAI H5N8
+20220727.8704701:27 Jul 2022 Avian influenza (154): Europe (England) wild bird die-off, HPAI
+20220725.8704657:25 Jul 2022 Avian influenza (153): Americas (USA) wild bird, HPAI H5N1
+20220725.8704657:25 Jul 2022 Avian influenza (153): Americas (USA) wild bird, HPAI H5N1
+20220724.8704618:24 Jul 2022 Avian influenza (152): Europe (Poland, Germany) poultry, HPAI H5N1, WOAH
+20220724.8704618:24 Jul 2022 Avian influenza (152): Europe (Poland, Germany) poultry, HPAI H5N1, WOAH
+20220718.8704497:18 Jul 2022 Avian influenza (151): Europe (Germany) poultry, HPAI H5N1, WOAH
+20220718.8704494:18 Jul 2022 Avian influenza (150): Europe (Ireland) wild bird, HPAI H5N1, WOAH
+20220715.8704449:15 Jul 2022 Avian influenza (149): Europe (UK) wild bird, HPAI H5N1, WOAH
+20220714.8704410:14 Jul 2022 Avian influenza (148): Russia, poultry, HPAI H5, vaccination
+20220710.8704325:10 Jul 2022 Avian influenza (147): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220710.8704325:10 Jul 2022 Avian influenza (147): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220710.8704325:10 Jul 2022 Avian influenza (147): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220710.8704325:10 Jul 2022 Avian influenza (147): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220710.8704325:10 Jul 2022 Avian influenza (147): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220710.8704325:10 Jul 2022 Avian influenza (147): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20220704.8704231:04 Jul 2022 Avian influenza (145): Europe, wild bird, HPAI H5N1, WOAH
+20220704.8704231:04 Jul 2022 Avian influenza (145): Europe, wild bird, HPAI H5N1, WOAH
+20220703.8704125:03 Jul 2022 Avian influenza, human (17): Asia (China) H5N6
+20220824.8705217:24 Aug 2022 Avian influenza (165): Europe (Netherlands, UK) poultry, HPAI H5N1, spread
+20220824.8705217:24 Aug 2022 Avian influenza (165): Europe (Netherlands, UK) poultry, HPAI H5N1, spread
+20220824.8705207:24 Aug 2022 Avian influenza (164): Americas (USA) vulture, HPAI H5N1
+20220820.8705129:20 Aug 2022 Avian influenza (163): Americas (USA) mixed flocks, HPAI H5N1
+20220820.8705129:20 Aug 2022 Avian influenza (163): Americas (USA) mixed flocks, HPAI H5N1
+20220820.8705129:20 Aug 2022 Avian influenza (163): Americas (USA) mixed flocks, HPAI H5N1
+20220820.8705129:20 Aug 2022 Avian influenza (163): Americas (USA) mixed flocks, HPAI H5N1
+20220820.8705129:20 Aug 2022 Avian influenza (163): Americas (USA) mixed flocks, HPAI H5N1
+20220818.8705090:18 Aug 2022 Avian influenza (162): Europe (Portugal) backyard, wild bird, HPAI H5N1, WOAH
+20220812.8705010:12 Aug 2022 Avian influenza (161): Europe (Spain) poultry, HPAI H5N1, WOAH
+20220808.8704936:08 Aug 2022 Avian influenza (160): Europe (UK) wild bird, HPAI
+20220806.8704886:06 Aug 2022 Avian influenza (159): Europe, poultry, backyard, HPAI H5N1, WOAH
+20220806.8704886:06 Aug 2022 Avian influenza (159): Europe, poultry, backyard, HPAI H5N1, WOAH
+20220806.8704886:06 Aug 2022 Avian influenza (159): Europe, poultry, backyard, HPAI H5N1, WOAH
+20220805.8704873:05 Aug 2022 Avian influenza (157): Europe (France) poultry, wild, spread
+20220802.8704821:02 Aug 2022 Avian influenza (156): China (QH) wild bird, HPAI H5N1, WOAH
+20220928.8705832:28 Sep 2022 Avian influenza (178): Americas (Canada, USA) mixed flocks, HPAI
+20220928.8705832:28 Sep 2022 Avian influenza (178): Americas (Canada, USA) mixed flocks, HPAI
+20220928.8705832:28 Sep 2022 Avian influenza (178): Americas (Canada, USA) mixed flocks, HPAI
+20220928.8705832:28 Sep 2022 Avian influenza (178): Americas (Canada, USA) mixed flocks, HPAI
+20220927.8705805:27 Sep 2022 Avian influenza (177): Europe (Italy) poultry, HPAI H5N1, WOAH *** no serveur response ***
+20220923.8705763:23 Sep 2022 Avian influenza (176): Europe (Poland, Belgium) poultry, HPAI H5N1, WOAH *** no serveur response ***
+20220923.8705751:23 Sep 2022 Avian influenza (175): Americas (Canada, USA) mixed flocks, HPAI, H5N1
+20220923.8705751:23 Sep 2022 Avian influenza (175): Americas (Canada, USA) mixed flocks, HPAI, H5N1
+20220923.8705751:23 Sep 2022 Avian influenza (175): Americas (Canada, USA) mixed flocks, HPAI, H5N1
+20220923.8705751:23 Sep 2022 Avian influenza (175): Americas (Canada, USA) mixed flocks, HPAI, H5N1
+20220923.8705751:23 Sep 2022 Avian influenza (175): Americas (Canada, USA) mixed flocks, HPAI, H5N1
+20220923.8705708:23 Sep 2022 Avian influenza, human (18): Asia (China) H5N6
+20220921.8705715:21 Sep 2022 Avian influenza (174): Americas (USA, Canada) wild bird, HPAI H5N1
+20220921.8705715:21 Sep 2022 Avian influenza (174): Americas (USA, Canada) wild bird, HPAI H5N1
+20220920.8705691:20 Sep 2022 Avian influenza (173): Africa (South Africa) penguin, HPAI H5N1
+20220917.8705632:17 Sep 2022 Avian influenza (173): Americas (Canada, C America, USA) mixed flocks, HPAI H5N1
+20220917.8705632:17 Sep 2022 Avian influenza (173): Americas (Canada, C America, USA) mixed flocks, HPAI H5N1
+20220917.8705632:17 Sep 2022 Avian influenza (173): Americas (Canada, C America, USA) mixed flocks, HPAI H5N1
+20220917.8705632:17 Sep 2022 Avian influenza (173): Americas (Canada, C America, USA) mixed flocks, HPAI H5N1
+20220917.8705632:17 Sep 2022 Avian influenza (173): Americas (Canada, C America, USA) mixed flocks, HPAI H5N1
+20220917.8705632:17 Sep 2022 Avian influenza (173): Americas (Canada, C America, USA) mixed flocks, HPAI H5N1
+20220917.8705632:17 Sep 2022 Avian influenza (173): Americas (Canada, C America, USA) mixed flocks, HPAI H5N1
+20220915.8705604:15 Sep 2022 Avian influenza (172): Europe (Spain) poultry, HPAI H5N1, spread
+20220913.8705558:13 Sep 2022 Avian influenza (170): Europe (Russia) poultry, HPAI H5N1, WOAH
+20220910.8705509:10 Sep 2022 Avian influenza (169): Americas (USA) mixed flocks, HPAI H5N1
+20220910.8705509:10 Sep 2022 Avian influenza (169): Americas (USA) mixed flocks, HPAI H5N1
+20220910.8705509:10 Sep 2022 Avian influenza (169): Americas (USA) mixed flocks, HPAI H5N1
+20220910.8705509:10 Sep 2022 Avian influenza (169): Americas (USA) mixed flocks, HPAI H5N1
+20220910.8705509:10 Sep 2022 Avian influenza (169): Americas (USA) mixed flocks, HPAI H5N1
+20220908.8705461:08 Sep 2022 Avian influenza (168): Europe (Portugal) poultry, HPAI H5N1, WOAH
+20220901.8705344:01 Sep 2022 Avian influenza (166): Europe (Russia) backyard, HPAI H5N1, WOAH
+20221031.8706482:31 Oct 2022 Avian influenza (202): Europe (Sweden) wild bird, HPAI, H5N1, WOAH
+20221027.8706405:27 Oct 2022 Avian influenza (201): Americas (Mexico) wild bird, HPAI H5N1, WOAH
+20221026.8706391:26 Oct 2022 Avian influenza (200): Europe (Bulgaria) poultry, HPAI, untyped, WOAH
+20221026.8706388:26 Oct 2022 Avian influenza (199): Europe (Slovenia,UK) wild bird, HPAI H5N1, WOAH
+20221026.8706388:26 Oct 2022 Avian influenza (199): Europe (Slovenia,UK) wild bird, HPAI H5N1, WOAH
+20221026.8706376:26 Oct 2022 Avian influenza (198): South Korea (KB) poultry, HPAI H5N1, spread
+20221025.8706361:25 Oct 2022 Avian influenza (197): Americas (Colombia) backyard, HPAI H5N1,1st rep, WOAH
+20221025.8706357:25 Oct 2022 Avian influenza (196): Europe (Bulgaria, Norway) poultry, HPAI H5N1, WOAH
+20221025.8706357:25 Oct 2022 Avian influenza (196): Europe (Bulgaria, Norway) poultry, HPAI H5N1, WOAH
+20221025.8706357:25 Oct 2022 Avian influenza (196): Europe (Bulgaria, Norway) poultry, HPAI H5N1, WOAH
+20221024.8706323:24 Oct 2022 Avian influenza, human (20): Asia (China) H5N6, (Viet Nam) H5
+20221024.8706323:24 Oct 2022 Avian influenza, human (20): Asia (China) H5N6, (Viet Nam) H5
+20221023.8706329:23 Oct 2022 Avian influenza (194): Americas (USA) mixed flocks, HPAI H5N1
+20221023.8706329:23 Oct 2022 Avian influenza (194): Americas (USA) mixed flocks, HPAI H5N1
+20221023.8706329:23 Oct 2022 Avian influenza (194): Americas (USA) mixed flocks, HPAI H5N1
+20221023.8706329:23 Oct 2022 Avian influenza (194): Americas (USA) mixed flocks, HPAI H5N1
+20221023.8706329:23 Oct 2022 Avian influenza (194): Americas (USA) mixed flocks, HPAI H5N1
+20221023.8706329:23 Oct 2022 Avian influenza (194): Americas (USA) mixed flocks, HPAI H5N1
+20221023.8706325:23 Oct 2022 Avian influenza (193): Americas (USA, Mexico) wild bird, HPAI H5N4, H5N1
+20221023.8706325:23 Oct 2022 Avian influenza (193): Americas (USA, Mexico) wild bird, HPAI H5N4, H5N1
+20221018.8706208:18 Oct 2022 Avian influenza (192): Americas (USA) mixed flocks, HPAI H5N1
+20221018.8706208:18 Oct 2022 Avian influenza (192): Americas (USA) mixed flocks, HPAI H5N1
+20221018.8706208:18 Oct 2022 Avian influenza (192): Americas (USA) mixed flocks, HPAI H5N1
+20221018.8706208:18 Oct 2022 Avian influenza (192): Americas (USA) mixed flocks, HPAI H5N1
+20221018.8706208:18 Oct 2022 Avian influenza (192): Americas (USA) mixed flocks, HPAI H5N1
+20221018.8706208:18 Oct 2022 Avian influenza (192): Americas (USA) mixed flocks, HPAI H5N1
+20221017.8706196:17 Oct 2022 Avian influenza (191): Americas (USA, Mexico) wild bird, HPAI H5N1
+20221017.8706196:17 Oct 2022 Avian influenza (191): Americas (USA, Mexico) wild bird, HPAI H5N1
+20221017.8706196:17 Oct 2022 Avian influenza (191): Americas (USA, Mexico) wild bird, HPAI H5N1
+20221014.8706153:14 Oct 2022 Avian influenza (190): Africa (Reunion) poultry, HPAI H5N1, WOAH
+20221014.8706153:14 Oct 2022 Avian influenza (190): Africa (Reunion) poultry, HPAI H5N1, WOAH
+20221011.8706091:11 Oct 2022 Avian influenza (189): Europe (France) poultry, HPAI H5N1, spread, control
+20221011.8706079:11 Oct 2022 Avian influenza (188): Europe (UK,Netherlands) poultry, HPAI H5, spread, control
+20221011.8706079:11 Oct 2022 Avian influenza (188): Europe (UK,Netherlands) poultry, HPAI H5, spread, control
+20221011.8706079:11 Oct 2022 Avian influenza (188): Europe (UK,Netherlands) poultry, HPAI H5, spread, control
+20221010.8706072:10 Oct 2022 Avian influenza (187): Europe (Italy) wild bird, HPAI H5N1, WOAH
+20221009.8706036:09 Oct 2022 Avian influenza (186): Africa (Algeria) poultry, HPAI H5N1, WOAH
+20221008.8706038:08 Oct 2022 Avian influenza (185): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20221008.8706038:08 Oct 2022 Avian influenza (185): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20221008.8706038:08 Oct 2022 Avian influenza (185): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20221008.8706038:08 Oct 2022 Avian influenza (185): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20221008.8706038:08 Oct 2022 Avian influenza (185): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20221008.8706038:08 Oct 2022 Avian influenza (185): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20221008.8706038:08 Oct 2022 Avian influenza (185): Americas (Canada, USA) mixed flocks, HPAI H5N1
+20221007.8706006:07 Oct 2022 Avian influenza (184): Europe (UK, Portugal, France) poultry, wild, HPAI, control
+20221007.8706006:07 Oct 2022 Avian influenza (184): Europe (UK, Portugal, France) poultry, wild, HPAI, control
+20221007.8706006:07 Oct 2022 Avian influenza (184): Europe (UK, Portugal, France) poultry, wild, HPAI, control
+20221007.8706006:07 Oct 2022 Avian influenza (184): Europe (UK, Portugal, France) poultry, wild, HPAI, control
+20221006.8705982:06 Oct 2022 Avian influenza (183): Europe (Netherlands) poultry, HPAI, spread
+20221006.8705982:06 Oct 2022 Avian influenza (183): Europe (Netherlands) poultry, HPAI, spread
+20221006.8705982:06 Oct 2022 Avian influenza (183): Europe (Netherlands) poultry, HPAI, spread
+20221005.8705973:05 Oct 2022 Avian influenza, human (19): Europe (Spain) H5N1
+20221005.8705972:05 Oct 2022 Avian influenza (182): Europe (Germany) poultry, HPAI H5N1, WOAH
+20221003.8705932:03 Oct 2022 Avian influenza (180): Asia (Japan) wild bird, HPAI H5N1, WOAH
+20221003.8705923:03 Oct 2022 Avian influenza (179): Europe (France) poultry, HPAI H5N1, spread, control
+20221129.8706961:29 Nov 2022 Avian influenza (223): Asia (S. Korea, Japan) poultry, HPAI H5N1, spread
+20221129.8706961:29 Nov 2022 Avian influenza (223): Asia (S. Korea, Japan) poultry, HPAI H5N1, spread
+20221128.8706955:28 Nov 2022 Avian influenza (222): Americas (Ecuador) poultry, HPAI H5, 1st rep, WOAH
+20221128.8706953:28 Nov 2022 Avian influenza (221): Europe (UK,Cyprus) wild bird, HPAI
+20221128.8706953:28 Nov 2022 Avian influenza (221): Europe (UK,Cyprus) wild bird, HPAI
+20221127.8706945:27 Nov 2022 Avian influenza (220): Europe (Ireland,Portugal) poultry, heron, HPAI H5N1, WOAH
+20221127.8706945:27 Nov 2022 Avian influenza (220): Europe (Ireland,Portugal) poultry, heron, HPAI H5N1, WOAH
+20221127.8706936:27 Nov 2022 Avian influenza (219): Asia (Viet Nam) poultry, HPAI H5N1, spread
+20221125.8706912:25 Nov 2022 Avian influenza (218): Asia (Israel) HPAI H5N1, poultry, WOAH
+20221122.8706852:22 Nov 2022 Avian influenza (217): Europe, captive, wild bird, HPAI H5N1, WOAH
+20221122.8706852:22 Nov 2022 Avian influenza (217): Europe, captive, wild bird, HPAI H5N1, WOAH
+20221122.8706852:22 Nov 2022 Avian influenza (217): Europe, captive, wild bird, HPAI H5N1, WOAH
+20221122.8706849:22 Nov 2022 Avian influenza (215): Asia (China) wild bird, HPAI H5N1, WOAH
+20221121.8706839:21 Nov 2022 Avian influenza (214): Asia (Israel) HPAI H5, poultry
+20221120.8706833:20 Nov 2022 Avian influenza (213): Americas (Peru) wild bird, HPAI H5, 1st rep, WOAH
+20221115.8706749:15 Nov 2022 Avian influenza (212): Africa (South Africa) poultry, HPAI, H5N2, WOAH
+20221115.8706740:15 Nov 2022 Avian influenza (211): Americas (USA, Mexico, Colombia) mixed flocks, HPAI H5N1
+20221115.8706740:15 Nov 2022 Avian influenza (211): Americas (USA, Mexico, Colombia) mixed flocks, HPAI H5N1
+20221115.8706740:15 Nov 2022 Avian influenza (211): Americas (USA, Mexico, Colombia) mixed flocks, HPAI H5N1
+20221115.8706740:15 Nov 2022 Avian influenza (211): Americas (USA, Mexico, Colombia) mixed flocks, HPAI H5N1
+20221115.8706740:15 Nov 2022 Avian influenza (211): Americas (USA, Mexico, Colombia) mixed flocks, HPAI H5N1
+20221114.8706738:14 Nov 2022 Avian influenza (210): Europe, poultry, wild bird, HPAI, H5N1, WOAH
+20221114.8706738:14 Nov 2022 Avian influenza (210): Europe, poultry, wild bird, HPAI, H5N1, WOAH
+20221114.8706738:14 Nov 2022 Avian influenza (210): Europe, poultry, wild bird, HPAI, H5N1, WOAH
+20221114.8706738:14 Nov 2022 Avian influenza (210): Europe, poultry, wild bird, HPAI, H5N1, WOAH
+20221114.8706738:14 Nov 2022 Avian influenza (210): Europe, poultry, wild bird, HPAI, H5N1, WOAH
+20221111.8706678:11 Nov 2022 Avian influenza (209): Asia (Japan) wild bird, HPAI H5N2, WOAH
+20221110.8706654:10 Nov 2022 Avian influenza (208): Americas (USA, Mexico) mixed flocks
+20221110.8706654:10 Nov 2022 Avian influenza (208): Americas (USA, Mexico) mixed flocks
+20221110.8706654:10 Nov 2022 Avian influenza (208): Americas (USA, Mexico) mixed flocks
+20221110.8706654:10 Nov 2022 Avian influenza (208): Americas (USA, Mexico) mixed flocks
+20221110.8706654:10 Nov 2022 Avian influenza (208): Americas (USA, Mexico) mixed flocks
+20221110.8706654:10 Nov 2022 Avian influenza (208): Americas (USA, Mexico) mixed flocks
+20221110.8706654:10 Nov 2022 Avian influenza (208): Americas (USA, Mexico) mixed flocks
+20221110.8706654:10 Nov 2022 Avian influenza (208): Americas (USA, Mexico) mixed flocks
+20221110.8706654:10 Nov 2022 Avian influenza (208): Americas (USA, Mexico) mixed flocks
+20221110.8706639:10 Nov 2022 Avian influenza (207): Europe, poultry, wild bird, HPAI, H5N1, WOAH
+20221110.8706639:10 Nov 2022 Avian influenza (207): Europe, poultry, wild bird, HPAI, H5N1, WOAH
+20221110.8706639:10 Nov 2022 Avian influenza (207): Europe, poultry, wild bird, HPAI, H5N1, WOAH
+20221110.8706639:10 Nov 2022 Avian influenza (207): Europe, poultry, wild bird, HPAI, H5N1, WOAH
+20221109.8706641:09 Nov 2022 Avian influenza (206): Asia (India) poultry, HPAI H5N1, WOAH
+20221107.8706610:07 Nov 2022 Avian influenza (205): Europe (Hungary) poultry, HPAI, H5N1, WOAH
+20221106.8706588:06 Nov 2022 Avian influenza, human (21): Europe (Spain) H5N1
+20221106.8706588:06 Nov 2022 Avian influenza, human (21): Europe (Spain) H5N1
+20221106.8706582:06 Nov 2022 Avian influenza (204): Japan (IB) poultry, HPAI H5N1, recurrence, spread
+20221103.8706539:03 Nov 2022 Avian influenza (203): Europe (Russia) poultry, HPAI, H5N1, WOAH
+20221231.8707555:31 Dec 2022 Avian influenza (247): Africa (Niger) poultry, HPAI H5N1, WOAH
+20221228.8707501:28 Dec 2022 Avian influenza (246): Asia, wild bird, HPAI H5N1, H5, WOAH
+20221228.8707501:28 Dec 2022 Avian influenza (246): Asia, wild bird, HPAI H5N1, H5, WOAH
+20221228.8707501:28 Dec 2022 Avian influenza (246): Asia, wild bird, HPAI H5N1, H5, WOAH
+20221226.8707471:26 Dec 2022 Avian influenza (245): Americas (Panama) wild bird, HPAI H5N1, 1st rep, alert
+20221225.8707445:25 Dec 2022 Avian influenza (244): Europe, wild bird, poultry, HPAI H5, H5N1, WOAH
+20221225.8707445:25 Dec 2022 Avian influenza (244): Europe, wild bird, poultry, HPAI H5, H5N1, WOAH
+20221225.8707445:25 Dec 2022 Avian influenza (244): Europe, wild bird, poultry, HPAI H5, H5N1, WOAH
+20221225.8707445:25 Dec 2022 Avian influenza (244): Europe, wild bird, poultry, HPAI H5, H5N1, WOAH
+20221225.8707445:25 Dec 2022 Avian influenza (244): Europe, wild bird, poultry, HPAI H5, H5N1, WOAH
+20221225.8707445:25 Dec 2022 Avian influenza (244): Europe, wild bird, poultry, HPAI H5, H5N1, WOAH
+20221223.8707428:23 Dec 2022 Avian influenza (243): Americas (USA, Canada) wild birds, HPAI H5N6
+20221223.8707425:23 Dec 2022 Avian influenza (242): Europe (France, Hungary) Asia (Israel) poultry, H5N1
+20221223.8707425:23 Dec 2022 Avian influenza (242): Europe (France, Hungary) Asia (Israel) poultry, H5N1
+20221223.8707425:23 Dec 2022 Avian influenza (242): Europe (France, Hungary) Asia (Israel) poultry, H5N1
+20221221.8707367:21 Dec 2022 Avian influenza (241): Americas, poultry, wild bird, HPAI H5N1, H5N6, WOAH
+20221221.8707367:21 Dec 2022 Avian influenza (241): Americas, poultry, wild bird, HPAI H5N1, H5N6, WOAH
+20221221.8707367:21 Dec 2022 Avian influenza (241): Americas, poultry, wild bird, HPAI H5N1, H5N6, WOAH
+20221221.8707367:21 Dec 2022 Avian influenza (241): Americas, poultry, wild bird, HPAI H5N1, H5N6, WOAH
+20221221.8707367:21 Dec 2022 Avian influenza (241): Americas, poultry, wild bird, HPAI H5N1, H5N6, WOAH
+20221217.8707321:17 Dec 2022 Avian influenza (240): Japan (AO) poultry, HPAI H5N1, spread, control
+20221216.8707312:16 Dec 2022 Avian influenza (239): Asia (Israel) HPAI H5N1, poultry, wild, spread
+20221216.8707310:16 Dec 2022 Avian influenza (238): China (Hong Kong) wild bird, HPAI H5N1, WOAH
+20221216.8707302:16 Dec 2022 Avian influenza (237): Europe (Germany, Russia) poultry, HPAI H5N1, WOAH
+20221216.8707302:16 Dec 2022 Avian influenza (237): Europe (Germany, Russia) poultry, HPAI H5N1, WOAH
+20221216.8707302:16 Dec 2022 Avian influenza (237): Europe (Germany, Russia) poultry, HPAI H5N1, WOAH
+20221215.8707279:15 Dec 2022 Avian influenza (236): Americas (South America, USA) poultry, HPAI H5N1
+20221215.8707279:15 Dec 2022 Avian influenza (236): Americas (South America, USA) poultry, HPAI H5N1
+20221215.8707279:15 Dec 2022 Avian influenza (236): Americas (South America, USA) poultry, HPAI H5N1
+20221215.8707279:15 Dec 2022 Avian influenza (236): Americas (South America, USA) poultry, HPAI H5N1
+20221215.8707279:15 Dec 2022 Avian influenza (236): Americas (South America, USA) poultry, HPAI H5N1
+20221215.8707279:15 Dec 2022 Avian influenza (236): Americas (South America, USA) poultry, HPAI H5N1
+20221213.8707231:13 Dec 2022 Avian influenza (234): Asia (Taiwan) poultry, HPAI H5N1, WOAH
+20221212.8707233:12 Dec 2022 Avian influenza (233): Europe (Poland, Cyprus) poultry, wild bird, HPAI H5N1, WOAH
+20221212.8707233:12 Dec 2022 Avian influenza (233): Europe (Poland, Cyprus) poultry, wild bird, HPAI H5N1, WOAH
+20221210.8707183:10 Dec 2022 Avian influenza (232): Americas (USA) wild birds, HPAI H5N1
+20221210.8707183:10 Dec 2022 Avian influenza (232): Americas (USA) wild birds, HPAI H5N1
+20221209.8707163:09 Dec 2022 Avian influenza (231): Americas (Chile) wild bird, HPAI H5N1
+20221206.8707127:06 Dec 2022 Avian influenza (230): Asia (N. Korea), poultry, HPAI suspected, RFI
+20221206.8707121:06 Dec 2022 Avian influenza (229): Americas (Peru) poultry, HPAI H5, WOAH
+20221206.8707116:06 Dec 2022 Avian influenza, human (23): Europe (Cyprus) NOT
+20221205.8707101:05 Dec 2022 Avian influenza (228): Americas (Venezuela) wild bird, HPAI H5, 1st rep, WOAH
+20221204.8707084:04 Dec 2022 Avian influenza, human (22): Europe (Cyprus) Asia (China) H5N1
+20221204.8707084:04 Dec 2022 Avian influenza, human (22): Europe (Cyprus) Asia (China) H5N1
+20221203.8707037:03 Dec 2022 Avian influenza (227): Americas (Canada, Mexico, South America, USA) mixed flocks
+20221203.8707037:03 Dec 2022 Avian influenza (227): Americas (Canada, Mexico, South America, USA) mixed flocks
+20221203.8707037:03 Dec 2022 Avian influenza (227): Americas (Canada, Mexico, South America, USA) mixed flocks
+20221203.8707037:03 Dec 2022 Avian influenza (227): Americas (Canada, Mexico, South America, USA) mixed flocks
+20221203.8707037:03 Dec 2022 Avian influenza (227): Americas (Canada, Mexico, South America, USA) mixed flocks
+20221203.8707037:03 Dec 2022 Avian influenza (227): Americas (Canada, Mexico, South America, USA) mixed flocks
+20221203.8707037:03 Dec 2022 Avian influenza (227): Americas (Canada, Mexico, South America, USA) mixed flocks
+20221203.8707037:03 Dec 2022 Avian influenza (227): Americas (Canada, Mexico, South America, USA) mixed flocks
+20221202.8707032:02 Dec 2022 Avian influenza (226): Americas (Peru) pelican, HPAI H5N1
+20221202.8707018:02 Dec 2022 Avian influenza (225): Europe (Hungary) poultry, HPAI, H5N1, WOAH
+20221201.8706976:01 Dec 2022 Avian influenza (224): Americas (USA), NY live bird markets
+20221201.8706976:01 Dec 2022 Avian influenza (224): Americas (USA), NY live bird markets
+20230131.8708073:31 Jan 2023 Avian influenza (16): Americas, poultry, wild bird, HPAI H5, H5N1, WOAH
+20230131.8708073:31 Jan 2023 Avian influenza (16): Americas, poultry, wild bird, HPAI H5, H5N1, WOAH
+20230131.8708073:31 Jan 2023 Avian influenza (16): Americas, poultry, wild bird, HPAI H5, H5N1, WOAH
+20230131.8708073:31 Jan 2023 Avian influenza (16): Americas, poultry, wild bird, HPAI H5, H5N1, WOAH
+20230131.8708073:31 Jan 2023 Avian influenza (16): Americas, poultry, wild bird, HPAI H5, H5N1, WOAH
+20230131.8708073:31 Jan 2023 Avian influenza (16): Americas, poultry, wild bird, HPAI H5, H5N1, WOAH
+20230125.8707958:25 Jan 2023 Avian influenza (14): Americas (Canada, USA) HPAI, H5N1, poultry, commercial
+20230125.8707958:25 Jan 2023 Avian influenza (14): Americas (Canada, USA) HPAI, H5N1, poultry, commercial
+20230125.8707958:25 Jan 2023 Avian influenza (14): Americas (Canada, USA) HPAI, H5N1, poultry, commercial
+20230125.8707958:25 Jan 2023 Avian influenza (14): Americas (Canada, USA) HPAI, H5N1, poultry, commercial
+20230125.8707958:25 Jan 2023 Avian influenza (14): Americas (Canada, USA) HPAI, H5N1, poultry, commercial
+20230124.8707929:24 Jan 2023 Avian influenza (13): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230124.8707929:24 Jan 2023 Avian influenza (13): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230124.8707929:24 Jan 2023 Avian influenza (13): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230124.8707929:24 Jan 2023 Avian influenza (13): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230124.8707929:24 Jan 2023 Avian influenza (13): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230121.8707878:21 Jan 2023 Avian influenza (10): Asia (Philippines, Japan) poultry, HPAI H5N1, H5N2, WOAH
+20230121.8707878:21 Jan 2023 Avian influenza (10): Asia (Philippines, Japan) poultry, HPAI H5N1, H5N2, WOAH
+20230120.8707869:20 Jan 2023 Avian influenza, human (03): Americas (Ecuador) H5N1 susp, update, WHO
+20230119.8707841:19 Jan 2023 Avian influenza (09): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230119.8707841:19 Jan 2023 Avian influenza (09): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230119.8707841:19 Jan 2023 Avian influenza (09): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230119.8707841:19 Jan 2023 Avian influenza (09): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230119.8707841:19 Jan 2023 Avian influenza (09): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230118.8707846:18 Jan 2023 Avian influenza (08): Americas (Mexico) HPAI H7N3, commercial poultry *** no serveur response ***
+20230118.8707843:18 Jan 2023 Avian influenza (07): Americas (USA) bear, HPAI H5N1 *** no serveur response ***
+20230112.8707760:12 Jan 2023 Avian influenza, human (02): Americas (Ecuador) H5N1 susp, RFI *** no serveur response ***
+20230111.8707753:11 Jan 2023 Avian influenza (06): Americas (Ecuador, Chile) poultry, wild bird, HPAI H5N1
+20230111.8707753:11 Jan 2023 Avian influenza (06): Americas (Ecuador, Chile) poultry, wild bird, HPAI H5N1
+20230108.8707682:08 Jan 2023 Avian influenza, human (01): China (HN) H5N6, 2022
+20230108.8707673:08 Jan 2023 Avian influenza (05): Europe, wild bird, poultry, HPAI H5N1, WOAH *** no serveur response ***
+20230106.8707652:06 Jan 2023 Avian influenza (04): Americas, poultry, wild bird, HPAI H5N1, spread, WOAH *** no serveur response ***
+20230105.8707631:05 Jan 2023 Avian influenza (03): Europe, Asia, poultry, HPAI H5N1, WHO *** no serveur response ***
+20230104.8707597:04 Jan 2023 Avian influenza (02): Africa (Niger) poultry, HPAI H5N1, WOAH *** no serveur response ***
+20230101.8707563:01 Jan 2023 Avian influenza (01): Americas (Canada, USA) poultry, commercial
+20230101.8707563:01 Jan 2023 Avian influenza (01): Americas (Canada, USA) poultry, commercial
+20230101.8707563:01 Jan 2023 Avian influenza (01): Americas (Canada, USA) poultry, commercial
+20230101.8707563:01 Jan 2023 Avian influenza (01): Americas (Canada, USA) poultry, commercial
+20230101.8707563:01 Jan 2023 Avian influenza (01): Americas (Canada, USA) poultry, commercial
+20230227.8708621:27 Feb 2023 Avian influenza, human (07): Cambodia (PY) H5N1, endemic clade, negative contacts
+20230227.8708621:27 Feb 2023 Avian influenza, human (07): Cambodia (PY) H5N1, endemic clade, negative contacts
+20230227.8708621:27 Feb 2023 Avian influenza, human (07): Cambodia (PY) H5N1, endemic clade, negative contacts
+20230224.8708580:24 Feb 2023 Avian influenza, human (06): Cambodia (PY) H5N1, Spain false positive, RFI
+20230224.8708580:24 Feb 2023 Avian influenza, human (06): Cambodia (PY) H5N1, Spain false positive, RFI
+20230224.8708580:24 Feb 2023 Avian influenza, human (06): Cambodia (PY) H5N1, Spain false positive, RFI
+20230223.8708564:23 Feb 2023 Avian influenza, human (05): Cambodia (PY) H5N1, more cases suspected
+20230223.8708549:23 Feb 2023 Avian influenza, human (04): Cambodia (PY) H5N1, fatal *** no serveur response ***
+20230223.8708546:23 Feb 2023 Avian influenza (33): global, HPAI H5N1, mammals, alert, research *** no serveur response ***
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230217.8708443:17 Feb 2023 Avian influenza (31): Americas, HPAI H5, H5N1, spread, vaccination
+20230216.8708431:16 Feb 2023 Avian influenza (30): Asia (Taiwan) goose, HPAI H5N5, WOAH
+20230216.8708430:16 Feb 2023 Avian influenza (29): Americas (Argentina, Uruguay) wild bird, HPAI H5N1, 1st rep
+20230216.8708420:16 Feb 2023 Avian influenza (28): Americas (Canada, South America, USA) bird, wild, domestic
+20230216.8708420:16 Feb 2023 Avian influenza (28): Americas (Canada, South America, USA) bird, wild, domestic
+20230216.8708420:16 Feb 2023 Avian influenza (28): Americas (Canada, South America, USA) bird, wild, domestic
+20230216.8708420:16 Feb 2023 Avian influenza (28): Americas (Canada, South America, USA) bird, wild, domestic
+20230216.8708420:16 Feb 2023 Avian influenza (28): Americas (Canada, South America, USA) bird, wild, domestic
+20230211.8708303:11 Feb 2023 Avian influenza (27): Americas (South America, Cuba, USA) mixed flocks, mammals
+20230211.8708303:11 Feb 2023 Avian influenza (27): Americas (South America, Cuba, USA) mixed flocks, mammals
+20230210.8708291:10 Feb 2023 Avian influenza (26): Americas (Cuba) captive bird, zoo, HPAI H5N1, 1st rep, WOAH
+20230209.8708256:09 Feb 2023 Avian influenza (24): Europe (Belgium) wild bird, HPAI H5N1
+20230208.8708234:08 Feb 2023 Avian influenza (21): Americas (Bolivia, USA) HPAI H5N1, poultry, commercial
+20230208.8708234:08 Feb 2023 Avian influenza (21): Americas (Bolivia, USA) HPAI H5N1, poultry, commercial
+20230208.8708234:08 Feb 2023 Avian influenza (21): Americas (Bolivia, USA) HPAI H5N1, poultry, commercial
+20230208.8708234:08 Feb 2023 Avian influenza (21): Americas (Bolivia, USA) HPAI H5N1, poultry, commercial
+20230208.8708234:08 Feb 2023 Avian influenza (21): Americas (Bolivia, USA) HPAI H5N1, poultry, commercial
+20230208.8708234:08 Feb 2023 Avian influenza (21): Americas (Bolivia, USA) HPAI H5N1, poultry, commercial
+20230208.8708234:08 Feb 2023 Avian influenza (21): Americas (Bolivia, USA) HPAI H5N1, poultry, commercial
+20230208.8708222:08 Feb 2023 Avian influenza (22): Asia (Nepal) poultry, HPAI H5N1, WOAH
+20230208.8708202:08 Feb 2023 Avian influenza (20): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230208.8708202:08 Feb 2023 Avian influenza (20): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230208.8708202:08 Feb 2023 Avian influenza (20): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230208.8708202:08 Feb 2023 Avian influenza (20): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230208.8708202:08 Feb 2023 Avian influenza (20): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230208.8708202:08 Feb 2023 Avian influenza (20): Europe, wild bird, poultry, HPAI H5N1, WOAH
+20230201.8708108:01 Feb 2023 Avian influenza (19): Americas (Ecuador, Bolivia) bird, HPAI H5, H5N1, WOAH
+20230201.8708108:01 Feb 2023 Avian influenza (19): Americas (Ecuador, Bolivia) bird, HPAI H5, H5N1, WOAH
+20230201.8708108:01 Feb 2023 Avian influenza (19): Americas (Ecuador, Bolivia) bird, HPAI H5, H5N1, WOAH
+20230201.8708089:01 Feb 2023 Avian influenza (17): Europe (Romania), poultry, HPAI H5N1, WOAH
+20230201.8708089:01 Feb 2023 Avian influenza (17): Europe (Romania), poultry, HPAI H5N1, WOAH
+20230330.8709235:30 Mar 2023 Avian influenza, human (13): Americas (Chile) H5N1, RFI
+20230330.8709226:30 Mar 2023 Avian influenza (56): Americas (Chile) poultry, wild bird, human, HPAI H5N1, WOAH
+20230330.8709226:30 Mar 2023 Avian influenza (56): Americas (Chile) poultry, wild bird, human, HPAI H5N1, WOAH
+20230330.8709226:30 Mar 2023 Avian influenza (56): Americas (Chile) poultry, wild bird, human, HPAI H5N1, WOAH
+20230329.8709207:29 Mar 2023 Avian influenza, human (12): China (GD) H3N8
+20230329.8709207:29 Mar 2023 Avian influenza, human (12): China (GD) H3N8
+20230329.8709207:29 Mar 2023 Avian influenza, human (12): China (GD) H3N8
+20230329.8709204:29 Mar 2023 Avian influenza (55): Europe, poultry, wild bird, HPAI H5N1, H5, WOAH
+20230329.8709204:29 Mar 2023 Avian influenza (55): Europe, poultry, wild bird, HPAI H5N1, H5, WOAH
+20230329.8709204:29 Mar 2023 Avian influenza (55): Europe, poultry, wild bird, HPAI H5N1, H5, WOAH
+20230323.8709109:23 Mar 2023 Avian influenza (54): Europe, poultry, HPAI H5N1, WOAH
+20230323.8709109:23 Mar 2023 Avian influenza (54): Europe, poultry, HPAI H5N1, WOAH
+20230323.8709109:23 Mar 2023 Avian influenza (54): Europe, poultry, HPAI H5N1, WOAH
+20230320.8709054:20 Mar 2023 Avian influenza, human (11): Ukraine, NOT
+20230320.8709046:20 Mar 2023 Avian influenza (52): Asia (Taiwan) poultry, LPAI H9N2, 1st rep, public alert
+20230319.8709043:19 Mar 2023 Avian influenza, human (10): Ukraine, RFI, poultry
+20230319.8709014:19 Mar 2023 Avian influenza (51): Asia (Bhutan) backyard, HPAI H5N1, WOAH
+20230316.8708971:16 Mar 2023 Avian influenza (50): Africa (Senegal) wild, poultry, HPAI H5N1, WOAH
+20230316.8708971:16 Mar 2023 Avian influenza (50): Africa (Senegal) wild, poultry, HPAI H5N1, WOAH
+20230315.8708954:15 Mar 2023 Avian influenza (49): Americas (Chile) poultry, HPAI H5N1, WOAH
+20230314.8708926:14 Mar 2023 Avian influenza (47): Americas (Chile) poultry, HPAI
+20230314.8708924:14 Mar 2023 Avian influenza (46): Asia (India) poultry, HPAI H5N1, WOAH
+20230314.8708918:14 Mar 2023 Avian influenza (45): Americas (Canada, USA) HPAI H5N1, wild bird, mixed poultry
+20230314.8708918:14 Mar 2023 Avian influenza (45): Americas (Canada, USA) HPAI H5N1, wild bird, mixed poultry
+20230314.8708918:14 Mar 2023 Avian influenza (45): Americas (Canada, USA) HPAI H5N1, wild bird, mixed poultry
+20230314.8708918:14 Mar 2023 Avian influenza (45): Americas (Canada, USA) HPAI H5N1, wild bird, mixed poultry
+20230314.8708918:14 Mar 2023 Avian influenza (45): Americas (Canada, USA) HPAI H5N1, wild bird, mixed poultry
+20230310.8708851:10 Mar 2023 Avian influenza (44): Europe (Italy, UK) poultry, wild bird, HPAI H5N1, WOAH
+20230310.8708851:10 Mar 2023 Avian influenza (44): Europe (Italy, UK) poultry, wild bird, HPAI H5N1, WOAH
+20230310.8708840:10 Mar 2023 Avian influenza (43): Asia (Cambodia) wild, HPAI H5N1, WOAH
+20230308.8708819:08 Mar 2023 Avian influenza (37): Europe, wild bird, poultry, HPAI H5N1, H5N5, WOAH, corr
+20230308.8708814:08 Mar 2023 Avian influenza (40): Americas (Uruguay) backyard, HPAI H5, 1st rep, WOAH
+20230305.8708757:05 Mar 2023 Avian influenza (38): Americas (Argentina, Ecuador, Mexico, USA) mixed poultry
+20230305.8708757:05 Mar 2023 Avian influenza (38): Americas (Argentina, Ecuador, Mexico, USA) mixed poultry
+20230305.8708757:05 Mar 2023 Avian influenza (38): Americas (Argentina, Ecuador, Mexico, USA) mixed poultry
+20230305.8708757:05 Mar 2023 Avian influenza (38): Americas (Argentina, Ecuador, Mexico, USA) mixed poultry
+20230305.8708757:05 Mar 2023 Avian influenza (38): Americas (Argentina, Ecuador, Mexico, USA) mixed poultry
+20230304.8708726:04 Mar 2023 Avian influenza (37): Europe, wild bird, poultry, HPAI H5N1, H5N5, WOAH
+20230304.8708726:04 Mar 2023 Avian influenza (37): Europe, wild bird, poultry, HPAI H5N1, H5N5, WOAH
+20230304.8708726:04 Mar 2023 Avian influenza (37): Europe, wild bird, poultry, HPAI H5N1, H5N5, WOAH
+20230303.8708712:03 Mar 2023 Avian influenza (36): Americas (Argentina) poultry, HPAI H5, WOAH
+20230303.8708712:03 Mar 2023 Avian influenza (36): Americas (Argentina) poultry, HPAI H5, WOAH
+20230303.8708711:03 Mar 2023 Avian influenza (35): Asia (Taiwan,Nepal) backyard, wild, HPAI H5N1, WOAH
+20230303.8708711:03 Mar 2023 Avian influenza (35): Asia (Taiwan,Nepal) backyard, wild, HPAI H5N1, WOAH
+20230303.8708695:03 Mar 2023 Avian influenza, human (09): China (JS) H5N1
+20230302.8708673:02 Mar 2023 Avian influenza, human (08): China (GD) H5N6, H9N2, RFI
+20230429.8709765:29 Apr 2023 Avian influenza (76): Europe (Norway) captive birds, HPAI H5N1, WOAH
+20230427.8709738:27 Apr 2023 Avian influenza (75): Europe (Denmark) poultry, HPAI H5N1
+20230424.8709671:24 Apr 2023 Avian influenza (73): Asia (Japan) wild bird, HPAI H5N8, WOAH
+20230424.8709670:24 Apr 2023 Avian influenza (72): Europe (Norway) captive bird, zoo, HPAI H5N1, WOAH
+20230422.8709633:22 Apr 2023 Avian influenza (70): Americas (Uruguay, Canada, USA) poultry
+20230422.8709633:22 Apr 2023 Avian influenza (70): Americas (Uruguay, Canada, USA) poultry
+20230422.8709633:22 Apr 2023 Avian influenza (70): Americas (Uruguay, Canada, USA) poultry
+20230422.8709633:22 Apr 2023 Avian influenza (70): Americas (Uruguay, Canada, USA) poultry
+20230422.8709633:22 Apr 2023 Avian influenza (70): Americas (Uruguay, Canada, USA) poultry
+20230422.8709633:22 Apr 2023 Avian influenza (70): Americas (Uruguay, Canada, USA) poultry
+20230419.8709580:19 Apr 2023 Avian influenza (68): Africa (Senegal, Gambia) wild bird, HPAI H5N1
+20230416.8709524:16 Apr 2023 Avian influenza, human (15): China (GD) H3N8, fatal, WHO
+20230416.8709524:16 Apr 2023 Avian influenza, human (15): China (GD) H3N8, fatal, WHO
+20230416.8709524:16 Apr 2023 Avian influenza, human (15): China (GD) H3N8, fatal, WHO
+20230416.8709524:16 Apr 2023 Avian influenza, human (15): China (GD) H3N8, fatal, WHO
+20230416.8709524:16 Apr 2023 Avian influenza, human (15): China (GD) H3N8, fatal, WHO
+20230416.8709523:16 Apr 2023 Avian influenza, human (14): H5N1, viral mutations
+20230416.8709523:16 Apr 2023 Avian influenza, human (14): H5N1, viral mutations
+20230414.8709488:14 Apr 2023 Avian influenza (66): Africa (Gambia) wild, HPAI H5N1, 1st rep, WOAH
+20230414.8709487:14 Apr 2023 Avian influenza (67): Europe, poultry, wild bird, HPAI H5N1, WOAH
+20230414.8709487:14 Apr 2023 Avian influenza (67): Europe, poultry, wild bird, HPAI H5N1, WOAH
+20230411.8709443:11 Apr 2023 Avian influenza (65): Americas (USA) Californian condor, HPAI H5N1
+20230409.8709414:09 Apr 2023 Avian influenza (64): Europe, poultry, wild bird, HPAI H5N1, WOAH
+20230409.8709414:09 Apr 2023 Avian influenza (64): Europe, poultry, wild bird, HPAI H5N1, WOAH
+20230408.8709403:08 Apr 2023 Avian influenza (62): Europe (France) poultry, HPAI H5N1, vaccination
+20230408.8709403:08 Apr 2023 Avian influenza (62): Europe (France) poultry, HPAI H5N1, vaccination
+20230405.8709342:05 Apr 2023 Avian influenza (61): Americas (Chile) poultry, wild bird, mammal, H5N1, H5, WOAH
+20230405.8709342:05 Apr 2023 Avian influenza (61): Americas (Chile) poultry, wild bird, mammal, H5N1, H5, WOAH
+20230405.8709342:05 Apr 2023 Avian influenza (61): Americas (Chile) poultry, wild bird, mammal, H5N1, H5, WOAH
+20230404.8709331:04 Apr 2023 Avian influenza (60): Americas (Chile, USA) commercial, mixed flocks, gamebirds
+20230404.8709331:04 Apr 2023 Avian influenza (60): Americas (Chile, USA) commercial, mixed flocks, gamebirds
+20230404.8709331:04 Apr 2023 Avian influenza (60): Americas (Chile, USA) commercial, mixed flocks, gamebirds
+20230404.8709331:04 Apr 2023 Avian influenza (60): Americas (Chile, USA) commercial, mixed flocks, gamebirds
+20230404.8709331:04 Apr 2023 Avian influenza (60): Americas (Chile, USA) commercial, mixed flocks, gamebirds
+20230403.8709302:03 Apr 2023 Avian influenza (58): Africa (Senegal) poultry, HPAI H5N1, WOAH
+20230403.8709302:03 Apr 2023 Avian influenza (58): Africa (Senegal) poultry, HPAI H5N1, WOAH
+20230528.8710287:28 May 2023 Avian influenza (91): Africa (Guinea) wild bird, HPAI H5N1, WOAH
+20230527.8710277:27 May 2023 Avian influenza (90): Americas (Paraguay) backyard, HPAI H5, 1st rep, WOAH
+20230527.8710276:27 May 2023 Avian influenza (89): Europe (Russia) wild bird, poultry, HPAI H5N1, WOAH
+20230527.8710276:27 May 2023 Avian influenza (89): Europe (Russia) wild bird, poultry, HPAI H5N1, WOAH
+20230524.8710223:24 May 2023 Avian influenza (88): Americas (Brazil) wild bird, HPAI H5N1
+20230523.8710201:23 May 2023 Avian influenza (87): Europe, wild bird, HPAI H5N1, WOAH
+20230523.8710201:23 May 2023 Avian influenza (87): Europe, wild bird, HPAI H5N1, WOAH
+20230523.8710201:23 May 2023 Avian influenza (87): Europe, wild bird, HPAI H5N1, WOAH
+20230517.8710105:17 May 2023 Avian influenza (86): Europe (Russia) wild bird, HPAI H5N1, WOAH
+20230517.8710099:17 May 2023 Avian influenza, human (16): Europe (UK) H5N1 exposure, RFI
+20230515.8710059:15 May 2023 Avian influenza (85): Asia (India, Indonesia) poultry, HPAI H5N1, WOAH
+20230515.8710059:15 May 2023 Avian influenza (85): Asia (India, Indonesia) poultry, HPAI H5N1, WOAH
+20230512.8710012:12 May 2023 Avian influenza (84): Americas (Uruguay) coati, zoo, HPAI H5, WOAH *** no serveur response ***
+20230510.8709973:10 May 2023 Avian influenza (83): Europe (Italy, Latvia) fox, wild bird, HPAI H5N1, WOAH *** no serveur response ***
+20230506.8709896:06 May 2023 Avian influenza (82): Americas (Canada, USA, Uruguay) poultry, turkey *** no serveur response ***
+20230506.8709886:06 May 2023 Avian influenza (81): Europe, captive bird, mammal, poultry, HPAI H5N1, WOAH
+20230506.8709886:06 May 2023 Avian influenza (81): Europe, captive bird, mammal, poultry, HPAI H5N1, WOAH
+20230504.8709860:04 May 2023 Avian influenza (80): Africa (South Africa) wild bird, poultry, HPAI, H5, WOAH
+20230504.8709860:04 May 2023 Avian influenza (80): Africa (South Africa) wild bird, poultry, HPAI, H5, WOAH
+20230503.8709843:03 May 2023 Avian influenza (79): Americas (USA) Californian condor, HPAI H5N1
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230503.8709816:03 May 2023 Avian influenza (78): Americas (Mexico, Central/South), poultry/wild, H5N1, WOAH
+20230502.8709812:02 May 2023 Avian influenza (77): Europe (UK) gull
+20230615.8710607:15 Jun 2023 Avian influenza (94): Europe (Luxembourg,Finland) wild bird, HPAI H5N1, H5, WOAH
+20230615.8710607:15 Jun 2023 Avian influenza (94): Europe (Luxembourg,Finland) wild bird, HPAI H5N1, H5, WOAH
+20230612.8710545:12 Jun 2023 Avian influenza, human (18): China (SC) H9N2, RFI
+20230606.8710441:06 Jun 2023 Avian influenza, human (17): China (SC) H5N6, RFI
+20230606.8710441:06 Jun 2023 Avian influenza, human (17): China (SC) H5N6, RFI
+20230605.8710414:05 Jun 2023 Avian influenza (93): Americas (Paraguay, USA), international discussions
+20230605.8710414:05 Jun 2023 Avian influenza (93): Americas (Paraguay, USA), international discussions
+20230605.8710414:05 Jun 2023 Avian influenza (93): Americas (Paraguay, USA), international discussions
+20230605.8710414:05 Jun 2023 Avian influenza (93): Americas (Paraguay, USA), international discussions

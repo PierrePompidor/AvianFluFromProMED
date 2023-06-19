@@ -10,15 +10,16 @@ import time, datetime
 import csv
 
 months = {'Jan':'01','Feb':'02','Mar':'03','Apr':'04','May':'05','Jun':'06','Jul':'07','Aug':'08','Sep':'09','Oct':'10','Nov':'11','Dec':'12'}
-criterias = ['vsi_event_id', 'source', 'wahis_id', 'adis_id', 'promed_id', 'promed_archive_number', 'subpost', 'source_fr_id', 'disease', 'region', 'country', 'admin1', 'admin2', 'admin3', 'admin4', 'admin5', 'latitude', 'longitude', 'prim_sec_outb', 'serotype', 'start_date', 'conf_date', 'event_date', 'report_date', 'last_modification_date', 'comp_fr', 'comp_en', 	'species', 'wild_type', 'nb_susceptible', 'nb_cases', 'mortality', 'nb_dead', 'comments', 'production', 'epi_unit', 'test_cat', 'test_name', 'link', 'link2']
+criterias = ['vsi_event_id', 'source', 'wahis_id', 'adis_id', 'promed_id', 'promed_archive_number', 'subpost', 'source_fr_id', 'disease', 'region', 'country', 'admin1', 'admin2', 'admin3', 'admin4', 'admin5', 'latitude', 'longitude', 'prim_sec_outb', 'serotype', 'start_date', 'conf_date', 'event_date', 'report_date', 'last_modification_date', 'comp_fr', 'comp_en', 	'comp_sp', 'species', 'wild_type', 'nb_susceptible', 'nb_cases', 'mortality', 'nb_dead', 'comments', 'production', 'epi_unit', 'test_cat', 'test_name', 'link', 'link2']
 disease = "Influenza"
 species = {}
 vernacularNames = {'EN': {}, 'SP': {}, 'FR': {}}
 continents = {}
 countries = {}
 directedResearch = {'serotype': ['H3N8', 'H5','H5N1', 'H5N3', 'H5N5', 'H5N6', 'H5N8', 'H7', 'H7N3', 'H9N2', 'HPAI'],
-    'comp_fr': ['captif', 'commercial', 'domestique', 'sauvage', 'zoo'],
-    'comp_en': ['backyard', 'captive', 'commercial', 'domestic', 'wild', 'zoo']
+    'comp_fr': ['basse-cour', 'captif', 'captive', 'commercial', 'domestique', 'sauvage', 'zoo'],
+    'comp_en': ['backyard', 'captive', 'commercial', 'domestic', 'wild', 'zoo'],
+    'comp_sp': ['corral', 'cautivo', 'cautiva', 'comercial', 'doméstico', 'salvaje', 'zoo']
 }
 
 eventsJson = []
@@ -130,7 +131,6 @@ def subjectParsing(result, text, headerSerotypes, headerSpecies) :
     else :
         speciesList = headerSpecies
     if speciesList != [] :
-        print("ICI")
         # deletion of a species name included in another
         for sp1 in speciesList :
             found = False
@@ -327,9 +327,10 @@ def speciesParsing(speciesNames, text, lang) :
     nsps = [sp.lower().capitalize() for sp in sps]
     nspecies = []
     if len(speciesNames) == 1 and speciesNames[0] in ['marine mammal', 'mamífero marinero', 'mammifère marin'] :
-        print("Marine species :")
+        print("Marine species :", nspecies)
         for name in vernacularNames[lang] :
-            if name not in nspecies and re.search(r"\b"+name+r"s?\b", text, re.IGNORECASE) :
+            if  re.search(r"\b"+name+r"s?\b", text, re.IGNORECASE) :
+                print('nspecies :', nspecies)
                 for family in vernacularNames[lang][name] :
                     if family in vernacularNames[lang][speciesNames[0]] :
                         boolScientificName = False
@@ -340,12 +341,13 @@ def speciesParsing(speciesNames, text, lang) :
                                         nspecies.append(name+' ('+scientificName+')')
                                         nsps.remove(scientificName)
                                         boolScientificName = True
-                        if not boolScientificName : nspecies.append(name)
-                        print(name, "=> in post / subpost")
+                        if not boolScientificName and name not in nspecies:
+                            nspecies.append(name)
+                        print(name, "=> in post / subpost (marine species)")
     elif len(speciesNames) == 1 and speciesNames[0] in ['mammal', 'mamífero', 'mammifère'] :
         print("All species :")
         for name in vernacularNames[lang] :
-            if name not in nspecies and re.search(r"\b"+name+r"s?\b", text, re.IGNORECASE) :
+            if  re.search(r"\b"+name+r"s?\b", text, re.IGNORECASE) :
                 boolScientificName = False
                 for scientificName in nsps :
                     if scientificName in species :
@@ -354,7 +356,8 @@ def speciesParsing(speciesNames, text, lang) :
                                 nspecies.append(name+' ('+scientificName+')')
                                 nsps.remove(scientificName)
                                 boolScientificName = True
-                if not boolScientificName : nspecies.append(name)
+                if not boolScientificName and name not in nspecies :
+                    nspecies.append(name)
                 print(name, "=> in post / subpost")
     else :
         for name in speciesNames :
@@ -428,10 +431,13 @@ def bodyParsingByPost(result, headerSerotypes, headerSpecies, headerCountries, t
                     res = re.search(": .+ / .+ / \d+ / (\d+) / \d+ / \d+ / \d+", line)
                     if res and int(res.group(1)) > 0 :
                         result["mortality"] = "yes"
-                    else :
-                        res = re.search("(\bdie\b|\bdied\b|\bfatal\b)", line)
-                        if res :
-                            result["mortality"] = "yes"
+                        print("Mortality :", res.group(1))
+            
+                print('LINE :', line)
+                res = re.search(r"\b(dead|die|died|fatal)\b", line)
+                if res :
+                    result["mortality"] = "yes"
+                    print("Mortality :", res.group(0))
 
     if result['species'] != [] :
         result['species'] = speciesParsing(result['species'], text, lang) # to associate a scientific name with a vernacular name
@@ -518,9 +524,9 @@ def bodyParsing(result, headerSerotypes, headerSpecies, headerCountries, post_te
         for headerNum in headerDict :
             #print(headerNum, headerDict[headerNum])
             # TRACE
-            #FR = open("subpost"+str(headerNum)+".txt", "w")
-            #FR.write(headerDict[headerNum])
-            #FR.close()
+            # FR = open("subpost"+str(headerNum)+".txt", "w")
+            # FR.write(headerDict[headerNum])
+            #   FR.close()
             
             print('-------------------------------------------------------------------------')
             # Extraction of each sub post
@@ -688,7 +694,7 @@ def getCasesByDiseasesAndDates(diseases, startDate, endDate, inDepthAnalysis) :
 def getPostById(promed_url, driver) :
     print("getPostById('"+promed_url+"')")
     driver.get(promed_url)
-    time.sleep(6)
+    time.sleep(7)
     header = ''
     body = ''
     try : header = driver.find_element(By.CLASS_NAME, "publish_date_html").text  # promed_post_detail")
@@ -700,6 +706,8 @@ def getPostById(promed_url, driver) :
     return header, body
 
 def searchByDates(manualCall, datemin, datemax) :
+    startDate = datemin
+    endDate = datemax
     diseases = ["avian+influenza"]  #, "bird+flu"]
     values = []
     if manualCall :
@@ -756,7 +764,7 @@ def searchByDates(manualCall, datemin, datemax) :
             previousEvents = json.load(fd)
             fd.close()
             previousEvents.extend(eventsJson)
-            fr = open('promed Influenza.json')
+            fr = open('promed Influenza.json', 'w')
             json.dump(previousEvents, fr, indent=4)
             fr.close()
             print(eventsJson.length, 'added in promed Influenza.json')
@@ -772,21 +780,25 @@ def searchById() :
     while True :
         archive_number = input("date.id <exit 0> : ")
         if archive_number == '0' : return
-        if archive_number == '1' :
-            promed_date = '20220805' 
-            promed_id = '8704881'
+        if archive_number == '1' :  # bear
+            promed_date = '20230118' 
+            promed_id = '8707843'
             break
-        if archive_number == '2' :
+        if archive_number == '2' : # mammals
+            promed_date = '20230223'
+            promed_id = '8708546'
+            break
+        if archive_number == '3' : # coati
+            promed_date = '20230512'
+            promed_id = '8710012'
+            break
+        if archive_number == '4' : # fox
             promed_date = '20230510'
             promed_id = '8709973'
             break
-        if archive_number == '3' :
-            promed_date = '20230405'
-            promed_id = '8709342'
-            break
-        if archive_number == '4' :
-            promed_date = ''
-            promed_id = ''
+        if archive_number == '5' : # mammal
+            promed_date = '20230506'
+            promed_id ='8709886'
             break
         res = re.search("(\d{8})\.(\d+)", archive_number)
         if res :

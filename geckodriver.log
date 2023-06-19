@@ -103,3 +103,13 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1686918342152	geckodriver	INFO	Listening on 127.0.0.1:48231
+1686918342647	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4vSjOj"
+1686918344643	Marionette	INFO	Marionette enabled
+1686918344649	Marionette	INFO	Listening on port 46495
+Read port: 46495
+WebDriver BiDi listening on ws://127.0.0.1:49557
+1686918344800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4vSjOj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49557/devtools/browser/8620e530-38b8-4ac9-b391-3518dd1a6f50
+1686918540695	Marionette	INFO	Stopped listening on port 46495

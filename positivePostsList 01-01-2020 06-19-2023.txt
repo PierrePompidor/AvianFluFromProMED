@@ -1,0 +1,65 @@
+20210317.8252821:17 Mar 2021 Avian influenza (45): Europe (UK, Croatia) seal, fox, wild bird, HPAI H5N8, OIE >>> fox,seal
+20210317.8252821:17 Mar 2021 Avian influenza (45): Europe (UK, Croatia) seal, fox, wild bird, HPAI H5N8, OIE >>> fox,seal
+20210621.8463888:21 Jun 2021 Avian influenza (84): China (GX) H9N2, dog, zoonotic potential susp, RFI >>> dog
+20210924.8698675:24 Sep 2021 Avian influenza (117): Europe (Germany) seal, HPAI H5N8 >>> seal
+20211101.8699389:01 Nov 2021 Avian influenza (133): Europe (Netherlands) fox HPAI H5N1 >>> fox
+20211222.8700432:22 Dec 2021 Avian influenza (180): Europe (Estonia) fox, HPAI H5N1, OIE >>> fox
+20220219.8701556:19 Feb 2022 Avian influenza (49): Europe (Denmark) seal, HPAI H5N8, 2021 >>> seal
+20220216.8701500:16 Feb 2022 Avian influenza (47): Europe, poultry, fox, HPAI H5N1, OIE >>> fox
+20220216.8701500:16 Feb 2022 Avian influenza (47): Europe, poultry, fox, HPAI H5N1, OIE >>> fox
+20220415.8702609:15 Apr 2022 Avian influenza (94): Japan, raccoon dog, HPAI H5N1, update >>> raccoon dog
+20220415.8702609:15 Apr 2022 Avian influenza (94): Japan, raccoon dog, HPAI H5N1, update >>> raccoon dog
+20220413.8702568:13 Apr 2022 Avian influenza (93): Japan, raccoon dog, HPAI H5N1, RFI >>> raccoon dog
+20220406.8702440:06 Apr 2022 Avian influenza (85): Asia (Japan) crow, fox, HPAI H5 >>> fox
+20220523.8703428:23 May 2022 Avian influenza (124): Americas (USA) fox, HPAI H5N1 >>> fox
+20220523.8703428:23 May 2022 Avian influenza (124): Americas (USA) fox, HPAI H5N1 >>> fox
+20220512.8703221:12 May 2022 Avian influenza (118): Americas (USA) fox, HPAI H5N1, OIE >>> fox
+20220509.8703152:09 May 2022 Avian influenza (115): Americas (Canada) fox, HPAI H5N1, OIE >>> fox
+20220621.8703993:21 Jun 2022 Avian influenza (140): Americas (USA) raccoon, HPAI >>> raccoon
+20220616.8703889:16 Jun 2022 Avian influenza (139): Americas (USA, Canada) fox, HPAI >>> fox
+20220616.8703889:16 Jun 2022 Avian influenza (139): Americas (USA, Canada) fox, HPAI >>> fox
+20220601.8703600:01 Jun 2022 Avian influenza (131): Americas (USA, Canada) wild carnivores, HPAI H5N1 >>> fox
+20220601.8703600:01 Jun 2022 Avian influenza (131): Americas (USA, Canada) wild carnivores, HPAI H5N1 >>> skunk
+20220705.8704251:05 Jul 2022 Avian influenza (146): Americas (USA) seal, HPAI H5N1 >>> seal
+20220805.8704881:05 Aug 2022 Avian influenza (158): Americas (Canada) seal, HPAI H5N1 >>> seal
+20220801.8704797:01 Aug 2022 Avian influenza (155): Europe (Belgium) fox, HPAI >>> fox
+20220914.8705586:14 Sep 2022 Avian influenza (171): Americas (USA) dolphin, HPAI H5N1 >>> dolphin
+20220905.8705416:05 Sep 2022 Avian influenza (167): Europe (Sweden) porpoise, HPAI H5N1, 1st rep >>> porpoise
+20221023.8706335:23 Oct 2022 Avian influenza (195): Europe (Spain) mink, HPAI H5N1 >>> mink
+20221004.8705954:04 Oct 2022 Avian influenza (181): Europe (Finland, Ireland) eagle, fox, HPAI H5N5, H5N1, WOAH >>> fox
+20221004.8705954:04 Oct 2022 Avian influenza (181): Europe (Finland, Ireland) eagle, fox, HPAI H5N5, H5N1, WOAH >>> fox
+20221122.8706856:22 Nov 2022 Avian influenza (216): Americas (USA) bear, HPAI H5N1 >>> bear
+20221231.8707556:31 Dec 2022 Avian influenza (248): Europe (France) cat, HPAI H5N1, WOAH >>> cat
+20221214.8707273:14 Dec 2022 Avian influenza (235): Americas (Canada) dolphin, HPAI H5N1 >>> dolphin
+20230127.8707997:27 Jan 2023 Avian influenza (15): Europe (France) cat, HPAI H5N1 >>> cat
+20230123.8707926:23 Jan 2023 Avian influenza (12): Europe (UK) otter, fox, HPAI H5N1 >>> otter,fox
+20230122.8707905:22 Jan 2023 Avian influenza (11): Europe (Spain) mink, H5N1, 2.3.4.4b, epidemiology, 2022 >>> mink
+20230222.8708539:22 Feb 2023 Avian influenza (32): Americas (Peru) HPAI H5N1, pelican, sea lion >>> sea lion
+20230211.8708303:11 Feb 2023 Avian influenza (27): Americas (South America, Cuba, USA) mixed flocks, mammals >>> sea lion
+20230211.8708303:11 Feb 2023 Avian influenza (27): Americas (South America, Cuba, USA) mixed flocks, mammals >>> sea lion
+20230211.8708303:11 Feb 2023 Avian influenza (27): Americas (South America, Cuba, USA) mixed flocks, mammals >>> possum,bobcat,coyote,grizzly bear,fisher,raccoon,mammal,bear,dolphin,mink,seal,skunk
+20230211.8708303:11 Feb 2023 Avian influenza (27): Americas (South America, Cuba, USA) mixed flocks, mammals >>> black bear,bear
+20230210.8708269:10 Feb 2023 Avian influenza (25): Europe (UK) seal, HPAI H5N1 >>> seal
+20230208.8708233:08 Feb 2023 Avian influenza (23): Americas (Peru) marine mammals, lion >>> lion,marine mammal
+20230208.8708233:08 Feb 2023 Avian influenza (23): Americas (Peru) marine mammals, lion >>> lion
+20230201.8708105:01 Feb 2023 Avian influenza (18): Americas (USA) bobcat, HPAI H5N1 >>> bobcat
+20230331.8709263:31 Mar 2023 Avian influenza (57): Europe (UK) zoo, bush dog, 2022 >>> bush dog
+20230322.8709090:22 Mar 2023 Avian influenza (53): Europe (UK, Sweden) cetacean, HPAI H5N1 >>> harbor porpoise,dolphin
+20230322.8709090:22 Mar 2023 Avian influenza (53): Europe (UK, Sweden) cetacean, HPAI H5N1 >>> harbor porpoise (Phocoena phocoena)
+20230315.8708945:15 Mar 2023 Avian influenza (48): Americas (USA, Canada) skunk, HPAI >>> skunk
+20230315.8708945:15 Mar 2023 Avian influenza (48): Americas (USA, Canada) skunk, HPAI >>> skunk
+20230309.8708841:09 Mar 2023 Avian influenza (42): Europe (France) fox, HPAI H5N1, WOAH >>> fox
+20230308.8708815:08 Mar 2023 Avian influenza (41): Americas (Chile) marine otter >>> marine otter (Lontra felina)
+20230306.8708767:06 Mar 2023 Avian influenza (39): Americas (USA) mammal >>> bobcat,mountain lion,lion,black bear,striped skunk,mammal,bear,skunk
+20230302.8708680:02 Mar 2023 Avian influenza (34): Americas (Chile) sea lion, HPAI H5, WOAH >>> sea lion
+20230426.8709706:26 Apr 2023 Avian influenza (74): Asia (Japan) fox, HPAI H5N1, WOAH >>> fox
+20230424.8709669:24 Apr 2023 Avian influenza (71): Americas (USA) seal die-off, 2022 >>> seal
+20230421.8709621:21 Apr 2023 Avian influenza (69): Americas (Chile) dolphin, HPAI H5N1 >>> dolphin
+20230409.8709409:09 Apr 2023 Avian influenza (63): Americas (USA) domestic cat >>> domestic cat
+20230409.8709409:09 Apr 2023 Avian influenza (63): Americas (USA) domestic cat >>> domestic cat
+20230405.8709342:05 Apr 2023 Avian influenza (61): Americas (Chile) poultry, wild bird, mammal, H5N1, H5, WOAH >>> marine mammal,sea lion
+20230403.8709307:03 Apr 2023 Avian influenza (59): Americas (USA, Chile) mammal >>> skunk
+20230403.8709307:03 Apr 2023 Avian influenza (59): Americas (USA, Chile) mammal >>> mountain lion
+20230403.8709307:03 Apr 2023 Avian influenza (59): Americas (USA, Chile) mammal >>> marine otter,sea lion
+20230528.8710288:28 May 2023 Avian influenza (92): Americas (Canada) raccoon, HPAI H5N5, WOAH >>> raccoon
+20230506.8709886:06 May 2023 Avian influenza (81): Europe, captive bird, mammal, poultry, HPAI H5N1, WOAH >>> mammal

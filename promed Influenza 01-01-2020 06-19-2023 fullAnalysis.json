@@ -1,4 +1,4 @@
-var promed = [
+[
     {
         "archive_number": "20210317.8252821",
         "publication_date": "20210317",
@@ -91,7 +91,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Tue, 21 Sep 2021",
         "serotypes": "H5,H5N8,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "seal"
         ],
@@ -163,7 +163,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Sat 19 Feb 2022",
         "serotypes": "H5,H5N8,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "seal"
         ],
@@ -268,7 +268,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Sun 10 Apr 2022",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "raccoon dog"
         ],
@@ -295,7 +295,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Tue 5 Apr 2022",
         "serotypes": "H5,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "fox"
         ],
@@ -388,7 +388,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Wed 11 May 2022",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "fox"
         ],
@@ -446,60 +446,6 @@ var promed = [
         "text": "AVIAN INFLUENZA (115): AMERICAS (CANADA) FOX, HPAI H5N1, OIE\n************************************************************\nA ProMED-mail post\nhttp://www.promedmail.org\nProMED-mail is a program of the\nInternational Society for Infectious Diseases\nhttp://www.isid.org\n\nDate: Fri 6 May 2022\nSource: OIE-WAHIS (World Animal Health Information System) 2022 \nhttps://wahis.oie.int/#/report-info?reportId=53345\n\n\nHighly pathogenic influenza A viruses (inf. with) (non-poultry including wild birds), Canada\n--------------------------------------------------------------------------------\nSummary\nReport type: immediate notification\nStarted: 12 Apr 2022\nConfirmed: 2 May 2022\nReported: 6 May 2022\nReason for notification: unusual host species\nCausal agent: Highly pathogenic avian influenza virus\nSerotype: H5N1\nNature of diagnosis: clinical, laboratory\nThis event pertains to the whole country.\n\nOutbreak location: St. Marys, Perth, Ontario\nStarted: 12 Apr 2022\nEpidemiological unit: not applicable\nTotal animals affected:\nSpecies / Susceptible / Cases / Deaths / Killed and disposed of / Slaughtered or killed for commercial use / Vaccinated\nRed fox (_Vulpes vulpes_): Canidae-Carnivora / - / 2 / 2 / - / - / -\nAffected population: 2 wild fox kits\n\nEpidemiology\nSource of the outbreak(s) or origin of infection: contact with wild species, unknown or inconclusive.\nEpidemiological comments: This is the 1st report of highly pathogenic avian influenza in mammals in Canada. The sequencing results indicate that the HA proteins from both red fox kits belongs to Eurasian Gs/GD lineage HPAI H5N1 with cleavage site motif \"PLREKRRKR/GLF\" compatible with HPAI viruses. The virus from both red foxes contains unique constellation of gene segments with PB2, PB1, PA, and NP belonging to wild bird origin North American lineage influenza A viruses. The remaining gene segments (HA, NA, M, and NS) belong to Eurasian lineage.\n\nDiagnostic test results\nLaboratory name and type: National Centre for Foreign Animal Disease (NCFAD), Winnipeg, Manitoba National Laboratory\nSpecies / Test / Test date / Result\nRed fox / gene sequencing / 2 May 2022 / positive\nRed fox / real-time reverse transcription polymerase chain reaction (rRT-PCR) / 2 May 2022 / positive\n\n\n\n--\n"
     },
     {
-            "archive_number": "20220601.8703600",
-            "publication_date": "20220601",
-            "url": "https://promedmail.org/promed-post/?id=20220601.8703600",
-            "subject": "PRO/AH/EDR> Avian influenza (131): Americas (USA, Canada) wild carnivores, HPAI H5N1",
-            "subpost": "1",
-            "subpost_header": "Alaska (Aleutian Islands): fox, eagles",
-            "event_date": "Fri 27 May 2022",
-            "serotypes": "H5,H5N1,HPAI",
-            "mortality": "",
-            "species": [
-                "fox"
-            ],
-            "countries": [
-                "usa"
-            ],
-            "places": [
-                {
-                    "name": "alaska",
-                    "lat": "64.00028",
-                    "lon": "-150.00028",
-                    "country": "usa"
-                }
-            ],
-            "GAUL": 1,
-            "text": "Alaska (Aleutian Islands): fox, eagles\nDate: Fri 27 May 2022\nSource: Alaska Public Media \nhttps://www.alaskapublic.org/2022/05/27/bird-flu-detected-in-red-fox-and-eagles-found-dead-in-unalaska/\n\n\nThe new strain of bird flu that arrived in Alaska with the spring migration has now been detected in a fox that died in the Aleutian Islands.\n\nWildlife officials say the red fox, as well as eagles, found dead in the Unalaska area , were most likely feeding on birds that had died from the H5N1 avian influenza.\n\nState veterinarian Dr Bob Gerlach says that's different from previous strains of bird flu.\n\n\"We generally don't see avian influenza causing problems in these species, but this is an unusual case,\" Gerlach said. \"So between that and the significant number of mortalities among waterfowl, it's a concern and significant.\"\n\nThe H5N1 bird flu has caused the deaths of millions of poultry in the Lower 48 "
-        },
-        {
-            "archive_number": "20220601.8703600",
-            "publication_date": "20220601",
-            "url": "https://promedmail.org/promed-post/?id=20220601.8703600",
-            "subject": "PRO/AH/EDR> Avian influenza (131): Americas (USA, Canada) wild carnivores, HPAI H5N1",
-            "subpost": "2",
-            "subpost_header": "Alberta: skunk",
-            "event_date": "Wed 25 May 2022",
-            "serotypes": "H5,H5N1,HPAI",
-            "mortality": "",
-            "species": [
-                "skunk"
-            ],
-            "countries": [
-                "canada"
-            ],
-            "places": [
-                {
-                    "name": "vegreville",
-                    "lat": "53.49907",
-                    "lon": "-112.06621",
-                    "country": "canada"
-                }
-            ],
-            "GAUL": 2,
-            "text": "Alberta: skunk\nDate: Wed 25 May 2022\nSource: PoultryMed \nhttps://www.poultrymed.com/Poultrymed/Templates/showpage.asp?DBID=1&LNGID=1&TMID=178&FID=4985&PID=0&IID=82508\n\n\nCases of HPAI have been confirmed in 5 skunks in the Vegreville-Wainwright-Lloydminster area in east-central Alberta.\n\nAll 5 had the same symptoms -- blindness, seizures, and cloudy eyes. The detections in wild mammals are notable, raising concerns about the zoonotic potential of the circulating virus.\n\n--\n"
-        },
-    {
         "archive_number": "20220621.8703993",
         "publication_date": "20220621",
         "url": "https://promedmail.org/promed-post/?id=20220621.8703993",
@@ -508,7 +454,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Fri 17 Jun 2022",
         "serotypes": "HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "raccoon"
         ],
@@ -583,7 +529,7 @@ var promed = [
         "subpost_header": "Canada (Prince Edward Island): fox",
         "event_date": "Tue 31 May 2022",
         "serotypes": "HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "fox"
         ],
@@ -610,7 +556,7 @@ var promed = [
         "subpost_header": "USA (Utah): fox",
         "event_date": "Thu 9 Jun 2022",
         "serotypes": "HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "fox"
         ],
@@ -631,6 +577,60 @@ var promed = [
         "text": "USA (Utah): fox\nDate: Thu 9 Jun 2022\nSource: KUTV \nhttps://kutv.com/news/local/2-foxes-found-dead-in-salt-lake-county-confirmed-positive-with-bird-flu/\n\n\nLast month "
     },
     {
+        "archive_number": "20220601.8703600",
+        "publication_date": "20220601",
+        "url": "https://promedmail.org/promed-post/?id=20220601.8703600",
+        "subject": "PRO/AH/EDR> Avian influenza (131): Americas (USA, Canada) wild carnivores, HPAI H5N1",
+        "subpost": "1",
+        "subpost_header": "Alaska (Aleutian Islands): fox, eagles",
+        "event_date": "Fri 27 May 2022",
+        "serotypes": "H5,H5N1,HPAI",
+        "mortality": "yes",
+        "species": [
+            "fox"
+        ],
+        "countries": [
+            "usa"
+        ],
+        "places": [
+            {
+                "name": "alaska",
+                "lat": "64.00028",
+                "lon": "-150.00028",
+                "country": "usa"
+            }
+        ],
+        "GAUL": 1,
+        "text": "Alaska (Aleutian Islands): fox, eagles\nDate: Fri 27 May 2022\nSource: Alaska Public Media \nhttps://www.alaskapublic.org/2022/05/27/bird-flu-detected-in-red-fox-and-eagles-found-dead-in-unalaska/\n\n\nThe new strain of bird flu that arrived in Alaska with the spring migration has now been detected in a fox that died in the Aleutian Islands.\n\nWildlife officials say the red fox, as well as eagles, found dead in the Unalaska area , were most likely feeding on birds that had died from the H5N1 avian influenza.\n\nState veterinarian Dr Bob Gerlach says that's different from previous strains of bird flu.\n\n\"We generally don't see avian influenza causing problems in these species, but this is an unusual case,\" Gerlach said. \"So between that and the significant number of mortalities among waterfowl, it's a concern and significant.\"\n\nThe H5N1 bird flu has caused the deaths of millions of poultry in the Lower 48 "
+    },
+    {
+        "archive_number": "20220601.8703600",
+        "publication_date": "20220601",
+        "url": "https://promedmail.org/promed-post/?id=20220601.8703600",
+        "subject": "PRO/AH/EDR> Avian influenza (131): Americas (USA, Canada) wild carnivores, HPAI H5N1",
+        "subpost": "2",
+        "subpost_header": "Alberta: skunk",
+        "event_date": "Wed 25 May 2022",
+        "serotypes": "H5,H5N1,HPAI",
+        "mortality": "yes",
+        "species": [
+            "skunk"
+        ],
+        "countries": [
+            "canada"
+        ],
+        "places": [
+            {
+                "name": "vegreville",
+                "lat": "53.49907",
+                "lon": "-112.06621",
+                "country": "canada"
+            }
+        ],
+        "GAUL": 2,
+        "text": "Alberta: skunk\nDate: Wed 25 May 2022\nSource: PoultryMed \nhttps://www.poultrymed.com/Poultrymed/Templates/showpage.asp?DBID=1&LNGID=1&TMID=178&FID=4985&PID=0&IID=82508\n\n\nCases of HPAI have been confirmed in 5 skunks in the Vegreville-Wainwright-Lloydminster area in east-central Alberta.\n\nAll 5 had the same symptoms -- blindness, seizures, and cloudy eyes. The detections in wild mammals are notable, raising concerns about the zoonotic potential of the circulating virus.\n\n--\n"
+    },
+    {
         "archive_number": "20220705.8704251",
         "publication_date": "20220705",
         "url": "https://promedmail.org/promed-post/?id=20220705.8704251",
@@ -639,7 +639,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Sun 3 Jul 2022",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "seal"
         ],
@@ -666,7 +666,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Tue 3 Aug 2022",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "seal"
         ],
@@ -693,7 +693,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Thu 28 Jul 2022",
         "serotypes": "HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "fox"
         ],
@@ -726,7 +726,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Wed 7 Sep 2022",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "dolphin"
         ],
@@ -759,7 +759,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Wed 31 Aug 2022",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "porpoise"
         ],
@@ -871,7 +871,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Fri 18 Nov 2022",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "bear"
         ],
@@ -943,7 +943,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Tue 13 Dec 2022",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "dolphin"
         ],
@@ -997,7 +997,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Sun 22 Jan 2023",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "otter",
             "fox"
@@ -1044,109 +1044,6 @@ var promed = [
         "text": "AVIAN INFLUENZA (11): EUROPE (SPAIN) MINK, HPAI H5N1, CLADE 2.3.4.4B, EPIDEMIOLOGY, 2022\n****************************************************************************************\nA ProMED-mail post\nhttp://www.promedmail.org\nProMED-mail is a program of the\nInternational Society for Infectious Diseases\nhttp://www.isid.org\n\nDate: Thu 19 Jan 2023\nSource: Eurosurveillance Rapid Communication \nhttps://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2023.28.3.2300001\n\n\nref: Ag\u00fcero M, Monne I, S\u00e1nchez A, et al. Highly pathogenic avian influenza A(H5N1) virus infection in farmed minks, Spain, October 2022. Euro Surveill. 2023; 28(3)\n--------------------------------------------------------------------------------\nAbstract\n--------\nIn October 2022, an outbreak in Europe of highly pathogenic avian influenza (HPAI) A(H5N1) in intensively farmed minks occurred in north west Spain. A single mink farm hosting more than 50 000 minks was involved. The identified viruses belong to clade 2.3.4.4b, which is responsible of the ongoing epizootic in Europe. An uncommon mutation (T271A) in the PB2 gene with potential public health implications was found. Our investigations indicate onward mink transmission of the virus may have occurred on the affected farm.\n\nDiscussion\n----------\n. We present, to the best of our knowledge, the 1st report of clade 2.3.4.4b HPAI H5N1 virus infection of minks farmed for their fur in Europe. The viruses identified presented the highest similarity with strains of the A/gull/France/22P015977/2022-like genotype, which has already been described in multiple wild bird species and sporadically in poultry across northern Europe. However, the viruses detected at the mink farm are distinguished from all the clade 2.3.4.4b H5N1 viruses characterised thus far in the avian population in Europe as they bear an uncommon mutation (T271A) in the PB2 gene, which may have public health implications. Indeed, the same mutation is present in the avian-like PB2 gene of the 2009 pandemic swine-origin influenza A(H1N1) virus (H1N1pdm). Zhang et al. demonstrated that mutations to the avian virus-conserved residue (threonine, T) reduced polymerase activity and abolished the H1N1pdm virus respiratory droplet transmission in guinea pigs. Furthermore, this study shows that amino acid 271A of PB2 plays a key role in virus acquisition of the mutation at position 226 of HA that confers human receptor recognition. As T271A is an uncommon amino acid change not previously identified among European HPAI H5 viruses in 2020-22, with the exception of a single H5N1 virus from a mammalian host (European polecat), this mutation could have arisen de novo in minks. However, the data available are not sufficient to exclude the possibility of an unobserved circulation of avian viruses bearing this substitution in the avian population.\n\nOur findings also indicate that an onward transmission of the virus to other minks may have taken place in the affected farm. This is suggested by the increasing number of infected animals identified after the confirmation of the disease and the progression of the infection from the initially affected area to the entire holding. Additional experimental studies are ongoing to further explore virulence and transmissibility of these viruses.\n\nThe source of the outbreak remains unknown. No AI cases were reported in poultry farms supplying the poultry by-products. However, considering that the mink spillover event was coincident with a wave of H5N1 virus infections in seabirds in Galicia, it can be assumed that wild birds may have played a major role in the virus introduction into the farm. This hypothesis is further supported given that minks were farmed in a partially open building and may have been in contact with wild birds. Indeed, the A/gull/France/22P015977/2022-like genotype has been diagnosed in multiple seabird species across Europe, including common gannets and seagulls, which were the species involved in the H5N1 mortality events registered in Galicia in the weeks before the mink outbreak. Sequencing of the contemporary H5N1 virus-positive wild birds collected in the area will be essential to confirm this assumption.\n\nExperimental and field evidence have demonstrated that minks are susceptible and permissive to both avian and human influenza A viruses, leading to the theory that this species could serve as a potential mixing vessel for the interspecies transmission among birds, mammals and human. In light of this and considering the ongoing HPAI H5N1 panzootic, our findings further highlight the importance of preventing mink infection with such viruses.\n\nConclusions\n-----------\nDespite the criticism fur farming has recently received following SARS-CoV-2 cases in farmed minks and the spillover/spillback SARS-CoV-2 transmission events reported between minks and humans, this production sector is still common worldwide with an important economic impact. For this reason, and given the concerns caused by the susceptibility of minks to emerging viruses such as HPAI H5N1 viruses and SARS-CoV-2, it is necessary to strengthen the culture of biosafety and biosecurity in this farming system and promote the implementation of ad hoc surveillance programs for influenza A viruses and other zoonotic pathogens at a global level. These interventions are instrumental to prevent contact between minks and wild animals, and to control disease transmission events from minks to farm workers and vice versa.\n\n--\n"
     },
     {
-        "archive_number": "20230118.8707843",
-        "publication_date": "20230118",
-        "url": "https://promedmail.org/promed-post/?id=20230118.8707843",
-        "subject": "PRO/AH/EDR> Avian influenza (07): Americas (USA) bear, HPAI H5N1",
-        "subpost": "",
-        "subpost_header": "",
-        "event_date": "Tue 17 Jan 2023",
-        "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
-        "species": [
-            "bear"
-        ],
-        "countries": [
-            "usa"
-        ],
-        "places": [
-            {
-                "name": "augusta",
-                "lat": "38.16452",
-                "lon": "-79.13383",
-                "country": "usa"
-            }
-        ],
-        "GAUL": 2,
-        "text": "AVIAN INFLUENZA (07): AMERICAS (USA) BEAR, HPAI H5N1\n****************************************************\nA ProMED-mail post\nhttp://www.promedmail.org\nProMED-mail is a program of the\nInternational Society for Infectious Diseases\nhttp://www.isid.org\n\nDate: Tue 17 Jan 2023\nSource: Flat Head Beacon \nhttps://flatheadbeacon.com/2023/01/17/three-grizzly-bears-test-positive-for-avian-flu-in-first-documented-cases/\n\n\nThree juvenile grizzly bears tested positive for highly pathogenic avian influenza (HPAI) virus  fall [of 2022] and were euthanized due to their sickness and poor condition, according to a press release from Montana Fish, Wildlife and Parks (FWP). They mark the first documented cases of avian flu in grizzly bears. The 3 bears -- 1 near Augusta, 1 near Dupuyer, and another near Kalispell -- were \"observed to be in poor condition and exhibited disorientation and partial blindness, among other neurological issues,\" the release states.\n\nA fox and a skunk in Montana also tested positive for HPAI [in 2022], and the virus has been found in raccoons, black bears, and even a coyote in other states and countries. \"We suspect these mammals probably get the virus from consuming infected birds,\" FWP wildlife veterinarian Jennifer Ramsey said in a prepared statement.\n\nAvian influenza (AI) virus is a naturally occurring virus in birds. AI viruses are classified into 2 groups, based on the severity of disease they cause in infected poultry. Low pathogenic AI viruses generally cause no clinical illness or only minor symptoms in birds. HPAI viruses are extremely infectious and fatal to poultry and some species of wild birds.\n\nAlthough the Centers for Disease Control and Prevention (CDC) considers the risk of HPAI spread to humans to be very low, Montanans should take precautions when handling game birds, sick or dead birds, and mammals they find. Whenever possible, avoid contact with sick or dead wildlife. Even if an animal is not suspected to have died from a contagious disease, gloves should always be worn if a dead animal must be handled for disposal.\n\nFWP staff would like to know about unusual or unexplained cases of sickness and/or death of wild birds and animals by calling their local wildlife biologist or the wildlife lab in Bozeman at 406-577-7880 or 406-577-7882.\n\n--\n"
-    },
-    {
-        "archive_number": "20230223.8708546",
-        "publication_date": "20230223",
-        "url": "https://promedmail.org/promed-post/?id=20230223.8708546",
-        "subject": "PRO/AH/EDR> Avian influenza (33): global, HPAI H5N1, mammals, alert, research",
-        "subpost": "1",
-        "subpost_header": "H5N1 in mammals - mink, zoonotic significance assessed",
-        "event_date": "Sat 18 Feb 2023",
-        "serotypes": "H5,H5N1",
-        "mortality": "",
-        "species": [
-            "mammal",
-            "mink"
-        ],
-        "countries": [],
-        "places": [],
-        "GAUL": 0,
-        "text": "H5N1 in mammals - mink, zoonotic significance assessed\nDate: Sat 18 Feb 2023\nSource: The Veterinary Record \nhttps://pubmed.ncbi.nlm.nih.gov/36799613/\n\n\nCitation: Loeb J. Is avian influenza spreading among mammals? Vet Rec. 2023; 192(4): 143; doi: 10.1002/vetr.2736. (subscription)\n--------------------------------------------------------------------------------------------------\nAn outbreak of highly pathogenic avian influenza (HPAI) on a mink farm in Spain remains unexplained but there was \"probably\" some mammal-to-mammal transmission involved, one of the UK's most senior animal health experts has said.\n\nIan Brown, director of scientific services at the APHA  spoke to Vet Record following news that more than 50 000 mink on the farm in Galicia had to be culled as part of a \"stamping out\" strategy to deal with an outbreak of HPAI of a type belonging to the H5N1 group.\n\nThe outbreak occurred in October 2022, but a \"rapid communication\" about it did not appear in the infectious disease journal Eurosurveillance until January this year "
-    },
-    {
-        "archive_number": "20230223.8708546",
-        "publication_date": "20230223",
-        "url": "https://promedmail.org/promed-post/?id=20230223.8708546",
-        "subject": "PRO/AH/EDR> Avian influenza (33): global, HPAI H5N1, mammals, alert, research",
-        "subpost": "2",
-        "subpost_header": "H5N1 in mammals - mink, zoonotic significance assessed",
-        "event_date": "Wed 8 Feb 2023",
-        "serotypes": "H5,H5N1",
-        "mortality": "",
-        "species": [
-            "mammal",
-            "mink"
-        ],
-        "countries": [],
-        "places": [],
-        "GAUL": 0,
-        "text": "H5N1 in mammals - mink, zoonotic significance assessed\nDate: Wed 8 Feb 2023\nSource: JAMA \nhttps://jamanetwork.com/journals/jama/fullarticle/2801499#:~:text=In%20April%202022%2C%20a%20dead,in%20a%20mammal%20in%20Japan\n\n\nAs bird flu continues to circle the globe, a recent report suggests that the highly pathogenic avian influenza (HPAI) A(H5N1) virus spread between farmed mink in Spain last October "
-    },
-    {
-        "archive_number": "20230223.8708546",
-        "publication_date": "20230223",
-        "url": "https://promedmail.org/promed-post/?id=20230223.8708546",
-        "subject": "PRO/AH/EDR> Avian influenza (33): global, HPAI H5N1, mammals, alert, research",
-        "subpost": "3",
-        "subpost_header": "H5N1 in mammals - mink, zoonotic significance assessed",
-        "event_date": "Sun 19 Feb 2023",
-        "serotypes": "H5,H5N1",
-        "mortality": "",
-        "species": [
-            "mammal",
-            "mink"
-        ],
-        "countries": [],
-        "places": [],
-        "GAUL": 0,
-        "text": "H5N1 in mammals - mink, zoonotic significance assessed\nDate: Sun 19 Feb 2023\nSource: KSL Broadcasting via Associated Press \nhttps://www.ksl.com/article/50582530/why-sick-minks-are-reigniting-worries-about-bird-flu\n\n\nA recent bird flu outbreak at a mink farm has reignited worries about the virus spreading more broadly to people. Scientists have been keeping tabs on this bird flu virus since the 1950s, though it wasn't deemed a threat to people until a 1997 outbreak in Hong Kong among visitors to live poultry markets. As bird flu hits more and varied animals, like at the mink farm, the fear is that the virus could evolve to spread more easily between people, and potentially trigger a pandemic.\n\nScientists say another kind of bird flu was likely behind the devastating 1918-1919 flu pandemic, and avian viruses played roles in other flu pandemics in 1957, 1968, and 2009.\n\nStill, the risk to the general public now is low, says Dr. Tim Uyeki of the US Centers for Disease Control and Prevention.\n\nA look at the bird flu virus and why it is getting renewed attention:\n\nWhat is bird flu?\n\nSome flu viruses mainly affect people, but some others chiefly occur in animals. For example, there are cases of flu that occur in dogs, plus pig -- or swine -- flu viruses. And then there are avian viruses that spread naturally in wild aquatic birds like ducks and geese, and then to chickens and other domesticated poultry.\n\nThe bird flu virus drawing attention today -- Type A H5N1 -- was first identified in 1959, by investigators looking into a flu outbreak in chickens in Scotland. Like other viruses, it has evolved over time, spawning newer versions of itself.\n\nBy 2007, the virus was found in more than 60 countries. In the US, it has recently been detected in wild birds in every state, as well as in commercial poultry operations or backyard flocks in 47 states. Since the beginning of last year, "
-    },
-    {
-        "archive_number": "20230223.8708546",
-        "publication_date": "20230223",
-        "url": "https://promedmail.org/promed-post/?id=20230223.8708546",
-        "subject": "PRO/AH/EDR> Avian influenza (33): global, HPAI H5N1, mammals, alert, research",
-        "subpost": "4",
-        "subpost_header": "H5N1 in mammals - red fox, zoonotic significance assessed, research",
-        "event_date": "Tue 24 Jan 2023",
-        "serotypes": "H5,H5N1",
-        "mortality": "",
-        "species": [
-            "red fox (Vulpes vulpes)",
-            "mammal"
-        ],
-        "countries": [],
-        "places": [],
-        "GAUL": 0,
-        "text": "H5N1 in mammals - red fox, zoonotic significance assessed, research\nDate: Tue 24 Jan 2023\nSource: Microbiology Spectrum \nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC9927208/pdf/spectrum.02867-22.pdf\n\n\nCitation: Bordes L, Vreman S, Heutink R, et al. Highly Pathogenic Avian Influenza Virus Infections in Wild Red Foxes (_Vulpes vulpes_) Show Neurotropism and Adaptive Virus Mutations. Microbiol Spectrum. 2023; e0286722; doi: 10.1128/spectrum.02867-22.\n--------------------------------------------------------------------------------------------------\nAbstract\n-------\nDuring the 2020 to 2022 epizootic of highly pathogenic avian influenza virus (HPAI), several infections of mammalian species were reported in Europe. In the Netherlands, HPAI H5N1 virus infections were detected in 3 wild red foxes (_Vulpes vulpes_) that were submitted with neurological symptoms between December 2021 and February 2022. A histopathological analysis demonstrated that the virus was mainly present in the brain, with limited or no detection in the respiratory tract or other organs.\n\nLimited or no virus shedding was observed in throat and rectal swabs. A phylogenetic analysis showed that the 3 fox viruses were not closely related, but they were related to HPAI H5N1 clade 2.3.4.4b viruses that are found in wild birds. This suggests that the virus was not transmitted between the foxes. A genetic analysis demonstrated the presence of the mammalian adaptation E627K in the polymerase basic 2 (PB2) protein of the 2 fox viruses. In both foxes, the avian (PB2-627E) and the mammalian (PB2-627K) variants were present as a mixture in the virus population, which suggests that the mutation emerged in these specific animals. The 2 variant viruses were isolated, and virus replication and passaging experiments were performed. These experiments showed that the mutation PB2-627K increases the replication of the virus in mammalian cell lines, compared to the chicken cell line, and at the lower temperatures of the mammalian upper respiratory tract.\n\nThis study showed that the HPAI H5N1 virus is capable of adaptation to mammals; however, more adaptive mutations are required to allow for efficient transmission between mammals. Therefore, surveillance in mammals should be expanded to closely monitor the emergence of zoonotic mutations for pandemic preparedness.\n\n--\n"
-    },
-    {
         "archive_number": "20230222.8708539",
         "publication_date": "20230222",
         "url": "https://promedmail.org/promed-post/?id=20230222.8708539",
@@ -1155,7 +1052,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Tue 21 Feb 2023",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "sea lion"
         ],
@@ -1182,7 +1079,7 @@ var promed = [
         "subpost_header": "Peru: sea lions, wild birds",
         "event_date": "Wed 8 Feb 2022",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "sea lion"
         ],
@@ -1211,7 +1108,7 @@ var promed = [
         "subpost_header": "Peru: sea lions, wild birds",
         "event_date": "Mon 6 Feb 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "sea lion"
         ],
@@ -1262,7 +1159,7 @@ var promed = [
         "subpost_header": "Cuba: wild birds",
         "event_date": "Thu 9 Feb 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [],
         "countries": [
             "cuba"
@@ -1287,7 +1184,7 @@ var promed = [
         "subpost_header": "Oregon: wild mammals, back yard birds",
         "event_date": "Tue 7 Feb 2022",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "possum",
             "bobcat",
@@ -1331,7 +1228,7 @@ var promed = [
         "subpost_header": "California (Merced County): commercial ducks",
         "event_date": "Tue 7 Feb 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [],
         "countries": [
             "usa"
@@ -1362,7 +1259,7 @@ var promed = [
         "subpost_header": "Colorado: wildlife",
         "event_date": "Thu 9 Feb 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "black bear",
             "bear"
@@ -1390,7 +1287,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Wed 8 Feb 2023",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "seal"
         ],
@@ -1457,7 +1354,7 @@ var promed = [
         "subpost_header": "Peru: sea lions, other birds",
         "event_date": "Mon 6 Feb 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "lion"
         ],
@@ -1508,7 +1405,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Sat 28 Jan 2023",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "bobcat"
         ],
@@ -1547,7 +1444,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Wed 29 Mar 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "bush dog"
         ],
@@ -1566,6 +1463,63 @@ var promed = [
         "text": "AVIAN INFLUENZA (57): EUROPE (UK) ZOO, BUSH DOG, 2022\n*****************************************************\nA ProMED-mail post\nhttp://www.promedmail.org\nProMED-mail is a program of the\nInternational Society for Infectious Diseases\nhttp://www.isid.org\n\nDate: Wed 29 Mar 2023 16:37 GMT\nSource: iNews \nhttps://inews.co.uk/news/politics/bird-flu-can-transmit-between-mammals-ukhsa-upgrades-risk-alert-2241050\n\n\nScientists are investigating the possibility that bird flu was transmitted among a pack of bush dogs at a zoo in England. A total of 10 bush dogs at the unnamed zoo died in what is being described as an isolated event last November [2022]. The H5N1 avian influenza virus was detected in the dead animals through retrospective sampling, the UK Health Security Agency (UKHSA) said.\n\nWhile mammal-to-mammal transmission has not been confirmed in the dogs, it is one line of investigation. There is a possibility that the dogs caught the virus through infected birds fed to them by zookeepers.\n\nIn its updated risk assessment for bird flu, the UKHSA said the UK is currently at Level 3, meaning there is \"limited mammalian transmission.\" This is a change in wording from the last assessment, when the alert level was described as \"changes in the virus genome that could lead to mammal-to-mammal transmission.\"\n\nHowever, the UKHSA insisted the level of risk had not changed. A spokesperson said: \"The risk to human health has not changed. As previously, there is low confidence evidence of limited transmission in mammals, but there is no current evidence that this risk is changing.\"\n\nA previous assessment defined the risk as spillover infections in mammals with non-sustained transmissions between mammals, and the scale of risk had been changed to provide more granular detail, a source said.\n\nBut scientists are on high alert for transmission between animals after incidents of mass infections and deaths of mammals in areas around the world, including farmed mink in Spain, seals in the Caspian Sea and sea lions in Peru.\n\nThere have been 23 deaths of wild mammals in the UK since the current outbreak of the highly infectious H5N1 virus began 18 months ago, including 2 dolphins, mainly due to isolated cases of animals scavenging on infected dead birds. The 10 bush dogs would take the total of wild and captive mammals that have died to 33.\n\nGovernment scientists insist there is no change to the risk to human health, which is classed as very low. Scientists at the UKHSA and the SPI-M group, which produced modelling of the COVID pandemic for the government, have also revealed different scenarios for what would happen in a human pandemic of bird flu.\n\nWhile there is still no evidence of human-to-human transmission, the UKHSA said it wanted to prepare for the emergence of novel influenza viruses. The current risks assessment says the H5N1 virus can \"successfully infect mammals and humans with high levels of direct exposure (for example, scavenger mammalian species, humans working closely with birds).\"\n\nThere have been only 7 cases of bird flu in humans since October 2021. It adds: \"Polymerase basic protein (PB2) mutations associated with mammalian adaptation, including E627K, are seen in mammalian infections. There is evidence of transmission in farmed mink and possible, though unconfirmed, transmission in populations of seals and sea lions.\"\n\nDr Meera Chand, Deputy Director at UKHSA, said: \"The latest evidence suggests that the avian influenza viruses we're seeing circulating in birds do not currently spread easily to people. However, viruses constantly evolve, and we remain vigilant for any evidence of changing risk to the population. It is right that we prepare for the emergence of novel influenza viruses, and we are working with partners to ensure that we have the tools and capabilities in place for these and other emerging infections.\"\n\n\n\n--\n"
     },
     {
+        "archive_number": "20230322.8709090",
+        "publication_date": "20230322",
+        "url": "https://promedmail.org/promed-post/?id=20230322.8709090",
+        "subject": "PRO/AH/EDR> Avian influenza (53): Europe (UK, Sweden) cetacean, HPAI H5N1",
+        "subpost": "1",
+        "subpost_header": "UK (England, Wales): dolphin, harbor porpoise, 1st report",
+        "event_date": "Fri 17 Mar 2023",
+        "serotypes": "H5,H5N1,HPAI",
+        "mortality": "yes",
+        "species": [
+            "harbor porpoise",
+            "dolphin"
+        ],
+        "countries": [
+            "uk"
+        ],
+        "places": [
+            {
+                "name": "wales",
+                "lat": "53.3393",
+                "lon": "-1.28522",
+                "country": "uk"
+            }
+        ],
+        "GAUL": 3,
+        "text": "UK (England, Wales): dolphin, harbor porpoise, 1st report\nDate: Fri 17 Mar 2023 01:43 GMT\nSource: Mail online \nhttps://www.dailymail.co.uk/health/article-11870583/Two-dolphins-die-Bird-Flu-UK-waters-Government-says-deaths-highly-contagious-H5N1.html\n\n\nTwo dolphins have died from bird flu for the 1st time in the UK, and were both infected with the highly contagious H5N1 virus, the government has announced.\n\nThe ocean mammals were found in separate spots, on beaches in Devon , last month "
+    },
+    {
+        "archive_number": "20230322.8709090",
+        "publication_date": "20230322",
+        "url": "https://promedmail.org/promed-post/?id=20230322.8709090",
+        "subject": "PRO/AH/EDR> Avian influenza (53): Europe (UK, Sweden) cetacean, HPAI H5N1",
+        "subpost": "2",
+        "subpost_header": "Sweden: harbor porpoise",
+        "event_date": "Mon 20 Mar 2023",
+        "serotypes": "H5,H5N1,HPAI",
+        "mortality": "yes",
+        "species": [
+            "harbor porpoise (Phocoena phocoena)"
+        ],
+        "countries": [
+            {
+                "name": "sweden",
+                "lat": "60.128161",
+                "lon": "18.643501"
+            },
+            {
+                "name": "uk",
+                "lat": "55.378051",
+                "lon": "-3.435973"
+            }
+        ],
+        "places": [],
+        "GAUL": 0,
+        "text": "Sweden: harbor porpoise\nDate: Mon 20 Mar 2023\nSource: REVYUH \nhttps://www.revyuh.com/top-news/featured/highly-pathogenic-h5n1-avian-influenza-virus-detected-in-unusual-host-cdc-reports/\n\n\nResearchers in Sweden have made a concerning discovery regarding the H5N1 avian influenza virus.\n\nIn a study published in the Emerging Infectious Diseases journal by the US Centers for Disease Control and Prevention , it was reported that the virus was found in a harbor porpoise that had washed up on shore.\n\nThis suggests a potential crossover of the highly pathogenic virus from avian species to cetaceans. The H5N1 strain has already caused many bird deaths in Europe and North America, and it is now believed to have infected over 112 species, including marine birds.\n\nSince December 2021, there have been increasing reports of H5N1 infections in wild bird species in Europe, and even mammals such as red foxes and mustelids are not immune to viral spillover.\n\nAccording to recent findings, harbor seals (_Phoca vitulina_) and grey seals (_Halichoerus grypus_) in North America are susceptible to the highly pathogenic H5N1 avian influenza virus. Although seals have been known to be vulnerable to influenza A viral infections, there are very few reports of influenza infections in cetaceans. Hence, the discovery of an H5N1 infection in a _Phocoena phocoena_ (harbor porpoise) individual is alarming.\n\nIn this study, researchers reported a case of a stranded male _P. phocoena_ individual on the west coast of Sweden. The porpoise appeared to be unwell, and it was swimming in circles, unable to right itself. Unfortunately, the porpoise died shortly after getting stranded, and therefore the carcass was subjected to necropsy.\n\nTypically, when porpoises are found stranded, they undergo screening to detect the presence of cetacean morbilliviruses and influenza A virus, both of which can affect the nervous system in cetaceans as well as other species.\n\nTo test for cetacean morbillivirus, samples of the spleen, lung, and brain are analyzed using a technique called real-time reverse-transcriptase polymerase chain reaction (rRT-PCR). Additionally, samples taken from the bronchial and lung swabs are examined to detect the presence of influenza A viral genome.\n\nAfter identifying the presence of the influenza A virus in the swab samples, further analysis was conducted on other organs to measure the viral loads. Moreover, a technique called immunohistochemical analysis was carried out using a primary monoclonal antibody specific to the influenza A nucleoprotein, which is commercially available, to determine the distribution of the viral antigen and its relationship with pathological lesions.\n\nThe necropsy results indicated no major macroscopic findings except for pulmonary edema, which resulted from drowning. However, microscopic analysis of the brain revealed evidence of lymphoplasmacytic meningoencephalitis, characterized by gliosis, necrosis, vasculitis, and perivascular cuffing. Additionally, the lung tissue showed a higher number of alveolar macrophages and evidence of mononuclear septal thickening.\n\nAlthough cetacean morbilliviral ribonucleic acid (RNA) was not detected by rRT-PCR, swab samples revealed the presence of the H5N1 highly pathogenic avian influenza virus. High levels of the virus were found in the brain, followed by the lungs, kidney, liver, and spleen. No traces of the virus were found in the blubber, muscles, or intestines.\n\nDuring the immunohistochemical analysis, the researchers observed moderate levels of immunolabelling in the cytoplasm and nuclei of neurons, choroid plexus epithelial cells, and glial cells. Lower levels of antigens were found in the cytoplasm and nuclei of scattered alveolar cells, including sloughed epithelial cells and macrophages. No viral antigens were detected in any other tissue.\n\nThe researchers hypothesized that the meningoencephalitis could have been responsible for the unusual behavior observed in the harbor seal, ultimately leading to its death by drowning. The presence of high levels of the virus in the brain was consistent with infections of H5N1 clade 2.3.4.4b in mammalian species. Since the viral strain closely resembled the H5N1 strain circulating among wild birds, it is possible that the virus was transmitted through contaminated water or direct contact with an infected bird.\n\nThe findings suggest that the H5N1 virus has an expanding host range, and its sporadic infection in other mammalian species increases the risk of its growing transmissibility and virulence.\n\nIn summary, this study identified the highly pathogenic H5N1 avian influenza virus in a stranded harbor seal in Sweden. The necropsy showed microscopic evidence of lymphoplasmacytic meningoencephalitis, which was believed to be the probable cause of the abnormal behavior and subsequent drowning.\n\nGenomic and immunohistochemical analyses revealed high levels of the H5N1 virus in the brain and lungs. These findings underscore the growing risk of H5N1 spillover to mammalian species and highlight the urgent need for enhanced animal health surveillance and intervention strategies.\n\n--\n"
+    },
+    {
         "archive_number": "20230315.8708945",
         "publication_date": "20230315",
         "url": "https://promedmail.org/promed-post/?id=20230315.8708945",
@@ -1574,7 +1528,7 @@ var promed = [
         "subpost_header": "USA (Colorado): skunk",
         "event_date": "Sun 12 Mar 2023",
         "serotypes": "HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "skunk"
         ],
@@ -1603,7 +1557,7 @@ var promed = [
         "subpost_header": "Canada (British Columbia): skunk",
         "event_date": "Mon 13 Mar 2023",
         "serotypes": "HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "skunk"
         ],
@@ -1632,7 +1586,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Wed 8 Mar 2023",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "fox"
         ],
@@ -1665,7 +1619,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Tue 7 Mar 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "marine otter (Lontra felina)"
         ],
@@ -1692,7 +1646,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Wed 1 Mar 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "bobcat",
             "mountain lion",
@@ -1769,63 +1723,6 @@ var promed = [
         "text": "AVIAN INFLUENZA (34): AMERICAS (CHILE) SEA LION, HPAI H5, WOAH\n**************************************************************\nA ProMED-mail post\nhttp://www.promedmail.org\nProMED-mail is a program of the\nInternational Society for Infectious Diseases\nhttp://www.isid.org\n\nDate: Wed 1 Mar 2023\nSource: WOAH-WAHIS (World Animal Health Information System) 2023 \nhttps://wahis.woah.org/#/in-review/4922\n\n\nChile - influenza A viruses of high pathogenicity (non-poultry including wild birds)\n-----------------------------------------------------\nSummary\nReport type: immediate notification\nStarted: 10 Feb 2023\nConfirmed: 16 Feb 2023\nReported: 24 Feb 2023\nReason for notification: unusual host species\nCausal agent: highly pathogenic avian influenza virus \nSerotype: H5N1 \nNature of diagnosis: clinical, laboratory\nThis event pertains to a defined zone within the country.\n\nOutbreak location: Playa El Huascar, Antofagasta\nStarted: 10 Feb 2023\nEpidemiological unit: other\nAnimals affected:\nSpecies / Susceptible / Cases / Deaths / Killed and disposed of / Slaughtered or killed for commercial use / Vaccinated\nSouth American sea lion / - / 1 / 1 / 0 / 0 / 0\n\nEpidemiology\nSource of the outbreak(s) or origin of infection: contact with wild species\nEpidemiological comments: this is the 1st detection of avian influenza H5N1 in an unusual host in the national territory (marine mammal); sea lion _Otaria flavescens_ is the affected species. Regarding organization, the National Directorate of the National Fisheries and Aquaculture Service (El Servicio Nacional de Pesca y Acuicultura; SERNAPESCA) carries out the risk assessment and defines the actions to be implemented in each zone; regional directorates are responsible for implementing these measures. To date, the agent has not been detected in other marine mammals. Following the 1st detection of the pathogen, and based on the location where the affected animal got stranded, a disease control zone was defined along the coastline, where notification of stranded animals is reinforced with sectoral users and clinical and molecular surveillance is implemented in animals with signs and symptoms consistent with highly pathogenic avian influenza, aimed at the early detection and timely control of the spread of the virus. In geographic areas that are not within this zone, passive surveillance will be maintained, focusing on the follow-up of reports.\n\nControl measures applied at event level, wild animals: surveillance outside the restricted zone; surveillance within the restricted zone; disinfection; control of wildlife reservoirs; official disposal of carcasses, by-products, and waste.\n\nDiagnostic test results\nLaboratory name and type / Species / Outbreaks / Test / Result date / Result\n / South American sea lion / 1 / reverse transcription-polymerase chain reaction (RT-PCR) / 15 Feb 2023 / positive\n\n\n\n--\n"
     },
     {
-            "archive_number": "20230322.8709090",
-            "publication_date": "20230322",
-            "url": "https://promedmail.org/promed-post/?id=20230322.8709090",
-            "subject": "PRO/AH/EDR> Avian influenza (53): Europe (UK, Sweden) cetacean, HPAI H5N1",
-            "subpost": "1",
-            "subpost_header": "UK (England, Wales): dolphin, harbor porpoise, 1st report",
-            "event_date": "Fri 17 Mar 2023",
-            "serotypes": "H5,H5N1,HPAI",
-            "mortality": "",
-            "species": [
-                "harbor porpoise",
-                "dolphin"
-            ],
-            "countries": [
-                "uk"
-            ],
-            "places": [
-                {
-                    "name": "wales",
-                    "lat": "53.3393",
-                    "lon": "-1.28522",
-                    "country": "uk"
-                }
-            ],
-            "GAUL": 3,
-            "text": "UK (England, Wales): dolphin, harbor porpoise, 1st report\nDate: Fri 17 Mar 2023 01:43 GMT\nSource: Mail online \nhttps://www.dailymail.co.uk/health/article-11870583/Two-dolphins-die-Bird-Flu-UK-waters-Government-says-deaths-highly-contagious-H5N1.html\n\n\nTwo dolphins have died from bird flu for the 1st time in the UK, and were both infected with the highly contagious H5N1 virus, the government has announced.\n\nThe ocean mammals were found in separate spots, on beaches in Devon , last month "
-        },
-        {
-            "archive_number": "20230322.8709090",
-            "publication_date": "20230322",
-            "url": "https://promedmail.org/promed-post/?id=20230322.8709090",
-            "subject": "PRO/AH/EDR> Avian influenza (53): Europe (UK, Sweden) cetacean, HPAI H5N1",
-            "subpost": "2",
-            "subpost_header": "Sweden: harbor porpoise",
-            "event_date": "Mon 20 Mar 2023",
-            "serotypes": "H5,H5N1,HPAI",
-            "mortality": "",
-            "species": [
-                "harbor porpoise (Phocoena phocoena)"
-            ],
-            "countries": [
-                {
-                    "name": "sweden",
-                    "lat": "60.128161",
-                    "lon": "18.643501"
-                },
-                {
-                    "name": "uk",
-                    "lat": "55.378051",
-                    "lon": "-3.435973"
-                }
-            ],
-            "places": [],
-            "GAUL": 0,
-            "text": "Sweden: harbor porpoise\nDate: Mon 20 Mar 2023\nSource: REVYUH \nhttps://www.revyuh.com/top-news/featured/highly-pathogenic-h5n1-avian-influenza-virus-detected-in-unusual-host-cdc-reports/\n\n\nResearchers in Sweden have made a concerning discovery regarding the H5N1 avian influenza virus.\n\nIn a study published in the Emerging Infectious Diseases journal by the US Centers for Disease Control and Prevention , it was reported that the virus was found in a harbor porpoise that had washed up on shore.\n\nThis suggests a potential crossover of the highly pathogenic virus from avian species to cetaceans. The H5N1 strain has already caused many bird deaths in Europe and North America, and it is now believed to have infected over 112 species, including marine birds.\n\nSince December 2021, there have been increasing reports of H5N1 infections in wild bird species in Europe, and even mammals such as red foxes and mustelids are not immune to viral spillover.\n\nAccording to recent findings, harbor seals (_Phoca vitulina_) and grey seals (_Halichoerus grypus_) in North America are susceptible to the highly pathogenic H5N1 avian influenza virus. Although seals have been known to be vulnerable to influenza A viral infections, there are very few reports of influenza infections in cetaceans. Hence, the discovery of an H5N1 infection in a _Phocoena phocoena_ (harbor porpoise) individual is alarming.\n\nIn this study, researchers reported a case of a stranded male _P. phocoena_ individual on the west coast of Sweden. The porpoise appeared to be unwell, and it was swimming in circles, unable to right itself. Unfortunately, the porpoise died shortly after getting stranded, and therefore the carcass was subjected to necropsy.\n\nTypically, when porpoises are found stranded, they undergo screening to detect the presence of cetacean morbilliviruses and influenza A virus, both of which can affect the nervous system in cetaceans as well as other species.\n\nTo test for cetacean morbillivirus, samples of the spleen, lung, and brain are analyzed using a technique called real-time reverse-transcriptase polymerase chain reaction (rRT-PCR). Additionally, samples taken from the bronchial and lung swabs are examined to detect the presence of influenza A viral genome.\n\nAfter identifying the presence of the influenza A virus in the swab samples, further analysis was conducted on other organs to measure the viral loads. Moreover, a technique called immunohistochemical analysis was carried out using a primary monoclonal antibody specific to the influenza A nucleoprotein, which is commercially available, to determine the distribution of the viral antigen and its relationship with pathological lesions.\n\nThe necropsy results indicated no major macroscopic findings except for pulmonary edema, which resulted from drowning. However, microscopic analysis of the brain revealed evidence of lymphoplasmacytic meningoencephalitis, characterized by gliosis, necrosis, vasculitis, and perivascular cuffing. Additionally, the lung tissue showed a higher number of alveolar macrophages and evidence of mononuclear septal thickening.\n\nAlthough cetacean morbilliviral ribonucleic acid (RNA) was not detected by rRT-PCR, swab samples revealed the presence of the H5N1 highly pathogenic avian influenza virus. High levels of the virus were found in the brain, followed by the lungs, kidney, liver, and spleen. No traces of the virus were found in the blubber, muscles, or intestines.\n\nDuring the immunohistochemical analysis, the researchers observed moderate levels of immunolabelling in the cytoplasm and nuclei of neurons, choroid plexus epithelial cells, and glial cells. Lower levels of antigens were found in the cytoplasm and nuclei of scattered alveolar cells, including sloughed epithelial cells and macrophages. No viral antigens were detected in any other tissue.\n\nThe researchers hypothesized that the meningoencephalitis could have been responsible for the unusual behavior observed in the harbor seal, ultimately leading to its death by drowning. The presence of high levels of the virus in the brain was consistent with infections of H5N1 clade 2.3.4.4b in mammalian species. Since the viral strain closely resembled the H5N1 strain circulating among wild birds, it is possible that the virus was transmitted through contaminated water or direct contact with an infected bird.\n\nThe findings suggest that the H5N1 virus has an expanding host range, and its sporadic infection in other mammalian species increases the risk of its growing transmissibility and virulence.\n\nIn summary, this study identified the highly pathogenic H5N1 avian influenza virus in a stranded harbor seal in Sweden. The necropsy showed microscopic evidence of lymphoplasmacytic meningoencephalitis, which was believed to be the probable cause of the abnormal behavior and subsequent drowning.\n\nGenomic and immunohistochemical analyses revealed high levels of the H5N1 virus in the brain and lungs. These findings underscore the growing risk of H5N1 spillover to mammalian species and highlight the urgent need for enhanced animal health surveillance and intervention strategies.\n\n--\n"
-    },
-    {
         "archive_number": "20230426.8709706",
         "publication_date": "20230426",
         "url": "https://promedmail.org/promed-post/?id=20230426.8709706",
@@ -1861,7 +1758,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Sun 23 Apr 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "seal"
         ],
@@ -1888,7 +1785,7 @@ var promed = [
         "subpost_header": "",
         "event_date": "Wed 19 Apr 2023",
         "serotypes": "H5,H5N1,HPAI",
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "dolphin"
         ],
@@ -1915,7 +1812,7 @@ var promed = [
         "subpost_header": "Date: 7 April 2023",
         "event_date": "7 April 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "domestic cat"
         ],
@@ -1954,7 +1851,7 @@ var promed = [
         "subpost_header": "Date: April 2023",
         "event_date": "April 2023",
         "serotypes": [],
-        "mortality": "",
+        "mortality": "yes",
         "species": [
             "domestic cat"
         ],
@@ -1971,5 +1868,274 @@ var promed = [
         ],
         "GAUL": 1,
         "text": "Date: April 2023\nSource: University of Wyoming\nhttp://www.uwyo.edu/wyovet/announcements-and-updates/index.html\n\n\nWyoming State Veterinary Laboratory (WSVL) disease updates\n----------------------------------------------------------\nHighly pathogenic avian influenza in a domestic cat\n---------------------------------------------------\nWSVL diagnosed highly pathogenic avian influenza (HPAI) virus in a barn cat near Thermopolis, WY. We know wild birds, particularly water fowl, have been affected in large numbers by HPAI, but in recent months we have detected the virus in wild carnivorous mammals including mountain lions and a red fox. This is the first report of HPAI in a domestic cat in Wyoming, and it likely became infected from ingesting meat from wild waterfowl.\n\nClinical signs for mammals include those associated with neurological signs including change in behavior, decrease in awareness of surroundings and loss of energy. These signs may be indistinguishable from an animal affected with rabies. For testing of domestic species, we recommend your veterinarian submitting the whole carcass .\n\nPlease contact the Wyoming Game and Fish Dept (WGFD) for disposal recommendations for any dead waterfowl your pets can access, or to report dead or sick wild carnivores. As the HPAI outbreak continues, please make sure you are using gloves and masks when handling sick or dead mammals and birds. Report any sick wildlife to the WGFD through the online reporting tool at the link in the title.\n\n--\n"
-    } 
-];
+    },
+    {
+        "archive_number": "20230405.8709342",
+        "publication_date": "20230405",
+        "url": "https://promedmail.org/promed-post/?id=20230405.8709342",
+        "subject": "PRO/AH/EDR> Avian influenza (61): Americas (Chile) poultry, wild bird, mammal, H5N1, H5, WOAH",
+        "subpost": "1",
+        "subpost_header": "Bio Bio Region (Concepcion): poultry, H5N1",
+        "event_date": "Wed 5 Apr 2023",
+        "serotypes": "H5,H5N1",
+        "mortality": "yes",
+        "species": [],
+        "countries": [
+            "chile"
+        ],
+        "places": [
+            {
+                "name": "concepcion",
+                "lat": "-36.95773",
+                "lon": "-72.89674",
+                "country": "chile"
+            }
+        ],
+        "GAUL": 2,
+        "text": "Bio Bio Region (Concepcion): poultry, H5N1\nDate: Wed 5 Apr 2023\nSource: WOAH-WAHIS (World Animal Health Information System) 2023 \nhttps://wahis.woah.org/#/in-review/4997\n\n\nOn 24 Mar 2023, HPAI H5N1 was confirmed in a farm (Fundo Chequen) in Concepcion, Bio Bio Region. The affected population was composed of 53 950 laying hens in 2 houses. All the hens were at a production stage. The first building had 28 167 birds and the second 25 783 birds.\n\nDuring the inspection on 22 Mar 2023, sick birds with weakness, prostration, cyanosis in combs and wattles and numerous dead birds were observed in house 1 of the farm. Water and feed consumption and lay were normal. In house 2, at the time of the visit of the official veterinarians, there was no mortality, morbidity, or alteration of zootechnical parameters.\n\nThe biosecurity of the facility is of medium level. Near the houses (less than 100 metres "
+    },
+    {
+        "archive_number": "20230405.8709342",
+        "publication_date": "20230405",
+        "url": "https://promedmail.org/promed-post/?id=20230405.8709342",
+        "subject": "PRO/AH/EDR> Avian influenza (61): Americas (Chile) poultry, wild bird, mammal, H5N1, H5, WOAH",
+        "subpost": "2",
+        "subpost_header": "Valparaiso Region (Quillota): poultry, HPAI H5",
+        "event_date": "Wed 5 Apr 2023",
+        "serotypes": "H5,HPAI",
+        "mortality": "yes",
+        "species": [],
+        "countries": [
+            "chile"
+        ],
+        "places": [
+            {
+                "name": "nogales",
+                "lat": "-32.69153",
+                "lon": "-71.17678",
+                "country": "chile"
+            },
+            {
+                "name": "valparaiso",
+                "lat": "-33.12984",
+                "lon": "-71.57347",
+                "country": "chile"
+            }
+        ],
+        "GAUL": 3,
+        "text": "Valparaiso Region (Quillota): poultry, HPAI H5\nDate: Wed 5 Apr 2023\nSource: WOAH-WAHIS (World Animal Health Information System) 2023 \nhttps://wahis.woah.org/#/in-review/5005\n\n\nOn 29 Mar 2023, a complaint was received from a company located in the municipality of Nogales , Valparaiso Region, reporting increased mortality in a unit of male breeding turkeys. It is indicated that the birds presented sudden death and cyanosis. The unit is located 250 m "
+    },
+    {
+        "archive_number": "20230405.8709342",
+        "publication_date": "20230405",
+        "url": "https://promedmail.org/promed-post/?id=20230405.8709342",
+        "subject": "PRO/AH/EDR> Avian influenza (61): Americas (Chile) poultry, wild bird, mammal, H5N1, H5, WOAH",
+        "subpost": "3",
+        "subpost_header": "Wild bird season temporary ban",
+        "event_date": "Tue 4 Apr 2023",
+        "serotypes": "H5,H5N1",
+        "mortality": "yes",
+        "species": [],
+        "countries": [
+            {
+                "name": "chile",
+                "lat": "-35.675147",
+                "lon": "-71.542969"
+            }
+        ],
+        "places": [],
+        "GAUL": 0,
+        "text": "Wild bird season temporary ban\nDate: Tue 4 Apr 2023 12:37 CLST\nSource: Agricultural and Livestock Service, Chile Ministry of Agriculture \nhttps://www.sag.gob.cl/noticias/sag-suspende-temporada-de-caza-de-aves-silvestres\n\n\nIn view of the Animal Health Emergency due to avian influenza decreed by the SAG (Servicio Agr\u00edcola y Ganadero; agriculture and livestock agency) throughout the country, the Ministry of Agriculture has enacted a temporary ban on hunting all species of wild birds detailed in article No. 5 of the Regulation of Law No. 19,473. The measure, which comes into force today "
+    },
+    {
+        "archive_number": "20230405.8709342",
+        "publication_date": "20230405",
+        "url": "https://promedmail.org/promed-post/?id=20230405.8709342",
+        "subject": "PRO/AH/EDR> Avian influenza (61): Americas (Chile) poultry, wild bird, mammal, H5N1, H5, WOAH",
+        "subpost": "4",
+        "subpost_header": "SERNAPESCA: marine mammals and penguins",
+        "event_date": "Tue 4 Apr 2023",
+        "serotypes": "H5,H5N1",
+        "mortality": "yes",
+        "species": [
+            "marine mammal",
+            "sea lion"
+        ],
+        "countries": [
+            "chile"
+        ],
+        "places": [
+            {
+                "name": "arica",
+                "lat": "-18.5377",
+                "lon": "-69.97458",
+                "country": "chile"
+            }
+        ],
+        "GAUL": 3,
+        "text": "SERNAPESCA: marine mammals and penguins\nDate: Tue 4 Apr 2023\nSource: National Fisheries and Aquaculture Service (Servicio Nacional de Pesca y Acuicultura; SERNAPESCA), Chile Ministry of Economy, Development and Tourism \nhttp://www.sernapesca.cl/noticias/sernapesca-entrega-reporte-de-animales-marinos-varados-muertos-por-situacion-de-influenza-1\n\n\nThere are already 2513 specimens of common sea lions, Humboldt penguins and chungungos  that have stranded dead on the coasts of our country during the 1st quarter of 2023, mainly in the north.\n\nThe epidemiological situation of highly pathogenic avian influenza (HPAI) by H5 subtype of Eurasian lineage has continued to spread. There are 9 regions of the country that have registered marine fauna protected by the Fisheries and Aquaculture Law with positivity for avian influenza, with positive cases from Arica to Biobio, only excepting the Metropolitan and Nuble regions.\n\nTo date "
+    },
+    {
+        "archive_number": "20230403.8709307",
+        "publication_date": "20230403",
+        "url": "https://promedmail.org/promed-post/?id=20230403.8709307",
+        "subject": "PRO/AH/EDR> Avian influenza (59): Americas (USA, Chile) mammal",
+        "subpost": "1",
+        "subpost_header": "USA (Texas): skunk",
+        "event_date": "Tue 21 Mar 2023",
+        "serotypes": [],
+        "mortality": "",
+        "species": [
+            "skunk"
+        ],
+        "countries": [
+            {
+                "name": "chile",
+                "lat": "-35.675147",
+                "lon": "-71.542969"
+            },
+            {
+                "name": "usa",
+                "lat": "37.09024",
+                "lon": "-95.712891"
+            }
+        ],
+        "places": [],
+        "GAUL": 0,
+        "text": "USA (Texas): skunk\nDate: Tue 21 Mar 2023\nSource: Texas Parks & Wildlife (TPWD) \nhttps://tpwd.texas.gov/newsmedia/releases/?req=20230321a\n\n\nThe National Veterinary Services Laboratories (NVSL) confirmed this week "
+    },
+    {
+        "archive_number": "20230403.8709307",
+        "publication_date": "20230403",
+        "url": "https://promedmail.org/promed-post/?id=20230403.8709307",
+        "subject": "PRO/AH/EDR> Avian influenza (59): Americas (USA, Chile) mammal",
+        "subpost": "2",
+        "subpost_header": "USA (California): mountain lion",
+        "event_date": "Wed 29 Mar 2023",
+        "serotypes": [],
+        "mortality": "",
+        "species": [
+            "mountain lion"
+        ],
+        "countries": [
+            "usa"
+        ],
+        "places": [
+            {
+                "name": "mono county",
+                "lat": "37.93899",
+                "lon": "-118.88671",
+                "country": "usa"
+            }
+        ],
+        "GAUL": 2,
+        "text": "USA (California): mountain lion\nDate: Wed 29 Mar 2023\nSource: Outbreak News Today \nhttps://outbreaknewstoday.com/california-h5n1-avian-influenza-detected-in-deceased-mountain-lions-37527/\n\n\nThe Eurasian strain of highly pathogenic avian influenza (HPAI H5N1) was detected in 2 mountain lions in Mono County in December 2022 and January 2023, according to wildlife health experts with the California Department of Fish and Wildlife (CDFW). While additional disease testing is being conducted to rule out the possibility of co-infections, HPAI H5N1 is suspected to be the cause of the death of both mountain lions.\n\nThis is the 2nd species of wild mammal known to have contracted HPAI H5N1 in California since the virus was reported in wild birds in July 2022. In January "
+    },
+    {
+        "archive_number": "20230403.8709307",
+        "publication_date": "20230403",
+        "url": "https://promedmail.org/promed-post/?id=20230403.8709307",
+        "subject": "PRO/AH/EDR> Avian influenza (59): Americas (USA, Chile) mammal",
+        "subpost": "3",
+        "subpost_header": "Chile: sea lion, marine otter (and penguin), excess mortality",
+        "event_date": "Sat 1 Apr 2023",
+        "serotypes": [],
+        "mortality": "yes",
+        "species": [
+            "marine otter",
+            "sea lion"
+        ],
+        "countries": [
+            {
+                "name": "chile",
+                "lat": "-35.675147",
+                "lon": "-71.542969"
+            },
+            {
+                "name": "usa",
+                "lat": "37.09024",
+                "lon": "-95.712891"
+            }
+        ],
+        "places": [],
+        "GAUL": 0,
+        "text": "Chile: sea lion, marine otter (and penguin), excess mortality\nDate: Sat 1 Apr 2023\nSource: Outbreak News Today \nhttps://outbreaknewstoday.com/chile-report-on-stranded-marine-animals-dead-due-to-avian-influenza-situation-36120/\n\n\nOn Friday "
+    },
+    {
+        "archive_number": "20230528.8710288",
+        "publication_date": "20230528",
+        "url": "https://promedmail.org/promed-post/?id=20230528.8710288",
+        "subject": "PRO/AH/EDR> Avian influenza (92): Americas (Canada) raccoon, HPAI H5N5, WOAH",
+        "subpost": "",
+        "subpost_header": "",
+        "event_date": "Thu 25 May 2023",
+        "serotypes": "H5,H5N5,HPAI",
+        "mortality": "yes",
+        "species": [
+            "raccoon"
+        ],
+        "countries": [
+            "canada"
+        ],
+        "places": [
+            {
+                "name": "prince",
+                "lat": "46.58337",
+                "lon": "-84.53327",
+                "country": "canada"
+            }
+        ],
+        "GAUL": 3,
+        "text": "AVIAN INFLUENZA (92): AMERICAS (CANADA) RACCOON, HPAI H5N5, WOAH\n****************************************************************\nA ProMED-mail post\nhttp://www.promedmail.org\nProMED-mail is a program of the\nInternational Society for Infectious Diseases\nhttp://www.isid.org\n\nDate: Thu 25 May 2023\nSource: WOAH-WAHIS (World Animal Health Information System) 2023 \nhttps://wahis.woah.org/#/in-review/5065\n\n\nCanada - influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds)\n--------------------------------------------------------------------------------\nSummary\nReport type: immediate notification\nStarted: 4 Apr 2023\nConfirmed: 19 May 2023\nReported: 24 May 2023\nReason for notification: unusual host species\nCausal agent: highly pathogenic avian influenza virus \nSerotype: H5N5\nNature of diagnosis: clinical, laboratory\nThis event pertains to the whole country.\n\nOutbreak location: Queens, Prince Edward Island\nStarted: 4 Apr 2023\nEpidemiological unit: not applicable\nAnimals affected:\nSpecies / Susceptible / Cases / Deaths / Killed and disposed of / Slaughtered or killed for commercial use / Vaccinated\nRacoon (Northern raccoon) (wild) / - / 2 / 2 / - / - / -\n\nEpidemiology\nSource of the outbreak(s) or origin of infection: contact with wild species, unknown or inconclusive\n\nEpidemiological comments: this is the 1st report of highly pathogenic avian influenza H5N5 in mammals in Canada. We previously reported wild birds with wholly Eurasian H5N5 from Prince Edward Island and New Brunswick (event 4754). We are now reporting 2 raccoons from Prince Edward Island found dead. The geographical marker is on the capital. For both raccoons, the virus contains wholly Eurasian genome segments. For detailed and current information on high pathogenicity avian influenza cases in wildlife, please consult: http://www.cwhc-rcsf.ca/avian_influenza.php.\n\nDiagnostic test results\nLaboratory name and type / Species / Outbreaks / Test / Result date / Result\nCanadian Food Inspection Agency (CFIA), National Centre for Foreign Animal Disease (NCFAD), Canadian Science Centre for Human and Animal Health / Racoon (Northern raccoon) / Gene sequencing / 19 May 2023 / Positive\nCanadian Food Inspection Agency (CFIA), National Centre for Foreign Animal Disease (NCFAD), Canadian Science Centre for Human and Animal Health / Racoon (Northern raccoon) / Real-time reverse transcription polymerase chain reaction (rRT-PCR) / 19 May 2023 / Positive\n\n\n\n--\n"
+    },
+    {
+        "archive_number": "20230506.8709886",
+        "publication_date": "20230506",
+        "url": "https://promedmail.org/promed-post/?id=20230506.8709886",
+        "subject": "PRO/AH/EDR> Avian influenza (81): Europe, captive bird, mammal, poultry, HPAI H5N1, WOAH",
+        "subpost": "1",
+        "subpost_header": "Lithuania (Alytaus): captive bird, HPAI H5N1",
+        "event_date": "Fri 5 May 2023",
+        "serotypes": "H5,H5N1,HPAI",
+        "mortality": "",
+        "species": [],
+        "countries": [],
+        "places": [],
+        "GAUL": 0,
+        "text": "Lithuania (Alytaus): captive bird, HPAI H5N1\nDate: Fri 5 May 2023\nSource: WOAH-WAHIS (World Animal Health Information System) 2023 \nhttps://wahis.woah.org/#/in-review/4979\n\n\nThe event started on 16 Mar 2023 and was confirmed on 16 Mar 2023. A total of one outbreak (submitted) has been reported to date "
+    },
+    {
+        "archive_number": "20230506.8709886",
+        "publication_date": "20230506",
+        "url": "https://promedmail.org/promed-post/?id=20230506.8709886",
+        "subject": "PRO/AH/EDR> Avian influenza (81): Europe, captive bird, mammal, poultry, HPAI H5N1, WOAH",
+        "subpost": "2",
+        "subpost_header": "Germany: mammals, HPAI H5N1",
+        "event_date": "Fri 5 May 2023",
+        "serotypes": "H5,H5N1,HPAI",
+        "mortality": "",
+        "species": [
+            "mammal"
+        ],
+        "countries": [],
+        "places": [],
+        "GAUL": 0,
+        "text": "Germany: mammals, HPAI H5N1\nDate: Fri 5 May 2023\nSource: WOAH-WAHIS (World Animal Health Information System) 2023 \nhttps://wahis.woah.org/#/in-review/5031\n\n\nThe event started on 1 Apr 2023 and was confirmed on 8 Apr 2023. A total of 8 outbreaks (submitted) have been reported to date "
+    },
+    {
+        "archive_number": "20230506.8709886",
+        "publication_date": "20230506",
+        "url": "https://promedmail.org/promed-post/?id=20230506.8709886",
+        "subject": "PRO/AH/EDR> Avian influenza (81): Europe, captive bird, mammal, poultry, HPAI H5N1, WOAH",
+        "subpost": "3",
+        "subpost_header": "Czech Republic (Morovskoslezsky): poultry, HPAI H5N1",
+        "event_date": "Fri 5 May 2023",
+        "serotypes": "H5,H5N1,HPAI",
+        "mortality": "",
+        "species": [],
+        "countries": [],
+        "places": [],
+        "GAUL": 0,
+        "text": "Czech Republic (Morovskoslezsky): poultry, HPAI H5N1\nDate: Fri 5 May 2023\nSource: WOAH-WAHIS (World Animal Health Information System) 2023 \nhttps://wahis.woah.org/#/in-review/5033\n\n\nThe event started on 30 Apr 2023 and was confirmed on 2 May 2023. A total of one outbreak (submitted) has been reported to date "
+    }
+]
